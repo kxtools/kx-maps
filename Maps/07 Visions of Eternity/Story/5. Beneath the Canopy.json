@@ -1,0 +1,374 @@
+{
+  "Name": "5. Beneath the Canopy",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-29T00:21:06.1610756Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "1. Sayida (talk)",
+      "TargetMapId": 1593,
+      "X": 587.9,
+      "Y": -606.54,
+      "Z": 2.08
+    },
+    {
+      "Name": "2. Colonel Rheff (talk)",
+      "TargetMapId": 1593,
+      "X": 608.91,
+      "Y": -583.76,
+      "Z": 3.22
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1593,
+      "X": 439.83,
+      "Y": -651.18,
+      "Z": 2.43
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1593,
+      "X": 759.96,
+      "Y": -596.64,
+      "Z": 15.73
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1593,
+      "X": 886.58,
+      "Y": -421.22,
+      "Z": 4.32
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1593,
+      "X": 330.16,
+      "Y": -485.14,
+      "Z": 29.21
+    },
+    {
+      "Name": "3. Magister Keadin (talk)",
+      "TargetMapId": 1593,
+      "X": 439.1,
+      "Y": -176.02,
+      "Z": 0.89
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1593,
+      "X": 462.26,
+      "Y": -108.98,
+      "Z": 9.69
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1593,
+      "X": 449.21,
+      "Y": -76.52,
+      "Z": 32.16
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1593,
+      "X": 411.46,
+      "Y": -127.41,
+      "Z": 13.72
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1593,
+      "X": 406.71,
+      "Y": -26.9,
+      "Z": 22.43
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1593,
+      "X": 344.25,
+      "Y": -18.23,
+      "Z": 3.68
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1593,
+      "X": 350.53,
+      "Y": -138.87,
+      "Z": 1.57
+    },
+    {
+      "Name": "   • 7",
+      "TargetMapId": 1593,
+      "X": 419.17,
+      "Y": -159.31,
+      "Z": 2.44
+    },
+    {
+      "Name": "   • 8",
+      "TargetMapId": 1593,
+      "X": 464.87,
+      "Y": -258.69,
+      "Z": 4.94
+    },
+    {
+      "Name": "   • Return",
+      "TargetMapId": 1593,
+      "X": 438.84,
+      "Y": -175.43,
+      "Z": 0.75
+    },
+    {
+      "Name": "4. Ember Doomforge (talk)",
+      "TargetMapId": 1593,
+      "X": 451.87,
+      "Y": 93.4,
+      "Z": 4.26
+    },
+    {
+      "Name": "   • ",
+      "TargetMapId": 1593,
+      "X": 456.06,
+      "Y": 97.29,
+      "Z": 3.01
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1593,
+      "X": 470.29,
+      "Y": 162.01,
+      "Z": 4.34
+    },
+    {
+      "Name": "   • ",
+      "TargetMapId": 1593,
+      "X": 456.06,
+      "Y": 97.29,
+      "Z": 3.01
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1593,
+      "X": 445.36,
+      "Y": 199.58,
+      "Z": 3.23
+    },
+    {
+      "Name": "   • ",
+      "TargetMapId": 1593,
+      "X": 456.06,
+      "Y": 97.29,
+      "Z": 3.01
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1593,
+      "X": 516.64,
+      "Y": 171.98,
+      "Z": 3.33
+    },
+    {
+      "Name": "   • ",
+      "TargetMapId": 1593,
+      "X": 456.06,
+      "Y": 97.29,
+      "Z": 3.01
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1593,
+      "X": 414.43,
+      "Y": 214.22,
+      "Z": 2.46
+    },
+    {
+      "Name": "   • ",
+      "TargetMapId": 1593,
+      "X": 456.06,
+      "Y": 97.29,
+      "Z": 3.01
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1593,
+      "X": 377.43,
+      "Y": 227.54,
+      "Z": 2.67
+    },
+    {
+      "Name": "   • ",
+      "TargetMapId": 1593,
+      "X": 456.06,
+      "Y": 97.29,
+      "Z": 3.01
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1593,
+      "X": 565.74,
+      "Y": 174.61,
+      "Z": 2.67
+    },
+    {
+      "Name": "5. First Mate (talk)",
+      "TargetMapId": 1593,
+      "X": 684.46,
+      "Y": 120.17,
+      "Z": 4.34
+    },
+    {
+      "Name": "   • Alternative valuable object",
+      "TargetMapId": 1593,
+      "X": 721.6,
+      "Y": 266.94,
+      "Z": 3.28
+    },
+    {
+      "Name": "   • Return (don't pay 10g)",
+      "TargetMapId": 1593,
+      "X": 684.46,
+      "Y": 120.17,
+      "Z": 4.34
+    },
+    {
+      "Name": "6. PTM (talk)",
+      "TargetMapId": 1593,
+      "X": 687.61,
+      "Y": 124.43,
+      "Z": 4.66
+    },
+    {
+      "Name": "7. Enter Instance",
+      "TargetMapId": 1593,
+      "X": 406.01,
+      "Y": 271.91,
+      "Z": 1.35
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1593,
+      "X": 455.77,
+      "Y": 333.17,
+      "Z": 3.07
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1593,
+      "X": 454.09,
+      "Y": 372.55,
+      "Z": 3.06
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1593,
+      "X": 441.22,
+      "Y": 408.48,
+      "Z": 3.27
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1593,
+      "X": 497.02,
+      "Y": 389.0,
+      "Z": 5.95
+    },
+    {
+      "Name": "   • Stairs",
+      "TargetMapId": 1593,
+      "X": 583.83,
+      "Y": 403.51,
+      "Z": 32.57
+    },
+    {
+      "Name": "   • Interact",
+      "TargetMapId": 1593,
+      "X": 582.52,
+      "Y": 417.13,
+      "Z": 32.56
+    },
+    {
+      "Name": "   • Boss (stay out of circle)",
+      "TargetMapId": 1593,
+      "X": 579.55,
+      "Y": 484.88,
+      "Z": 4.94
+    },
+    {
+      "Name": "   • Control panel",
+      "TargetMapId": 1593,
+      "X": 579.55,
+      "Y": 484.88,
+      "Z": 4.94
+    },
+    {
+      "Name": "   • Wait for door",
+      "TargetMapId": 1593,
+      "X": 577.83,
+      "Y": 459.88,
+      "Z": 55.59
+    },
+    {
+      "Name": "   • Teleport (cutscene)",
+      "TargetMapId": 1593,
+      "X": 578.83,
+      "Y": 494.61,
+      "Z": 53.88
+    },
+    {
+      "Name": "   • Read",
+      "TargetMapId": 1593,
+      "X": 617.72,
+      "Y": 490.55,
+      "Z": 57.03
+    },
+    {
+      "Name": "   • Kill (complete progress bar)",
+      "TargetMapId": 1593,
+      "X": 573.52,
+      "Y": 503.26,
+      "Z": 53.88
+    },
+    {
+      "Name": "   • Take",
+      "TargetMapId": 1593,
+      "X": 574.5,
+      "Y": 554.5,
+      "Z": 57.49
+    },
+    {
+      "Name": "   • Use Transporter",
+      "TargetMapId": 1593,
+      "X": 533.33,
+      "Y": 523.39,
+      "Z": 55.81
+    },
+    {
+      "Name": "8. Story instance",
+      "TargetMapId": 1593,
+      "X": 650.01,
+      "Y": -566.59,
+      "Z": 1.17
+    },
+    {
+      "Name": "   • PTM (talk - simon says)",
+      "TargetMapId": 1593,
+      "X": 602.91,
+      "Y": -619.96,
+      "Z": 1.37
+    },
+    {
+      "Name": "   • Wait here on dialogue",
+      "TargetMapId": 1593,
+      "X": 634.43,
+      "Y": -616.95,
+      "Z": 2.11
+    },
+    {
+      "Name": "   • PTM (talk and question x2)",
+      "TargetMapId": 1593,
+      "X": 602.91,
+      "Y": -619.96,
+      "Z": 1.37
+    }
+  ]
+}

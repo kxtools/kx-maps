@@ -1,0 +1,248 @@
+{
+  "Name": "Daily VoE Puzzle farm start Shipwreck",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Neorinakota",
+  "LastUpdated": "2025-11-02T04:31:39.5553061Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "[Shipwreck Strand] orb cavern",
+      "TargetMapId": 1595,
+      "X": -350.95,
+      "Y": -1023.89,
+      "Z": 34.87
+    },
+    {
+      "Name": "soaring copse (speak with npc)",
+      "TargetMapId": 1595,
+      "X": 435.14,
+      "Y": 706.96,
+      "Z": 1.45
+    },
+    {
+      "Name": "f",
+      "TargetMapId": 1595,
+      "X": 419.84,
+      "Y": 712.69,
+      "Z": 3.22
+    },
+    {
+      "Name": "1",
+      "TargetMapId": 1595,
+      "X": 420.03,
+      "Y": 704.85,
+      "Z": 115.83
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1595,
+      "X": 333.23,
+      "Y": 803.73,
+      "Z": 138.34
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1595,
+      "X": 324.02,
+      "Y": 698.8,
+      "Z": 152.11
+    },
+    {
+      "Name": "Freebooter Initiate - Put on Clothes",
+      "TargetMapId": 1595,
+      "X": -678.86,
+      "Y": -91.88,
+      "Z": 10.21
+    },
+    {
+      "Name": "Daily",
+      "TargetMapId": 1595,
+      "X": -638.57,
+      "Y": -12.64,
+      "Z": 33.52
+    },
+    {
+      "Name": "Chest",
+      "TargetMapId": 1595,
+      "X": -696.6,
+      "Y": 68.61,
+      "Z": 28.84
+    },
+    {
+      "Name": "Travel to Starlit Weald",
+      "TargetMapId": 1595,
+      "X": -815.63,
+      "Y": 578.4,
+      "Z": 17.01
+    },
+    {
+      "Name": "Start birdie benefactor (take the birb)",
+      "TargetMapId": 1595,
+      "X": 167.25,
+      "Y": -569.49,
+      "Z": 12.13
+    },
+    {
+      "Name": "1",
+      "TargetMapId": 1595,
+      "X": 185.98,
+      "Y": -584.94,
+      "Z": 53.24
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1595,
+      "X": 178.01,
+      "Y": -645.3,
+      "Z": 114.27
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1595,
+      "X": 78.24,
+      "Y": -667.87,
+      "Z": 240.1
+    },
+    {
+      "Name": "end",
+      "TargetMapId": 1595,
+      "X": 111.71,
+      "Y": -644.43,
+      "Z": 269.98
+    },
+    {
+      "Name": "suit",
+      "TargetMapId": 1595,
+      "X": 584.69,
+      "Y": 460.96,
+      "Z": 4.94
+    },
+    {
+      "Name": "1",
+      "TargetMapId": 1595,
+      "X": 572.86,
+      "Y": 470.92,
+      "Z": 18.37
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1595,
+      "X": 573.48,
+      "Y": 461.51,
+      "Z": 16.69
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1595,
+      "X": 592.05,
+      "Y": 467.59,
+      "Z": 18.68
+    },
+    {
+      "Name": "4",
+      "TargetMapId": 1595,
+      "X": 585.32,
+      "Y": 477.74,
+      "Z": 16.68
+    },
+    {
+      "Name": "5",
+      "TargetMapId": 1595,
+      "X": 577.64,
+      "Y": 464.08,
+      "Z": 17.21
+    },
+    {
+      "Name": "6",
+      "TargetMapId": 1595,
+      "X": 566.88,
+      "Y": 465.0,
+      "Z": 17.64
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1595,
+      "X": 578.45,
+      "Y": 489.56,
+      "Z": 4.94
+    },
+    {
+      "Name": "start",
+      "TargetMapId": 1595,
+      "X": 900.7,
+      "Y": 651.59,
+      "Z": 2.11
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 908.76,
+      "Y": 630.57,
+      "Z": 0.23
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 939.35,
+      "Y": 620.17,
+      "Z": 5.27
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 946.84,
+      "Y": 651.38,
+      "Z": 15.01
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 943.43,
+      "Y": 658.8,
+      "Z": 31.22
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 929.97,
+      "Y": 655.03,
+      "Z": 36.89
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 913.67,
+      "Y": 686.69,
+      "Z": 49.64
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 900.18,
+      "Y": 699.93,
+      "Z": 54.14
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 914.62,
+      "Y": 689.32,
+      "Z": 63.34
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 940.13,
+      "Y": 694.0,
+      "Z": 77.67
+    },
+    {
+      "Name": "finish f",
+      "TargetMapId": 1595,
+      "X": 907.7,
+      "Y": 693.84,
+      "Z": 83.17
+    }
+  ]
+}

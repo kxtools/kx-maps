@@ -1,0 +1,31 @@
+{
+  "Name": "Ponder the Pools",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T17:09:12.0488569Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Three tide pools (interact)",
+      "TargetMapId": 1595,
+      "X": -20.21,
+      "Y": 755.59,
+      "Z": -0.74
+    },
+    {
+      "Name": "Switch characters and switch back",
+      "TargetMapId": 1595,
+      "X": -30.57,
+      "Y": 774.26,
+      "Z": -0.66
+    },
+    {
+      "Name": "Do this until you hit 30/30",
+      "TargetMapId": 1595,
+      "X": -54.00,
+      "Y": 798.62,
+      "Z": -0.44
+    },
+  ]
+}

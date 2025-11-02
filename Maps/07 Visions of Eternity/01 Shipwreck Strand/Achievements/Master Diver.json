@@ -1,0 +1,80 @@
+{
+  "Name": "Sunken Chests",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-01T19:58:34.2872093Z",
+  "StartGameMapId": 39,
+  "Coordinates": [
+    {
+      "Name": "[Gendarran Fields]",
+      "TargetMapId": 39,
+      "X": 211.35,
+      "Y": 430.15,
+      "Z": -71.63
+    },
+    {
+      "Name": "[Harathi Hinterlands]",
+      "TargetMapId": 39,
+      "X": 759.12,
+      "Y": -760.84,
+      "Z": -72.82
+    },
+    {
+      "Name": "[Bloodtide Coast]",
+      "TargetMapId": 39,
+      "X": 324.66,
+      "Y": 482.08,
+      "Z": -58.98
+    },
+    {
+      "Name": "[Kessex Hills]",
+      "TargetMapId": 39,
+      "X": 137.73,
+      "Y": -419.79,
+      "Z": -62.71
+    },
+    {
+      "Name": "[Iron Marches]",
+      "TargetMapId": 39,
+      "X": 399.91,
+      "Y": 194.63,
+      "Z": -38.14
+    },
+    {
+      "Name": "[Snowden Drifts]",
+      "TargetMapId": 39,
+      "X": 94.7,
+      "Y": -451.89,
+      "Z": -27.33
+    },
+    {
+      "Name": "[Frostgorge Sound]",
+      "TargetMapId": 39,
+      "X": -42.54,
+      "Y": 192.67,
+      "Z": -16.09
+    },
+    {
+      "Name": "[Lornar's Pass]",
+      "TargetMapId": 39,
+      "X": -299.56,
+      "Y": -1160.15,
+      "Z": -45.93
+    },
+    {
+      "Name": "[Timberline Falls]",
+      "TargetMapId": 39,
+      "X": 542.62,
+      "Y": -609.43,
+      "Z": -99.31
+    },
+    {
+      "Name": "[Mount Maelstrom]",
+      "TargetMapId": 39,
+      "X": 681.11,
+      "Y": -154.04,
+      "Z": -197.97
+    }
+  ]
+}

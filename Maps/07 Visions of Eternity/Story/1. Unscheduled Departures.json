@@ -1,0 +1,633 @@
+{
+  "Name": "1. Unscheduled Departures",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-28T17:25:26.5417395Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "1. [Rata Sum] Enter Instance",
+      "TargetMapId": 1595,
+      "X": -66.22,
+      "Y": 144.89,
+      "Z": 470.67
+    },
+    {
+      "Name": "   • Councillor Ludo (meet)",
+      "TargetMapId": 1595,
+      "X": -439.59,
+      "Y": -691.83,
+      "Z": 3.56
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1595,
+      "X": -449.33,
+      "Y": -694.48,
+      "Z": 3.81
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": -478.37,
+      "Y": -674.31,
+      "Z": 3.96
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": -508.04,
+      "Y": -680.42,
+      "Z": 3.99
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": -542.16,
+      "Y": -692.15,
+      "Z": 4.02
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1595,
+      "X": -529.95,
+      "Y": -718.35,
+      "Z": 5.25
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1595,
+      "X": -483.26,
+      "Y": -714.83,
+      "Z": 4.78
+    },
+    {
+      "Name": "   • 7",
+      "TargetMapId": 1595,
+      "X": -394.92,
+      "Y": -696.92,
+      "Z": 3.56
+    },
+    {
+      "Name": "   • 8",
+      "TargetMapId": 1595,
+      "X": -403.57,
+      "Y": -743.59,
+      "Z": 4.01
+    },
+    {
+      "Name": "   • 9",
+      "TargetMapId": 1595,
+      "X": -435.8,
+      "Y": -747.69,
+      "Z": 5.38
+    },
+    {
+      "Name": "   • 10 (wait)",
+      "TargetMapId": 1595,
+      "X": -392.92,
+      "Y": -779.72,
+      "Z": 4.04
+    },
+    {
+      "Name": "   • Teleport (wait, kill, wait)",
+      "TargetMapId": 1595,
+      "X": -411.44,
+      "Y": -651.09,
+      "Z": 44.23
+    },
+    {
+      "Name": "   • 1 Potential Location (random)",
+      "TargetMapId": 1595,
+      "X": -397.03,
+      "Y": -611.02,
+      "Z": 45.98
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": -387.55,
+      "Y": -589.53,
+      "Z": 45.7
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": -377.15,
+      "Y": -584.98,
+      "Z": 45.69
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": -370.08,
+      "Y": -590.01,
+      "Z": 45.69
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1595,
+      "X": -380.55,
+      "Y": -605.36,
+      "Z": 45.69
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1595,
+      "X": -342.62,
+      "Y": -583.34,
+      "Z": 43.77
+    },
+    {
+      "Name": "   • Access Database (do this over and over) ",
+      "TargetMapId": 1595,
+      "X": -370.24,
+      "Y": -614.01,
+      "Z": 44.37
+    },
+    {
+      "Name": "   • Gate (teleport)",
+      "TargetMapId": 1595,
+      "X": -279.59,
+      "Y": -582.57,
+      "Z": 7.19
+    },
+    {
+      "Name": "   • Ludo (talk 2x and wait)",
+      "TargetMapId": 1595,
+      "X": 37.4900,
+      "Y": -394.37,
+      "Z": 136.73
+    },
+    {
+      "Name": "   • Teleport and Wait",
+      "TargetMapId": 1595,
+      "X": -20.72,
+      "Y": -555.45,
+      "Z": 135.83
+    },
+    {
+      "Name": "   • Lab Tech Zeba (talk and wait) ",
+      "TargetMapId": 1595,
+      "X": -26.900,
+      "Y": -570.65,
+      "Z": 135.73
+    },
+    {
+      "Name": "   • Kill",
+      "TargetMapId": 1595,
+      "X": 12.72,
+      "Y": -606.2,
+      "Z": 132.82
+    },
+    {
+      "Name": "   • 1 Read and Wait",
+      "TargetMapId": 1595,
+      "X": 25.51,
+      "Y": -608.7,
+      "Z": 132.96
+    },
+    {
+      "Name": "   • 2  Read and Wait",
+      "TargetMapId": 1595,
+      "X": 14.62,
+      "Y": -605.5,
+      "Z": 132.92
+    },
+    {
+      "Name": "   • 3  Read and Wait",
+      "TargetMapId": 1595,
+      "X": 13.68,
+      "Y": -614.32,
+      "Z": 132.94
+    },
+    {
+      "Name": "   • 4  Read and Wait",
+      "TargetMapId": 1595,
+      "X": 11.43,
+      "Y": -620.19,
+      "Z": 132.94
+    },
+    {
+      "Name": "   • Return (talk)",
+      "TargetMapId": 1595,
+      "X": 30.43,
+      "Y": -416.89,
+      "Z": 136.73
+    },
+    {
+      "Name": "2. [Lion's Arch] Sayida (talk)",
+      "TargetMapId": 1595,
+      "X": -409.45,
+      "Y": -103.72,
+      "Z": 0.92
+    },
+    {
+      "Name": "3. Enter Instance",
+      "TargetMapId": 1595,
+      "X": -418.8,
+      "Y": -110.72,
+      "Z": 0.92
+    },
+    {
+      "Name": "   • Sayida (talk, wait, kill)",
+      "TargetMapId": 1595,
+      "X": 1339.8,
+      "Y": 3.29,
+      "Z": 8.0
+    },
+    {
+      "Name": "   • Kill and Wait",
+      "TargetMapId": 1595,
+      "X": 1357.49,
+      "Y": -102.75,
+      "Z": 14.0
+    },
+    {
+      "Name": "   • Water bucket",
+      "TargetMapId": 1595,
+      "X": 1347.41,
+      "Y": -107.15,
+      "Z": 14.0
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1595,
+      "X": 1355.31,
+      "Y": -117.49,
+      "Z": 14.0
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": 1368.04,
+      "Y": -129.81,
+      "Z": 14.0
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": 1396.38,
+      "Y": -124.21,
+      "Z": 21.0
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": 1409.79,
+      "Y": -110.25,
+      "Z": 21.0
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1595,
+      "X": 1386.00,
+      "Y": -105.55,
+      "Z": 20.0
+    },
+    {
+      "Name": "   • Kill (random)",
+      "TargetMapId": 1595,
+      "X": 1386.00,
+      "Y": -105.55,
+      "Z": 20.0
+    },
+    {
+      "Name": "   • Teleport",
+      "TargetMapId": 1595,
+      "X": 1385.92,
+      "Y": -105.55,
+      "Z": 20.0
+    },
+    {
+      "Name": "   • Use Harpoons (wait after)",
+      "TargetMapId": 1595,
+      "X": 1365.74,
+      "Y": -105.96,
+      "Z": 14.0
+    },
+    {
+      "Name": "   • Sayida (talk)",
+      "TargetMapId": 1595,
+      "X": 427.46,
+      "Y": -147.62,
+      "Z": 10.0
+    },
+    {
+      "Name": "   • Kill",
+      "TargetMapId": 1595,
+      "X": 410.930,
+      "Y": -148.4,
+      "Z": 10.0
+    },
+    {
+      "Name": "   • Kill",
+      "TargetMapId": 1595,
+      "X": 317.530,
+      "Y": -168.03,
+      "Z": 14.0
+    },
+    {
+      "Name": "   • Teleport",
+      "TargetMapId": 1595,
+      "X": 400.80,
+      "Y": -198.7,
+      "Z": 36.0
+    },
+    {
+      "Name": "   • Isgarren (wait and talk)",
+      "TargetMapId": 1595,
+      "X": 431.790,
+      "Y": -143.98,
+      "Z": 10.0
+    },
+    {
+      "Name": "   • 1 (random spawns)",
+      "TargetMapId": 1595,
+      "X": 415.00,
+      "Y": -175.00,
+      "Z": 25.00
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": 443.220,
+      "Y": -181.31,
+      "Z": 35.0
+    },
+    {
+      "Name": "   • 3 (slow down)",
+      "TargetMapId": 1595,
+      "X": 427.830,
+      "Y": -164.84,
+      "Z": 15.0
+    },
+    {
+      "Name": "   • 4 (slow down)",
+      "TargetMapId": 1595,
+      "X": 420.450,
+      "Y": -141.47,
+      "Z": 10.0
+    },
+    {
+      "Name": "   • 5 (slow down)",
+      "TargetMapId": 1595,
+      "X": 313.600,
+      "Y": -161.82,
+      "Z": 15.0
+    },
+    {
+      "Name": "   • 6 (slow down)",
+      "TargetMapId": 1595,
+      "X": 293.07,
+      "Y": -173.61,
+      "Z": 31.0
+    },
+    {
+      "Name": "   • Teleport (resume speed)",
+      "TargetMapId": 1595,
+      "X": 302.470,
+      "Y": -193.07,
+      "Z": 74.0
+    },
+    {
+      "Name": "   • 7",
+      "TargetMapId": 1595,
+      "X": 301.570,
+      "Y": -231.46,
+      "Z": 32.0
+    },
+    {
+      "Name": "   • Use #3 skill (left) and wait (long)",
+      "TargetMapId": 1595,
+      "X": 421.710,
+      "Y": -170.58,
+      "Z": 71.0
+    },
+    {
+      "Name": "   • Teleport",
+      "TargetMapId": 1595,
+      "X": -32.420,
+      "Y": 191.010,
+      "Z": 8.0
+    },
+    {
+      "Name": "   • 1 (random spawns)",
+      "TargetMapId": 1595,
+      "X": -126.32,
+      "Y": 128.040,
+      "Z": 30.0
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": -104.08,
+      "Y": 92.73,
+      "Z": 16.0
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": -75.18,
+      "Y": 86.15,
+      "Z": 26.0
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": -33.89,
+      "Y": 171.69,
+      "Z": 31.0
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1595,
+      "X": -14.44,
+      "Y": 196.11,
+      "Z": 30.0
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1595,
+      "X": -43.93,
+      "Y": 199.74,
+      "Z": 42.0
+    },
+    {
+      "Name": "   • Use #3 skill (left) and wait (long)",
+      "TargetMapId": 1595,
+      "X": -17.18,
+      "Y": 178.6,
+      "Z": 71.0
+    },
+    {
+      "Name": "   • Teleport",
+      "TargetMapId": 1595,
+      "X": -152.56,
+      "Y": -55.260,
+      "Z": 8.0
+    },
+    {
+      "Name": "   • 1 (random spawns)",
+      "TargetMapId": 1595,
+      "X": -191.67,
+      "Y": -24.070,
+      "Z": 35.0
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": -192.3,
+      "Y": -47.24,
+      "Z": 50.0
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": -159.09,
+      "Y": -67.81,
+      "Z": 45.0
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": -146.40,
+      "Y": -44.750,
+      "Z": 45.0
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1595,
+      "X": -151.64,
+      "Y": 53.63,
+      "Z": 45.0
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1595,
+      "X": -170.05,
+      "Y": 67.22,
+      "Z": 46.0
+    },
+    {
+      "Name": "   • Use #5 skill (right) and wait (long)",
+      "TargetMapId": 1595,
+      "X": -171.96,
+      "Y": -50.67,
+      "Z": 71.0
+    },
+    {
+      "Name": "   • Teleport",
+      "TargetMapId": 1595,
+      "X": -424.7,
+      "Y": -326.47,
+      "Z": 9.0
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1595,
+      "X": -421.62,
+      "Y": -310.51,
+      "Z": 14.0
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": -455.80,
+      "Y": -324.07,
+      "Z": 50.0
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": -414.3,
+      "Y": -325.9,
+      "Z": 63.0
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": -393.99,
+      "Y": -208.60,
+      "Z": 18.0
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1595,
+      "X": -350.90,
+      "Y": -240.34,
+      "Z": 28.0
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1595,
+      "X": -419.80,
+      "Y": -218.59,
+      "Z": 50.0
+    },
+    {
+      "Name": "   • Use #4 skill (straight) and wait (long)",
+      "TargetMapId": 1595,
+      "X": -404.89,
+      "Y": -328.43,
+      "Z": 71.0
+    },
+    {
+      "Name": "   • Cutscene",
+      "TargetMapId": 1595,
+      "X": -404.89,
+      "Y": -328.43,
+      "Z": 71.0
+    },
+    {
+      "Name": "   • Teleport",
+      "TargetMapId": 1595,
+      "X": -806.50,
+      "Y": -295.26,
+      "Z": 8.0
+    },
+    {
+      "Name": "   • Grab Rope (target ally, throw rope, reel them in)",
+      "TargetMapId": 1595,
+      "X": -810.69,
+      "Y": -278.67,
+      "Z": 8.0
+    },
+    {
+      "Name": "   • Wait for Cutscene",
+      "TargetMapId": 1595,
+      "X": -810.69,
+      "Y": -278.67,
+      "Z": 8.0
+    },
+    {
+      "Name": "   • Sayida (talk)",
+      "TargetMapId": 1595,
+      "X": 756.75,
+      "Y": 929.25,
+      "Z": 10.2
+    },
+    {
+      "Name": "   • Pick up",
+      "TargetMapId": 1595,
+      "X": 757.04,
+      "Y": 933.06,
+      "Z": 10.16
+    },
+    {
+      "Name": "   • Drop off",
+      "TargetMapId": 1595,
+      "X": 663.29,
+      "Y": 790.08,
+      "Z": 0.16
+    },
+    {
+      "Name": "4. Isgarren (talk)",
+      "TargetMapId": 1595,
+      "X": 646.13,
+      "Y": 779.98,
+      "Z": 0.29
+    }
+  ]
+}

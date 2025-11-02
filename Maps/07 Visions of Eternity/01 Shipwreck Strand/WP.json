@@ -1,0 +1,31 @@
+{
+  "Name": "Waypoints",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-28T18:16:04.3339505Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+      {
+      "Name": "Dark Levianthan",
+      "TargetMapId": 1595,
+      "X": 697.5,
+      "Y": 811.27,
+      "Z": 0.99
+    },
+    {
+      "Name": "Hullgarden Pier",
+      "TargetMapId": 1595,
+      "X": 638.55,
+      "Y": 14.69,
+      "Z": 2.13
+    },
+    {
+      "Name": "Pub Canach",
+      "TargetMapId": 1595,
+      "X": 272.31,
+      "Y": -565.76,
+      "Z": 1.14
+    }
+  ]
+}

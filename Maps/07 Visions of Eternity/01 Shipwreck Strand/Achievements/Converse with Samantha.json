@@ -1,0 +1,17 @@
+{
+  "Name": "Converse with Samantha",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T04:27:19.1306113Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 560.42,
+      "Y": 120.2,
+      "Z": 0.48
+    }
+  ]
+}

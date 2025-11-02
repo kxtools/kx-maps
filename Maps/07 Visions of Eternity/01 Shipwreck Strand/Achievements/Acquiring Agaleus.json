@@ -1,0 +1,290 @@
+{
+  "Name": "Acquiring Agaleus",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T01:09:28.1919554Z",
+  "StartGameMapId": 30,
+  "Coordinates": [
+    {
+      "Name": "01. [Shipwreck Strand] Captain",
+      "TargetMapId": 30,
+      "X": 319.99,
+      "Y": -508.98,
+      "Z": 6.34
+    },
+    {
+      "Name": "02. [Shipwreck Strand] Make Drink for Captain",
+      "TargetMapId": 30,
+      "X": 340.59,
+      "Y": -500.78,
+      "Z": 6.52
+    },
+    {
+      "Name": "     • Light Ale",
+      "TargetMapId": 30,
+      "X": 344.37,
+      "Y": -494.38,
+      "Z": 6.55
+    },
+    {
+      "Name": "        • Add to cup",
+      "TargetMapId": 30,
+      "X": 344.82,
+      "Y": -499.92,
+      "Z": 6.55
+    },
+    {
+      "Name": "     • Honey",
+      "TargetMapId": 30,
+      "X": 296.71,
+      "Y": -475.81,
+      "Z": 2.71
+    },
+    {
+      "Name": "        • Add to cup",
+      "TargetMapId": 30,
+      "X": 344.82,
+      "Y": -499.92,
+      "Z": 6.55
+    },
+    {
+      "Name": "     • Cinnamon",
+      "TargetMapId": 30,
+      "X": 301.14,
+      "Y": -485.28,
+      "Z": 2.75
+    },
+    {
+      "Name": "        • Add to cup",
+      "TargetMapId": 30,
+      "X": 344.82,
+      "Y": -499.92,
+      "Z": 6.55
+    },
+    {
+      "Name": "     • Return",
+      "TargetMapId": 30,
+      "X": 319.44,
+      "Y": -508.27,
+      "Z": 6.34
+    },
+    {
+      "Name": "03. [Shipwreck Strand] Captain",
+      "TargetMapId": 30,
+      "X": 319.44,
+      "Y": -508.27,
+      "Z": 6.34
+    },
+    {
+      "Name": "04. [Lions Arch] Master Diver (buy 10 keys)",
+      "TargetMapId": 30,
+      "X": -415.78,
+      "Y": -0.6,
+      "Z": 2.16
+    },
+    {
+      "Name": "     • Complete Master Diver achievement",
+      "TargetMapId": 30,
+      "X": -415.78,
+      "Y": -0.6,
+      "Z": 2.16
+    },
+    {
+      "Name": "05. [Lions Arch] Master Diver",
+      "TargetMapId": 30,
+      "X": -415.78,
+      "Y": -0.6,
+      "Z": 2.16
+    },
+    {
+      "Name": "     • Choose aquabreather",
+      "TargetMapId": 30,
+      "X": -415.78,
+      "Y": -0.6,
+      "Z": 2.16
+    },
+    {
+      "Name": "     • Have 1 or 2 spare ornate keys",
+      "TargetMapId": 30,
+      "X": -415.78,
+      "Y": -0.6,
+      "Z": 2.16
+    },
+    {
+      "Name": "06. [Lions Arch] Chest",
+      "TargetMapId": 30,
+      "X": 704.53,
+      "Y": -500.82,
+      "Z": 2.85
+    },
+    {
+      "Name": "07. [Fractals] Siren's Reef or Aquatic Ruins",
+      "TargetMapId": 30,
+      "X": 180.84,
+      "Y": -298.79,
+      "Z": 39.67
+    },
+    {
+      "Name": "     • After boss, open sunken chests",
+      "TargetMapId": 30,
+      "X": 180.84,
+      "Y": -298.79,
+      "Z": 39.67
+    },
+    {
+      "Name": "08. [Shipwreck Strand] Mount Skimmer",
+      "TargetMapId": 30,
+      "X": 697.49,
+      "Y": 811.25,
+      "Z": 0.98
+    },
+    {
+      "Name": "     • Use Aetherlocation skill for chests",
+      "TargetMapId": 30,
+      "X": 697.49,
+      "Y": 811.25,
+      "Z": 0.98
+    },
+    {
+      "Name": "     • Use Nodes.json in Shipwreck folder",
+      "TargetMapId": 30,
+      "X": 697.49,
+      "Y": 811.25,
+      "Z": 0.98
+    },
+    {
+      "Name": "09. [Bloodtide Coast] Taidha Covington Meta",
+      "TargetMapId": 30,
+      "X": -271.81,
+      "Y": 293.35,
+      "Z": 66.32
+    },
+    {
+      "Name": "     • Chest (spawns every 3 hours)",
+      "TargetMapId": 30,
+      "X": -173.21,
+      "Y": 252.01,
+      "Z": 22.31
+    },
+    {
+      "Name": "10. [Shipwreck Strand] Put On",
+      "TargetMapId": 30,
+      "X": -680.69,
+      "Y": -93.18,
+      "Z": 8.2
+    },
+    {
+      "Name": "     • Chest",
+      "TargetMapId": 30,
+      "X": -696.2,
+      "Y": 69.51,
+      "Z": 28.84
+    },
+    {
+      "Name": "11. [Gendarran Fields] Note",
+      "TargetMapId": 30,
+      "X": 560.37,
+      "Y": 433.54,
+      "Z": 0.52
+    },
+    {
+      "Name": "12. [Gendarran Fields] Chest",
+      "TargetMapId": 30,
+      "X": 997.53,
+      "Y": 549.08,
+      "Z": 78.72
+    },
+    {
+      "Name": "13. [Shipwreck Strand] Chest",
+      "TargetMapId": 30,
+      "X": -435.96,
+      "Y": -556.81,
+      "Z": -56.8
+    },
+    {
+      "Name": "14. [Shipwreck Strand] Freebooters",
+      "TargetMapId": 30,
+      "X": -411.46,
+      "Y": -211.3,
+      "Z": 10.66
+    },
+    {
+      "Name": "     • Kill freeboter npcs until it drops",
+      "TargetMapId": 30,
+      "X": -411.46,
+      "Y": -211.3,
+      "Z": 10.66
+    },
+    {
+      "Name": "15. [Southsun Cove] Chest",
+      "TargetMapId": 30,
+      "X": 367.83,
+      "Y": -481.88,
+      "Z": -123.38
+    },
+    {
+      "Name": "16. [Lions Arch] Chest",
+      "TargetMapId": 30,
+      "X": -463.05,
+      "Y": -414.71,
+      "Z": -223.7
+    },
+    {
+      "Name": "17. [Cursed Shore] Chest",
+      "TargetMapId": 30,
+      "X": 397.2,
+      "Y": -1394.09,
+      "Z": -55.16
+    },
+    {
+      "Name": "18. [Shipwreck Strand] Captain",
+      "TargetMapId": 30,
+      "X": 320.45,
+      "Y": -508.64,
+      "Z": 6.35
+    },
+    {
+      "Name": "19. [Shipwreck Strand] Cecil",
+      "TargetMapId": 30,
+      "X": 320.41,
+      "Y": -502.15,
+      "Z": 6.25
+    },
+    {
+      "Name": "20. [Shipwreck Strand] Castaway (relog)",
+      "TargetMapId": 30,
+      "X": 88.47,
+      "Y": 1032.08,
+      "Z": 54.71
+    },
+    {
+      "Name": "21. [Frostgorge Sound] Ghost Shark (relog)",
+      "TargetMapId": 30,
+      "X": -48.58,
+      "Y": 771.72,
+      "Z": -84.41
+    },
+    {
+      "Name": "22. [Frostgorge Sound] Dungeon (any path)",
+      "TargetMapId": 30,
+      "X": 127.92,
+      "Y": 691.19,
+      "Z": 9.36
+    },
+    {
+      "Name": "23. [Frostgorge Sound] Ghost Shark",
+      "TargetMapId": 30,
+      "X": -48.58,
+      "Y": 771.72,
+      "Z": -84.41
+    },
+    {
+      "Name": "24. [Shipwreck Strand] Castaway",
+      "TargetMapId": 30,
+      "X": 88.47,
+      "Y": 1032.08,
+      "Z": 54.71
+    },
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "Name": "starlit mirrors",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Neorinakota",
+  "LastUpdated": "2025-11-01T15:16:18.1873833Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "mirror",
+      "TargetMapId": 1593,
+      "X": 163.81,
+      "Y": -137.98,
+      "Z": 85.13
+    },
+    {
+      "Name": "mirror",
+      "TargetMapId": 1593,
+      "X": -98.42,
+      "Y": -598.11,
+      "Z": 30.73
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -97.43,
+      "Y": -786.63,
+      "Z": 79.27
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -354.05,
+      "Y": -803.47,
+      "Z": 149.08
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -369.9,
+      "Y": -436.37,
+      "Z": 67.74
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 143.88,
+      "Y": -422.17,
+      "Z": 1.72
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 317.59,
+      "Y": -342.84,
+      "Z": 3.23
+    },
+    {
+      "Name": "mirror",
+      "TargetMapId": 1593,
+      "X": 349.38,
+      "Y": -682.8,
+      "Z": 49.02
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 462.03,
+      "Y": -526.59,
+      "Z": 3.03
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 576.8,
+      "Y": -336.69,
+      "Z": 4.69
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 597.64,
+      "Y": -212.07,
+      "Z": 41.13
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 462.22,
+      "Y": 80.45,
+      "Z": 2.21
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 686.21,
+      "Y": 123.26,
+      "Z": 4.78
+    },
+    {
+      "Name": "mirror",
+      "TargetMapId": 1593,
+      "X": 669.29,
+      "Y": 623.82,
+      "Z": 35.81
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 497.18,
+      "Y": 535.05,
+      "Z": 48.13
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 626.05,
+      "Y": 425.65,
+      "Z": 7.78
+    },
+    {
+      "Name": "mirror",
+      "TargetMapId": 1593,
+      "X": 112.74,
+      "Y": 568.78,
+      "Z": 108.46
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 319.05,
+      "Y": 278.61,
+      "Z": 13.72
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 25.35,
+      "Y": 225.9,
+      "Z": 27.15
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -205.49,
+      "Y": 308.48,
+      "Z": 58.48
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -250.4,
+      "Y": 732.1,
+      "Z": 1.71
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 105.12,
+      "Y": 837.08,
+      "Z": 29.87
+    },
+    {
+      "Name": "mirror",
+      "TargetMapId": 1593,
+      "X": -533.95,
+      "Y": 495.89,
+      "Z": 183.62
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -429.97,
+      "Y": 638.5,
+      "Z": 114.0
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -409.42,
+      "Y": 293.27,
+      "Z": 116.83
+    },
+    {
+      "Name": "mirror",
+      "TargetMapId": 1593,
+      "X": -484.01,
+      "Y": -24.64,
+      "Z": 167.22
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -611.26,
+      "Y": -92.49,
+      "Z": 128.73
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -723.49,
+      "Y": -205.08,
+      "Z": 130.97
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -952.61,
+      "Y": -115.29,
+      "Z": 87.8
+    },
+    {
+      "Name": "mirror",
+      "TargetMapId": 1593,
+      "X": -876.11,
+      "Y": -387.72,
+      "Z": 81.15
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -1008.09,
+      "Y": -569.25,
+      "Z": 80.41
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -870.14,
+      "Y": -767.9,
+      "Z": 77.43
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -408.75,
+      "Y": -660.82,
+      "Z": 80.45
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": -404.57,
+      "Y": -796.17,
+      "Z": 117.31
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 809.46,
+      "Y": -596.92,
+      "Z": 1.4
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 812.35,
+      "Y": -158.09,
+      "Z": 21.53
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Shipwreck Strand's Freshest Water",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Neorinakota",
+  "LastUpdated": "2025-10-31T21:26:43.1587611Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "1",
+      "TargetMapId": 1595,
+      "X": -794.49,
+      "Y": 150.02,
+      "Z": 104.99
+    }
+  ]
+}

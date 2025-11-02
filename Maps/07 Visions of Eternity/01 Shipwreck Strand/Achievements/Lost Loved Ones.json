@@ -1,0 +1,143 @@
+{
+  "Name": "Lost Loved Ones",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-10-28T19:07:53.7895063Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "01. Find the message in the bottle",
+      "TargetMapId": 1595,
+      "X": 642.05,
+      "Y": -178.49,
+      "Z": 0.14
+    },
+    {
+      "Name": "02. Return the letter to the sender",
+      "TargetMapId": 1595,
+      "X": 519.01,
+      "Y": 41.55,
+      "Z": 35.19
+    },
+    {
+      "Name": "03. Bring Lyla's token to the remains",
+      "TargetMapId": 1595,
+      "X": 840.05,
+      "Y": -54.06,
+      "Z": -57.01
+    },
+    {
+      "Name": "04. Let Lyla know you've returned the trinket",
+      "TargetMapId": 1595,
+      "X": 519.01,
+      "Y": 41.55,
+      "Z": 35.19
+    },
+    {
+      "Name": "05. Leave gold at Harvey's resting place",
+      "TargetMapId": 1595,
+      "X": 748.45,
+      "Y": -985.37,
+      "Z": -50.86
+    },
+    {
+      "Name": "06. Light candles at Mikki's parent's grave",
+      "TargetMapId": 1595,
+      "X": -750.97,
+      "Y": 460.76,
+      "Z": 93.57
+    },
+    {
+      "Name": "07. Get a musical instrument for Liz",
+      "TargetMapId": 1595,
+      "X": 378.06,
+      "Y": 255.24,
+      "Z": 28.43
+    },
+    {
+      "Name": "     • Dampfur (spawns randomly around village)",
+      "TargetMapId": 1595,
+      "X": 378.06,
+      "Y": 255.24,
+      "Z": 28.43
+    },
+    {
+      "Name": "08. Play Liz's song near last seen",
+      "TargetMapId": 1595,
+      "X": 210.33,
+      "Y": -983.44,
+      "Z": 34.42
+    },
+    {
+      "Name": "09. Pick a bouquet for Robert",
+      "TargetMapId": 1595,
+      "X": -671.31,
+      "Y": -90.16,
+      "Z": 91.19
+    },
+    {
+      "Name": "     • Pick bouquet",
+      "TargetMapId": 1595,
+      "X": -689.7,
+      "Y": -51.45,
+      "Z": 92.09
+    },
+    {
+      "Name": "     • Place bouquet",
+      "TargetMapId": 1595,
+      "X": -670.68,
+      "Y": -88.57,
+      "Z": 91.11
+    },
+    {
+      "Name": "10. Place stone on Pine's resting place",
+      "TargetMapId": 1595,
+      "X": 209.52,
+      "Y": 1091.68,
+      "Z": -10.08
+    },
+    {
+      "Name": "     • Pickup stone",
+      "TargetMapId": 1595,
+      "X": 81.0,
+      "Y": 836.78,
+      "Z": 0.25
+    },
+    {
+      "Name": "     • Place stone",
+      "TargetMapId": 1595,
+      "X": 210.29,
+      "Y": 1092.78,
+      "Z": -9.83
+    },
+    {
+      "Name": "11. Go to Gertie's grave and tell a story",
+      "TargetMapId": 1595,
+      "X": 431.66,
+      "Y": -950.86,
+      "Z": 36.58
+    },
+    {
+      "Name": "12. Seek me out once more",
+      "TargetMapId": 1595,
+      "X": 834.21,
+      "Y": -51.59,
+      "Z": -54.84
+    },
+    {
+      "Name": "13. Reunite Karina and Lyla",
+      "TargetMapId": 1595,
+      "X": 518.94,
+      "Y": 42.77,
+      "Z": 34.8
+    },
+    {
+      "Name": "14. Let Amy May know you helped",
+      "TargetMapId": 1595,
+      "X": 484.14,
+      "Y": 181.03,
+      "Z": 36.4
+    }
+  ]
+}

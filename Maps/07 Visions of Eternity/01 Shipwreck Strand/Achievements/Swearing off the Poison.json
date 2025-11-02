@@ -1,0 +1,31 @@
+{
+  "Name": "Swearing off the Poison",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T18:46:52.7277477Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Wait for Event",
+      "TargetMapId": 1595,
+      "X": -484.17,
+      "Y": -159.39,
+      "Z": 9.55
+    },
+    {
+      "Name": "Revive one drink and protect them",
+      "TargetMapId": 1595,
+      "X": -484.17,
+      "Y": -159.39,
+      "Z": 9.55
+    },
+    {
+      "Name": "Destroy bar",
+      "TargetMapId": 1595,
+      "X": -484.17,
+      "Y": -159.39,
+      "Z": 9.55
+    }
+  ]
+}

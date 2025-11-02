@@ -1,0 +1,80 @@
+{
+  "Name": "Captain Leo the Relentless",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-10-28T22:56:07.7018645Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "01. Find the Boy",
+      "TargetMapId": 1595,
+      "X": 399.96,
+      "Y": 609.35,
+      "Z": 22.55
+    },
+    {
+      "Name": "02. Sailor",
+      "TargetMapId": 1595,
+      "X": -120.64,
+      "Y": 898.56,
+      "Z": 45.87
+    },
+    {
+      "Name": "03. Gunner",
+      "TargetMapId": 1595,
+      "X": -589.33,
+      "Y": -172.39,
+      "Z": 5.09
+    },
+    {
+      "Name": "04. Navigator",
+      "TargetMapId": 1595,
+      "X": -102.37,
+      "Y": 133.02,
+      "Z": 17.17
+    },
+    {
+      "Name": "05. Cook",
+      "TargetMapId": 1595,
+      "X": 374.39,
+      "Y": -515.02,
+      "Z": 6.51
+    },
+    {
+      "Name": "06. Boatswain",
+      "TargetMapId": 1595,
+      "X": -310.07,
+      "Y": -628.95,
+      "Z": 62.89
+    },
+    {
+      "Name": "07. Master-at-Arms",
+      "TargetMapId": 1595,
+      "X": 667.33,
+      "Y": -735.47,
+      "Z": 0.4
+    },
+    {
+      "Name": "08. Quartermaster",
+      "TargetMapId": 1595,
+      "X": -632.41,
+      "Y": 819.65,
+      "Z": 63.07
+    },
+    {
+      "Name": "09. First Mate",
+      "TargetMapId": 1595,
+      "X": -689.87,
+      "Y": 490.81,
+      "Z": 129.18
+    },
+    {
+      "Name": "10. Captain Leo",
+      "TargetMapId": 1595,
+      "X": 509.9,
+      "Y": -832.04,
+      "Z": -204.56
+    }
+  ]
+}

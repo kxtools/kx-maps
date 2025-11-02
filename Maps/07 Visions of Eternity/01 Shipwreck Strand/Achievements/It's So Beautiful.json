@@ -1,0 +1,31 @@
+{
+  "Name": "It's So Beautiful",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-31T23:17:56.1040781Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Start/Replay Episode 2",
+      "TargetMapId": 1595,
+      "X": 519.72,
+      "Y": 638.21,
+      "Z": 19.61
+    }
+    {
+      "Name": "1. Isgarren (talk)",
+      "TargetMapId": 1595,
+      "X": 645.82,
+      "Y": 783.93,
+      "Z": 0.29
+    }
+    {
+      "Name": "2. [Emote] /cry",
+      "TargetMapId": 1595,
+      "X": 519.72,
+      "Y": 638.21,
+      "Z": 19.61
+    }
+  ]
+}

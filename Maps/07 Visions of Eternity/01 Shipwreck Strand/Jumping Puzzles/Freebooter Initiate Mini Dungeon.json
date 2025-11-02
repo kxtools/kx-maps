@@ -1,0 +1,25 @@
+{
+  "Name": "JP/MP - Freebooter Initiate",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-10-28T22:07:26.0448026Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Start - Put on Clothes",
+      "TargetMapId": 1595,
+      "X": -678.86,
+      "Y": -91.88,
+      "Z": 10.21
+    },
+    
+    {
+      "Name": "Final Chest",
+      "TargetMapId": 1595,
+      "X": -697.0,
+      "Y": 69.23,
+      "Z": 28.84
+    }
+  ]
+}

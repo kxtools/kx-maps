@@ -1,0 +1,66 @@
+{
+  "Name": "Dog Trainer",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T04:49:09.6758324Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 457.65,
+      "Y": -26.55,
+      "Z": 43.83
+    },
+    {
+      "Name": "1. Sit",
+      "TargetMapId": 1595,
+      "X": 453.96,
+      "Y": -11.39,
+      "Z": 45.0
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 457.65,
+      "Y": -26.55,
+      "Z": 43.83
+    },
+    {
+      "Name": "2. Speak",
+      "TargetMapId": 1595,
+      "X": 453.96,
+      "Y": -11.39,
+      "Z": 45.0
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 457.65,
+      "Y": -26.55,
+      "Z": 43.83
+    },
+    {
+      "Name": "3. Roll",
+      "TargetMapId": 1595,
+      "X": 453.96,
+      "Y": -11.39,
+      "Z": 45.0
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 457.65,
+      "Y": -26.55,
+      "Z": 43.83
+    },
+    {
+      "Name": "4. Shake",
+      "TargetMapId": 1595,
+      "X": 453.96,
+      "Y": -11.39,
+      "Z": 45.0
+    }
+  ]
+}

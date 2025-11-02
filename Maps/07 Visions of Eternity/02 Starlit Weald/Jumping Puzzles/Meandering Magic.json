@@ -1,0 +1,87 @@
+{
+  "Name": "Meandering Magic",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "toverla",
+  "LastUpdated": "2025-11-01T00:06:44.3633971Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "start",
+      "TargetMapId": 1593,
+      "X": 900.7,
+      "Y": 651.59,
+      "Z": 2.11
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 908.76,
+      "Y": 630.57,
+      "Z": 0.23
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 939.35,
+      "Y": 620.17,
+      "Z": 5.27
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 946.84,
+      "Y": 651.38,
+      "Z": 15.01
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 943.43,
+      "Y": 658.8,
+      "Z": 31.22
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 929.97,
+      "Y": 655.03,
+      "Z": 36.89
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 913.67,
+      "Y": 686.69,
+      "Z": 49.64
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 900.18,
+      "Y": 699.93,
+      "Z": 54.14
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 914.62,
+      "Y": 689.32,
+      "Z": 63.34
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 940.13,
+      "Y": 694.0,
+      "Z": 77.67
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 907.7,
+      "Y": 693.84,
+      "Z": 83.17
+    }
+  ]
+}

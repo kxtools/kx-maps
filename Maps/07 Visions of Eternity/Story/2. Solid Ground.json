@@ -1,0 +1,332 @@
+{
+  "Name": "2. Solid Ground",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-28T19:24:51.3587930Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "1. Isgarren (talk)",
+      "TargetMapId": 1595,
+      "X": 645.88,
+      "Y": 781.32,
+      "Z": 0.27
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1595,
+      "X": 670.69,
+      "Y": 1003.7,
+      "Z": -12.67
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": 453.36,
+      "Y": 907.28,
+      "Z": 0.9
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": 544.8,
+      "Y": 809.13,
+      "Z": 48.15
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": 519.91,
+      "Y": 637.89,
+      "Z": 19.6
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1595,
+      "X": 486.6,
+      "Y": 874.03,
+      "Z": 0.39
+    },
+    {
+      "Name": "   • Interact",
+      "TargetMapId": 1595,
+      "X": 655.21,
+      "Y": 789.56,
+      "Z": 0.22
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": 480.92,
+      "Y": 957.55,
+      "Z": 6.74
+    },
+    {
+      "Name": "   • Interact",
+      "TargetMapId": 1595,
+      "X": 655.18,
+      "Y": 790.43,
+      "Z": 0.2
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": 426.75,
+      "Y": 918.64,
+      "Z": 0.32
+    },
+    {
+      "Name": "   • Interact",
+      "TargetMapId": 1595,
+      "X": 655.77,
+      "Y": 789.4,
+      "Z": 0.19
+    },
+    {
+      "Name": "2. Canach (talk)",
+      "TargetMapId": 1595,
+      "X": 640.39,
+      "Y": 781.83,
+      "Z": 0.27
+    },
+    {
+      "Name": "   • Deliver Food (random)",
+      "TargetMapId": 1595,
+      "X": 661.46,
+      "Y": 790.9,
+      "Z": 0.13
+    },
+    {
+      "Name": "   • Deliver Bandages (random)",
+      "TargetMapId": 1595,
+      "X": 655.84,
+      "Y": 790.33,
+      "Z": 0.2
+    },
+    {
+      "Name": "3. Sayida (talk)",
+      "TargetMapId": 1595,
+      "X": 650.49,
+      "Y": 787.03,
+      "Z": 0.28
+    },
+    {
+      "Name": "4. Mayor Osborne (talk)",
+      "TargetMapId": 1595,
+      "X": 509.35,
+      "Y": 197.26,
+      "Z": 37.94
+    },
+    {
+      "Name": "5. Wavehawk Pete (talk)",
+      "TargetMapId": 1595,
+      "X": 433.31,
+      "Y": 215.01,
+      "Z": 31.7
+    },
+    {
+      "Name": "   • Predator Tooth (kill hungry razortooth)",
+      "TargetMapId": 1595,
+      "X": 377.96,
+      "Y": 716.5,
+      "Z": 0.41
+    },
+    {
+      "Name": "   • Skimmer Treats",
+      "TargetMapId": 1595,
+      "X": 491.8,
+      "Y": -829.9,
+      "Z": 5.5
+    },
+    {
+      "Name": "   • Wavehawk Package",
+      "TargetMapId": 1595,
+      "X": 161.89,
+      "Y": 682.19,
+      "Z": 0.94
+    },
+    {
+      "Name": "   • Fishing Net",
+      "TargetMapId": 1595,
+      "X": 673.73,
+      "Y": 425.20,
+      "Z": -9.05
+    },
+    {
+      "Name": "   • Wavehawk Toy",
+      "TargetMapId": 1595,
+      "X": 487.9,
+      "Y": 244.25,
+      "Z": 0.6
+    },
+    {
+      "Name": "   • Token of Affection",
+      "TargetMapId": 1595,
+      "X": 605.03,
+      "Y": -437.22,
+      "Z": 0.71
+    },
+    {
+      "Name": "   • Return (talk)",
+      "TargetMapId": 1595,
+      "X": 433.31,
+      "Y": 215.01,
+      "Z": 31.7
+    },
+    {
+      "Name": "6. Mayor Osborne (talk)",
+      "TargetMapId": 1595,
+      "X": 509.35,
+      "Y": 197.26,
+      "Z": 37.94
+    },
+    {
+      "Name": "   • Heart (complete)",
+      "TargetMapId": 1595,
+      "X": 509.35,
+      "Y": 197.26,
+      "Z": 37.94
+    },
+    {
+      "Name": "   • Return (talk)",
+      "TargetMapId": 1595,
+      "X": 509.35,
+      "Y": 197.26,
+      "Z": 37.94
+    },
+    {
+      "Name": "7. Beachcomber Sparktail (talk)",
+      "TargetMapId": 1595,
+      "X": 562.60,
+      "Y": -23.37,
+      "Z": 1.67
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1595,
+      "X": 794.57,
+      "Y": -53.88,
+      "Z": -30.24
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": 830.73,
+      "Y": -69.08,
+      "Z": -52.62
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": 812.27,
+      "Y": -44.24,
+      "Z": -58.09
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": 815.21,
+      "Y": 70.97,
+      "Z": -33.2
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1595,
+      "X": 815.89,
+      "Y": 154.87,
+      "Z": -47.59
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1595,
+      "X": 783.99,
+      "Y": 84.81,
+      "Z": -24.23
+    },
+    {
+      "Name": "   • 7",
+      "TargetMapId": 1595,
+      "X": 816.43,
+      "Y": -151.98,
+      "Z": -21.27
+    },
+    {
+      "Name": "   • 8",
+      "TargetMapId": 1595,
+      "X": 832.48,
+      "Y": -151.53,
+      "Z": -39.93
+    },
+    {
+      "Name": "   • Investigate",
+      "TargetMapId": 1595,
+      "X": 819.47,
+      "Y": -191.11,
+      "Z": -26.82
+    },
+    {
+      "Name": "   • Return (talk)",
+      "TargetMapId": 1595,
+      "X": 562.60,
+      "Y": -23.37,
+      "Z": 1.67
+    },
+    {
+      "Name": "8. Canach (talk)",
+      "TargetMapId": 1595,
+      "X": 329.880,
+      "Y": -500.05,
+      "Z": 6.34
+    },
+    {
+      "Name": "   • Pick Up",
+      "TargetMapId": 1595,
+      "X": 325.56,
+      "Y": -499.97,
+      "Z": 6.34
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1595,
+      "X": 334.64,
+      "Y": -489.84,
+      "Z": 6.26
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1595,
+      "X": 339.21,
+      "Y": -572.35,
+      "Z": 0.61
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1595,
+      "X": 318.55,
+      "Y": -579.9,
+      "Z": 1.19
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1595,
+      "X": 299.030,
+      "Y": -604.96,
+      "Z": 0.33
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1595,
+      "X": 302.2,
+      "Y": -566.65,
+      "Z": 2.26
+    },
+    {
+      "Name": "   • Return",
+      "TargetMapId": 1595,
+      "X": 329.880,
+      "Y": -500.05,
+      "Z": 6.34
+    }
+  ]
+}

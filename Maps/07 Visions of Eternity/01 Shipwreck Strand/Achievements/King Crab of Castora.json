@@ -1,0 +1,17 @@
+{
+  "Name": "King Crab of Castora",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T04:30:50.1866084Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Event maybe up",
+      "TargetMapId": 1595,
+      "X": 624.56,
+      "Y": 573.9,
+      "Z": 2.65
+    }
+  ]
+}

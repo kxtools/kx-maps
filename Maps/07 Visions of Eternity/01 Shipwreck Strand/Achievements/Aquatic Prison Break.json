@@ -1,0 +1,17 @@
+{
+  "Name": "Aquatic Prison Break",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T18:59:32.8393436Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Wait for Event, you need 30",
+      "TargetMapId": 1595,
+      "X": -201.92,
+      "Y": -104.62,
+      "Z": -0.35
+    }
+  ]
+}

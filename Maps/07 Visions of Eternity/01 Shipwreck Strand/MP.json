@@ -1,0 +1,94 @@
+{
+  "Name": "Mastery Points",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-28T19:09:04.7307457Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Breezy Cay",
+      "TargetMapId": 1595,
+      "X": 446.81,
+      "Y": -489.89,
+      "Z": 44.43
+    },
+    {
+      "Name": "Glimmering Arches",
+      "TargetMapId": 1595,
+      "X": -61.24,
+      "Y": 565.16,
+      "Z": 132.87
+    },
+    {
+      "Name": "Guarded Glades",
+      "TargetMapId": 1595,
+      "X": -541.65,
+      "Y": 472.94,
+      "Z": 0.11
+    },
+    {
+      "Name": "Guarded Glades 2",
+      "TargetMapId": 1595,
+      "X": -638.33,
+      "Y": 210.57,
+      "Z": 195.38
+    },
+    {
+      "Name": "Hullgarden",
+      "TargetMapId": 1595,
+      "X": -62.56,
+      "Y": -162.77,
+      "Z": 172.58
+    },
+    {
+      "Name": "Jetsam Point",
+      "TargetMapId": 1595,
+      "X": 498.82,
+      "Y": -685.29,
+      "Z": 65.35
+    },
+    {
+      "Name": "Riddled Cove",
+      "TargetMapId": 1595,
+      "X": -144.64,
+      "Y": -592.75,
+      "Z": 128.53
+    },
+    {
+      "Name": "Riddled Cove 2",
+      "TargetMapId": 1595,
+      "X": -304.73,
+      "Y": -892.22,
+      "Z": -30.58
+    },
+    {
+      "Name": "Shoalstone",
+      "TargetMapId": 1595,
+      "X": -557.49,
+      "Y": 708.65,
+      "Z": 122.47
+    },
+    {
+      "Name": "Soaring Sands",
+      "TargetMapId": 1595,
+      "X": 266.13,
+      "Y": 1039.46,
+      "Z": 183.59
+    },
+    {
+      "Name": "Twisting Hollows",
+      "TargetMapId": 1595,
+      "X": -564.4,
+      "Y": -272.04,
+      "Z": 62.12
+    },
+    {
+      "Name": "Twisting Hollows 2",
+      "TargetMapId": 1595,
+      "X": -237.93,
+      "Y": -359.09,
+      "Z": 141.57
+    }
+  ]
+}

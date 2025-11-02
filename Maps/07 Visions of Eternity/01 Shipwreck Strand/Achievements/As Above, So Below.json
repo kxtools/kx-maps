@@ -1,0 +1,24 @@
+{
+  "Name": "As Above, So Below",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T17:02:35.4387200Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Highest Point (move around)",
+      "TargetMapId": 1595,
+      "X": -367.45,
+      "Y": -198.7,
+      "Z": 208.39
+    },
+    {
+      "Name": "Lowest Point (move around)",
+      "TargetMapId": 1595,
+      "X": -252.87,
+      "Y": 647.04,
+      "Z": -315.42
+    }
+  ]
+}

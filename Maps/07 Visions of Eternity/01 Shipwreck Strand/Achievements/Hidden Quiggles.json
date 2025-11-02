@@ -1,0 +1,17 @@
+{
+  "Name": "Hidden Quiggles",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-11-01T23:46:44.3625777Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 23.51,
+      "Y": 862.1,
+      "Z": -161.66
+    }
+  ]
+}

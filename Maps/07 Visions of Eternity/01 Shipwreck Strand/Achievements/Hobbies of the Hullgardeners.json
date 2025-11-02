@@ -1,0 +1,80 @@
+{
+  "Name": "Hobbies of the Hullgardeners",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T06:42:05.4767588Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "1. Fly a Kite (special action key)",
+      "TargetMapId": 1595,
+      "X": 619.48,
+      "Y": -182.9,
+      "Z": 0.26
+    },
+    {
+      "Name": "2. Make a paper boat",
+      "TargetMapId": 1595,
+      "X": 378.41,
+      "Y": 585.69,
+      "Z": 0.58
+    },
+    {
+      "Name": "    • Make Boat",
+      "TargetMapId": 1595,
+      "X": 378.41,
+      "Y": 585.69,
+      "Z": 0.58
+    },
+    {
+      "Name": "    • Place Boat",
+      "TargetMapId": 1595,
+      "X": 390.7,
+      "Y": 605.07,
+      "Z": 0.57
+    },
+    {
+      "Name": "3. Pick flowers for a local couple",
+      "TargetMapId": 1595,
+      "X": 430.31,
+      "Y": -117.37,
+      "Z": 4.11
+    },
+    {
+      "Name": "    • Pick flowers",
+      "TargetMapId": 1595,
+      "X": 430.31,
+      "Y": -117.37,
+      "Z": 4.11
+    },
+    {
+      "Name": "    • Give Flowers",
+      "TargetMapId": 1595,
+      "X": 553.7,
+      "Y": -227.27,
+      "Z": 0.27
+    },
+    {
+      "Name": "4. Help collect shells (random)",
+      "TargetMapId": 1595,
+      "X": 613.7,
+      "Y": -13.04,
+      "Z": 0.18
+    },
+    {
+      "Name": "    • Collect shell (nearby)",
+      "TargetMapId": 1595,
+      "X": 613.7,
+      "Y": -13.04,
+      "Z": 0.18
+    },
+    {
+      "Name": "    • Give shell",
+      "TargetMapId": 1595,
+      "X": 595.38,
+      "Y": -31.16,
+      "Z": 0.1
+    }
+  ]
+}

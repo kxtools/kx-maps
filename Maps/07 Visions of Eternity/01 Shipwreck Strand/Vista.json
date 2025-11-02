@@ -1,0 +1,52 @@
+{
+  "Name": "Vista",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-28T18:38:57.9538829Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Hullgarden",
+      "TargetMapId": 1595,
+      "X": 566.64,
+      "Y": 44.28,
+      "Z": 15.47
+    },
+    {
+      "Name": "Twisting Hollows",
+      "TargetMapId": 1595,
+      "X": -368.35,
+      "Y": -205.74,
+      "Z": 206.97
+    },
+    {
+      "Name": "Guarded Glades",
+      "TargetMapId": 1595,
+      "X": -791.93,
+      "Y": 188.03,
+      "Z": 169.86
+    },
+    {
+      "Name": "Morningrise Prow",
+      "TargetMapId": 1595,
+      "X": 700.37,
+      "Y": -592.79,
+      "Z": 105.52
+    },
+    {
+      "Name": "Breezy Cay",
+      "TargetMapId": 1595,
+      "X": 280.55,
+      "Y": -511.35,
+      "Z": 25.37
+    },
+    {
+      "Name": "Grogslinger's",
+      "TargetMapId": 1595,
+      "X": -479.19,
+      "Y": -187.62,
+      "Z": 68.57
+    }
+  ]
+}

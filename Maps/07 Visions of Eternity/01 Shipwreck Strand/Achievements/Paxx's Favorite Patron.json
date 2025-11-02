@@ -1,0 +1,17 @@
+{
+  "Name": "Paxx’s Favorite Patron",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T18:32:38.4314295Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 351.74,
+      "Y": -513.13,
+      "Z": 6.51
+    }
+  ]
+}

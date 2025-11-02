@@ -1,0 +1,17 @@
+{
+  "Name": "Juvenile Raptor Swiftwing",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-01T17:35:57.7838804Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": -310.39,
+      "Y": 444.82,
+      "Z": 4.85
+    }
+  ]
+}

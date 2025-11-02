@@ -1,0 +1,297 @@
+{
+  "Name": "POI",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-28T18:37:41.1754663Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Azure Depths",
+      "TargetMapId": 1595,
+      "X": 281.63,
+      "Y": -700.79,
+      "Z": -49.64
+    },
+    {
+      "Name": "Blue Hole",
+      "TargetMapId": 1595,
+      "X": 212.6,
+      "Y": -704.37,
+      "Z": -39.28
+    },
+    {
+      "Name": "Bunkhome Square",
+      "TargetMapId": 1595,
+      "X": -473.34,
+      "Y": -404.35,
+      "Z": 2.28
+    },
+    {
+      "Name": "Castaway's Tears",
+      "TargetMapId": 1595,
+      "X": -356.7,
+      "Y": -66.7,
+      "Z": 23.43
+    },
+    {
+      "Name": "Coconut Grove",
+      "TargetMapId": 1595,
+      "X": 346.01,
+      "Y": 12.33,
+      "Z": 2.2
+    },
+    {
+      "Name": "Congregation of the Sheltered",
+      "TargetMapId": 1595,
+      "X": -778.36,
+      "Y": 964.0,
+      "Z": 2.77
+    },
+    {
+      "Name": "Crimsonleaf Fountain",
+      "TargetMapId": 1595,
+      "X": 413.47,
+      "Y": 606.0,
+      "Z": 30.32
+    },
+    {
+      "Name": "Crow's Nest",
+      "TargetMapId": 1595,
+      "X": -752.09,
+      "Y": -88.69,
+      "Z": 126.47
+    },
+    {
+      "Name": "Flotsam Grotto Skimmerway",
+      "TargetMapId": 1595,
+      "X": 139.75,
+      "Y": 45.16,
+      "Z": -52.6
+    },
+    {
+      "Name": "Forcastle Rock",
+      "TargetMapId": 1595,
+      "X": 40.35,
+      "Y": 138.52,
+      "Z": 12.22
+    },
+    {
+      "Name": "Freebooter's Throughway",
+      "TargetMapId": 1595,
+      "X": -304.18,
+      "Y": -272.71,
+      "Z": 10.71
+    },
+    {
+      "Name": "Great Bewilderseed",
+      "TargetMapId": 1595,
+      "X": 521.99,
+      "Y": 788.06,
+      "Z": 78.8
+    },
+    {
+      "Name": "Greenroot Grotto Skimmerway",
+      "TargetMapId": 1595,
+      "X": -487.61,
+      "Y": -630.81,
+      "Z": -43.3
+    },
+    {
+      "Name": "Grogslinger's",
+      "TargetMapId": 1595,
+      "X": -471.17,
+      "Y": -158.18,
+      "Z": 6.92
+    },
+    {
+      "Name": "Hammerhart Battery",
+      "TargetMapId": 1595,
+      "X": -637.08,
+      "Y": -267.15,
+      "Z": -59.41
+    },
+    {
+      "Name": "Hullgarden Village Plaza",
+      "TargetMapId": 1595,
+      "X": 533.8,
+      "Y": 83.73,
+      "Z": 20.0
+    },
+    {
+      "Name": "Inquest Confinement Pens",
+      "TargetMapId": 1595,
+      "X": -581.41,
+      "Y": -874.11,
+      "Z": 8.96
+    },
+    {
+      "Name": "Inquest Mining Operation",
+      "TargetMapId": 1595,
+      "X": -774.72,
+      "Y": -563.0,
+      "Z": 137.48
+    },
+    {
+      "Name": "Inquest Subterranean Research Facility",
+      "TargetMapId": 1595,
+      "X": -163.42,
+      "Y": -737.08,
+      "Z": -38.97
+    },
+    {
+      "Name": "Inquest Supply Cavern",
+      "TargetMapId": 1595,
+      "X": -282.23,
+      "Y": -904.27,
+      "Z": 17.06
+    },
+    {
+      "Name": "Leystone Promontory",
+      "TargetMapId": 1595,
+      "X": 207.1,
+      "Y": 1008.83,
+      "Z": 136.58
+    },
+    {
+      "Name": "Lilycreek Cascade",
+      "TargetMapId": 1595,
+      "X": -454.38,
+      "Y": 234.58,
+      "Z": 35.07
+    },
+    {
+      "Name": "Littlewing Pond",
+      "TargetMapId": 1595,
+      "X": 450.23,
+      "Y": 227.78,
+      "Z": 55.04
+    },
+    {
+      "Name": "Luminous Glade",
+      "TargetMapId": 1595,
+      "X": -160.63,
+      "Y": 650.6,
+      "Z": 2.0
+    },
+    {
+      "Name": "Morningrise Prow",
+      "TargetMapId": 1595,
+      "X": 762.08,
+      "Y": -590.33,
+      "Z": 82.43
+    },
+    {
+      "Name": "Overgrown Channel Skimmerway",
+      "TargetMapId": 1595,
+      "X": 524.06,
+      "Y": -1005.92,
+      "Z": -70.35
+    },
+    {
+      "Name": "Pub Canach",
+      "TargetMapId": 1595,
+      "X": 336.38,
+      "Y": -519.04,
+      "Z": 6.41
+    },
+    {
+      "Name": "Sailor's Heart",
+      "TargetMapId": 1595,
+      "X": 198.37,
+      "Y": -354.59,
+      "Z": 32.49
+    },
+    {
+      "Name": "Seneschal Sands",
+      "TargetMapId": 1595,
+      "X": -655.28,
+      "Y": 402.74,
+      "Z": 53.1
+    },
+    {
+      "Name": "Sheltered Path",
+      "TargetMapId": 1595,
+      "X": -693.42,
+      "Y": 630.54,
+      "Z": 50.67
+    },
+    {
+      "Name": "Soaring Copse",
+      "TargetMapId": 1595,
+      "X": 322.96,
+      "Y": 738.71,
+      "Z": 135.57
+    },
+    {
+      "Name": "Spindrift Burrow",
+      "TargetMapId": 1595,
+      "X": -533.68,
+      "Y": 506.94,
+      "Z": 0.15
+    },
+    {
+      "Name": "Starlit Stair",
+      "TargetMapId": 1595,
+      "X": -813.4,
+      "Y": 579.04,
+      "Z": 13.98
+    },
+    {
+      "Name": "Starry Grotto Skimmerway",
+      "TargetMapId": 1595,
+      "X": -174.41,
+      "Y": 1075.88,
+      "Z": -77.17
+    },
+    {
+      "Name": "Structural Integrity Reinforcement",
+      "TargetMapId": 1595,
+      "X": -445.84,
+      "Y": -831.59,
+      "Z": 16.95
+    },
+    {
+      "Name": "The Booter's Path",
+      "TargetMapId": 1595,
+      "X": -694.15,
+      "Y": -80.68,
+      "Z": 10.68
+    },
+    {
+      "Name": "The Beachtree",
+      "TargetMapId": 1595,
+      "X": 78.05,
+      "Y": 784.96,
+      "Z": 10.64
+    },
+    {
+      "Name": "The Dark Leviathan",
+      "TargetMapId": 1595,
+      "X": 776.79,
+      "Y": 918.52,
+      "Z": 44.4
+    },
+    {
+      "Name": "The Neverfalls",
+      "TargetMapId": 1595,
+      "X": -785.2,
+      "Y": 189.36,
+      "Z": 106.69
+    },
+    {
+      "Name": "The Wardroom",
+      "TargetMapId": 1595,
+      "X": -679.82,
+      "Y": -474.23,
+      "Z": 8.42
+    },
+    {
+      "Name": "Thornbloom Ravine",
+      "TargetMapId": 1595,
+      "X": -599.06,
+      "Y": 825.24,
+      "Z": 1.23
+    }
+  ]
+}

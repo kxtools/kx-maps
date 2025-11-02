@@ -1,0 +1,45 @@
+{
+  "Name": "Vista",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-30T02:35:39.9898214Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "Command Complex",
+      "TargetMapId": 1593,
+      "X": 593.44,
+      "Y": 620.47,
+      "Z": 50.12
+    },
+    {
+      "Name": "Overgrown Thicket",
+      "TargetMapId": 1593,
+      "X": -540.83,
+      "Y": -713.99,
+      "Z": 137.33
+    },
+    {
+      "Name": "Lost Basilica",
+      "TargetMapId": 1593,
+      "X": -739.79,
+      "Y": 491.23,
+      "Z": 160.27
+    },
+    {
+      "Name": "Shimmering Basin",
+      "TargetMapId": 1593,
+      "X": 313.38,
+      "Y": -531.88,
+      "Z": 31.46
+    },
+    {
+      "Name": "Untamed Crags",
+      "TargetMapId": 1593,
+      "X": -36.62,
+      "Y": 308.76,
+      "Z": 134.91
+    }
+  ]
+}

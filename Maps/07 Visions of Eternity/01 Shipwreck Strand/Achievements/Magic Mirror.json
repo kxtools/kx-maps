@@ -1,0 +1,213 @@
+{
+  "Name": "Magic Mirror",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T03:20:28.4513711Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "1",
+      "TargetMapId": 1593,
+      "X": 649.64,
+      "Y": 925.28,
+      "Z": 58.04
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1593,
+      "X": -104.42,
+      "Y": 1036.33,
+      "Z": 79.14
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1593,
+      "X": -560.18,
+      "Y": 894.87,
+      "Z": 69.47
+    },
+    {
+      "Name": "4",
+      "TargetMapId": 1593,
+      "X": -388.24,
+      "Y": 242.51,
+      "Z": 93.62
+    },
+    {
+      "Name": "5 (kill)",
+      "TargetMapId": 1593,
+      "X": -705.43,
+      "Y": -189.71,
+      "Z": 90.93
+    },
+    {
+      "Name": "6",
+      "TargetMapId": 1593,
+      "X": -546.81,
+      "Y": -607.27,
+      "Z": 127.22
+    },
+    {
+      "Name": "7",
+      "TargetMapId": 1593,
+      "X": 812.55,
+      "Y": -759.62,
+      "Z": 38.4
+    },
+    {
+      "Name": "8 (kill)",
+      "TargetMapId": 1593,
+      "X": 405.23,
+      "Y": -424.36,
+      "Z": 44.14
+    },
+    {
+      "Name": "9",
+      "TargetMapId": 1593,
+      "X": -70.92,
+      "Y": -57.85,
+      "Z": 39.84
+    },
+    {
+      "Name": "@ Travel to Starlit Weald",
+      "TargetMapId": 1593,
+      "X": -815.63,
+      "Y": 578.4,
+      "Z": 17.01
+    },
+    {
+      "Name": "1",
+      "TargetMapId": 1593,
+      "X": 1048.68,
+      "Y": -77.55,
+      "Z": 94.54
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1593,
+      "X": 667.21,
+      "Y": 624.82,
+      "Z": 35.81
+    },
+    {
+      "Name": "• chest",
+      "TargetMapId": 1593,
+      "X": 664.91,
+      "Y": 631.78,
+      "Z": 35.94
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1593,
+      "X": 114.68,
+      "Y": 566.24,
+      "Z": 108.48
+    },
+    {
+      "Name": "• chest",
+      "TargetMapId": 1593,
+      "X": 119.07,
+      "Y": 566.1,
+      "Z": 108.47
+    },
+    {
+      "Name": "4",
+      "TargetMapId": 1593,
+      "X": -533.41,
+      "Y": 497.44,
+      "Z": 183.65
+    },
+    {
+      "Name": "• chest",
+      "TargetMapId": 1593,
+      "X": -526.63,
+      "Y": 496.58,
+      "Z": 183.85
+    },
+    {
+      "Name": "5",
+      "TargetMapId": 1593,
+      "X": -483.98,
+      "Y": -28.84,
+      "Z": 167.21
+    },
+    {
+      "Name": "• chest",
+      "TargetMapId": 1593,
+      "X": -484.1,
+      "Y": -23.47,
+      "Z": 167.22
+    },
+    {
+      "Name": "6",
+      "TargetMapId": 1593,
+      "X": -875.16,
+      "Y": -385.0,
+      "Z": 80.92
+    },
+    {
+      "Name": "7",
+      "TargetMapId": 1593,
+      "X": -98.81,
+      "Y": -597.49,
+      "Z": 30.79
+    },
+    {
+      "Name": "• chest",
+      "TargetMapId": 1593,
+      "X": -95.3,
+      "Y": -594.19,
+      "Z": 31.19
+    },
+    {
+      "Name": "8",
+      "TargetMapId": 1593,
+      "X": 350.93,
+      "Y": -683.58,
+      "Z": 48.7
+    },
+    {
+      "Name": "• chest",
+      "TargetMapId": 1593,
+      "X": 363.63,
+      "Y": -678.06,
+      "Z": 45.81
+    },
+    {
+      "Name": "9",
+      "TargetMapId": 1593,
+      "X": 165.68,
+      "Y": -138.85,
+      "Z": 84.86
+    },
+    {
+      "Name": "• chest",
+      "TargetMapId": 1593,
+      "X": 166.27,
+      "Y": -133.01,
+      "Z": 84.01
+    },
+    {
+      "Name": "10",
+      "TargetMapId": 1593,
+      "X": -285.15,
+      "Y": 26.0,
+      "Z": 74.54
+    },
+    {
+      "Name": "• chest",
+      "TargetMapId": 1593,
+      "X": -288.04,
+      "Y": 20.35,
+      "Z": 73.96
+    },
+    {
+      "Name": "@ Travel to Shipwreck Strand",
+      "TargetMapId": 1593,
+      "X": 1057.78,
+      "Y": -444.06,
+      "Z": 3.2
+    },
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "Name": "Skimmer-net Scramble",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T18:18:25.0961087Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Teleporting will not save you",
+      "TargetMapId": 1595,
+      "X": 669.7,
+      "Y": -728.41,
+      "Z": 0.34
+    }
+  ]
+}

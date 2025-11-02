@@ -1,0 +1,31 @@
+{
+  "Name": "WP",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-30T02:31:11.8279754Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "Foothold Bivouac",
+      "TargetMapId": 1593,
+      "X": 625.75,
+      "Y": -650.54,
+      "Z": 2.89
+    },
+    {
+      "Name": "Hunter's Camp",
+      "TargetMapId": 1593,
+      "X": -81.08,
+      "Y": 448.09,
+      "Z": 8.18
+    },
+    {
+      "Name": "Priory Expedition",
+      "TargetMapId": 1593,
+      "X": -185.62,
+      "Y": -128.18,
+      "Z": 77.7
+    }
+  ]
+}

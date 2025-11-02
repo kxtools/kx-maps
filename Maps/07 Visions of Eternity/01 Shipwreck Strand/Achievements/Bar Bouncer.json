@@ -1,0 +1,59 @@
+{
+  "Name": "Bar Bouncer",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T18:39:51.5832515Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "1",
+      "TargetMapId": 1595,
+      "X": 285.44,
+      "Y": -566.67,
+      "Z": 1.13
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1595,
+      "X": 269.16,
+      "Y": -584.02,
+      "Z": 0.26
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1595,
+      "X": 281.44,
+      "Y": -588.97,
+      "Z": 0.5
+    },
+    {
+      "Name": "4",
+      "TargetMapId": 1595,
+      "X": 283.76,
+      "Y": -596.6,
+      "Z": 0.34
+    },
+    {
+      "Name": "5",
+      "TargetMapId": 1595,
+      "X": 296.93,
+      "Y": -585.41,
+      "Z": 2.22
+    },
+    {
+      "Name": "6",
+      "TargetMapId": 1595,
+      "X": 303.64,
+      "Y": -589.09,
+      "Z": 2.2
+    },
+    {
+      "Name": "Do 4 more, need 10 total",
+      "TargetMapId": 1595,
+      "X": 303.64,
+      "Y": -589.09,
+      "Z": 2.2
+    }
+  ]
+}

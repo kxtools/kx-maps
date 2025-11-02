@@ -1,0 +1,45 @@
+{
+  "Name": "birdie benefactor",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "toverla",
+  "LastUpdated": "2025-10-31T06:08:22.5269523Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "start (take the birb)",
+      "TargetMapId": 1593,
+      "X": 167.25,
+      "Y": -569.49,
+      "Z": 12.13
+    },
+    {
+      "Name": "1",
+      "TargetMapId": 1593,
+      "X": 185.98,
+      "Y": -584.94,
+      "Z": 53.24
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1593,
+      "X": 178.01,
+      "Y": -645.3,
+      "Z": 114.27
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1593,
+      "X": 78.24,
+      "Y": -667.87,
+      "Z": 240.1
+    },
+    {
+      "Name": "end",
+      "TargetMapId": 1593,
+      "X": 111.71,
+      "Y": -644.43,
+      "Z": 269.98
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Name": "Soaring Copse",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "toverla",
+  "LastUpdated": "2025-10-31T06:54:19.5962262Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "speak",
+      "TargetMapId": 1595,
+      "X": 435.14,
+      "Y": 706.96,
+      "Z": 1.45
+    },
+    {
+      "Name": "f",
+      "TargetMapId": 1595,
+      "X": 419.84,
+      "Y": 712.69,
+      "Z": 3.22
+    },
+    {
+      "Name": "1",
+      "TargetMapId": 1595,
+      "X": 420.03,
+      "Y": 704.85,
+      "Z": 115.83
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1595,
+      "X": 333.23,
+      "Y": 803.73,
+      "Z": 138.34
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1595,
+      "X": 324.02,
+      "Y": 698.8,
+      "Z": 152.11
+    }
+  ]
+}

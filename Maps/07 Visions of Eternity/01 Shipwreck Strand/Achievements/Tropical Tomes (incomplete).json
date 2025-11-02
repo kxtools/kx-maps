@@ -1,0 +1,52 @@
+{
+  "Name": "Tropical Tomes",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-28T20:19:05.6626685Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "1. Letter",
+      "TargetMapId": 1595,
+      "X": -162.07,
+      "Y": 642.79,
+      "Z": 0.76
+    },
+    {
+      "Name": "3. On the Beaching of Whales",
+      "TargetMapId": 1595,
+      "X": 488.75,
+      "Y": 36.88,
+      "Z": 32.64
+    },
+    {
+      "Name": "4. Captain's Journal",
+      "TargetMapId": 1595,
+      "X": 577.57,
+      "Y": 55.22,
+      "Z": 43.38
+    },
+    {
+      "Name": "5. Perculiar Arrival",
+      "TargetMapId": 1595,
+      "X": 516.25,
+      "Y": 73.31,
+      "Z": 0.49
+    },
+    {
+      "Name": "6. Westergard's Journal",
+      "TargetMapId": 1595,
+      "X": 484.37,
+      "Y": 225.97,
+      "Z": 34.17
+    },
+    {
+      "Name": "7. Osborne's Journal",
+      "TargetMapId": 1595,
+      "X": 594.0,
+      "Y": 110.25,
+      "Z": 4.22
+    },
+  ]
+}

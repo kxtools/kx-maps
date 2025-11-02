@@ -1,0 +1,17 @@
+{
+  "Name": "Soaring Sands Fireworks",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T04:43:44.6069759Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 525.62,
+      "Y": 13.07,
+      "Z": 203.0
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "Name": "Grotto Aficionado",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-11-02T06:58:19.0287081Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+      {
+      "Name": "01. Starry Grotto",
+      "TargetMapId": 1595,
+      "X": -130.62,
+      "Y": 753.72,
+      "Z": -196.41
+    },
+      {
+      "Name": "02. Quiggles's Hideaway",
+      "TargetMapId": 1595,
+      "X": -46.3,
+      "Y": 865.69,
+      "Z": -176.37
+    },
+    {
+      "Name": "03. Flotsam Grotto",
+      "TargetMapId": 1595,
+      "X": 232.3,
+      "Y": 201.26,
+      "Z": -87.08
+    },
+    {
+      "Name": "04. Monument Grotto",
+      "TargetMapId": 1595,
+      "X": 696.72,
+      "Y": 113.31,
+      "Z": -100.49
+    },
+    {
+      "Name": "05. Ship-in-a-bottle Grotto",
+      "TargetMapId": 1595,
+      "X": 663.72,
+      "Y": -7.66,
+      "Z": -159.17
+    },
+    {
+      "Name": "06. Waterfall Rest Grotto",
+      "TargetMapId": 1595,
+      "X": 470.82,
+      "Y": -565.45,
+      "Z": -57.4
+    },
+	    {
+      "Name": "07. Chamber of Rising Petals",
+      "TargetMapId": 1595,
+      "X": 199.08,
+      "Y": -335.12,
+      "Z": -74.62
+    },
+    {
+      "Name": "08. Blooming-Branch Grotto",
+      "TargetMapId": 1595,
+      "X": 543.75,
+      "Y": -393.42,
+      "Z": -117.19
+    },
+    {
+      "Name": "09. Overgrown Channel Grotto",
+      "TargetMapId": 1595,
+      "X": 541.99,
+      "Y": -806.55,
+      "Z": -209.19
+    },
+    {
+      "Name": "10. The Orb Cavern",
+      "TargetMapId": 1595,
+      "X": -377.9,
+      "Y": -1013.29,
+      "Z": -5.69
+    },
+    {
+      "Name": "11. 'Booter's Hidey-Hole",
+      "TargetMapId": 1595,
+      "X": -356.53,
+      "Y": -220.5,
+      "Z": -4.48
+    }
+  ]
+}

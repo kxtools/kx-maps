@@ -1,0 +1,80 @@
+{
+  "Name": "Memories of Another Time",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-11-02T07:38:27.2659245Z",
+  "StartGameMapId": 65,
+  "Coordinates": [
+    {
+      "Name": "01. [Shipwreck Strand] Speak with a former Astral Ward member",
+      "TargetMapId": 65,
+      "X": -197.63,
+      "Y": 650.36,
+      "Z": 2.32
+    },
+	{
+      "Name": "02. [Shipwreck Strand] Look for a memory on a cliff",
+      "TargetMapId": 65,
+      "X": -122.79,
+      "Y": -45.94,
+      "Z": 80.76
+    },
+		{
+      "Name": "04. [Shipwreck Strand] Look for a memory in Shipwreck Strand on a small island",
+      "TargetMapId": 65,
+      "X": -398.46,
+      "Y": 971.6,
+      "Z": 3.89
+    },    
+	    {
+      "Name": "06. [Shipwreck Strand] Speak to the foremost expert on Astral Ward",
+      "TargetMapId": 65,
+      "X": 645.42,
+      "Y": 782.18,
+      "Z": 0.27
+    },
+    {
+      "Name": "07. [Shipwreck Strand] Look for a memory washed to shore",
+      "TargetMapId": 65,
+      "X": 557.03,
+      "Y": -886.24,
+      "Z": 0.14
+    },
+		{
+      "Name": "05. [Starlit Weald] Loook for a memory in Starlit Weald",
+      "TargetMapId": 65,
+      "X": -893.44,
+      "Y": 342.93,
+      "Z": 86.64
+    },
+	{
+      "Name": "03. [Kessex Hills] Pay a visit back to a Central Tyria fiefdom",
+      "TargetMapId": 65,
+      "X": 1476.42,
+      "Y": -396.42,
+      "Z": 61.41
+    },
+    {
+      "Name": "08. [Field of Ruin] Return to Central Tyria and track down a memory",
+      "TargetMapId": 65,
+      "X": -491.0,
+      "Y": -303.85,
+      "Z": 54.87
+    },
+    {
+      "Name": "09. [Malchor's Leap] Travel to the source of undead draconic magic",
+      "TargetMapId": 65,
+      "X": -477.88,
+      "Y": -381.3,
+      "Z": 48.45
+    },
+	{
+      "Name": "10. [Shipwreck Strand] Return the memories",
+      "TargetMapId": 65,
+      "X": -197.63,
+      "Y": 650.36,
+      "Z": 2.32
+    }
+  ]
+}

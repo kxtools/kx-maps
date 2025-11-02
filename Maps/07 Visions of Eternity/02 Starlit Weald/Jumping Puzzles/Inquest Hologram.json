@@ -1,0 +1,73 @@
+{
+  "Name": "Inquest Hologram JP",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Dremg",
+  "LastUpdated": "2025-10-30T00:22:16.8578841Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "*CAUTION* Teleporting here",
+      "TargetMapId": 1593,
+      "X": 584.69,
+      "Y": 460.96,
+      "Z": 4.94
+    },
+    {
+      "Name": "suit",
+      "TargetMapId": 1593,
+      "X": 584.69,
+      "Y": 460.96,
+      "Z": 4.94
+    },
+    {
+      "Name": "1",
+      "TargetMapId": 1593,
+      "X": 572.86,
+      "Y": 470.92,
+      "Z": 18.37
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1593,
+      "X": 573.48,
+      "Y": 461.51,
+      "Z": 16.69
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1593,
+      "X": 592.05,
+      "Y": 467.59,
+      "Z": 18.68
+    },
+    {
+      "Name": "4",
+      "TargetMapId": 1593,
+      "X": 585.32,
+      "Y": 477.74,
+      "Z": 16.68
+    },
+    {
+      "Name": "5",
+      "TargetMapId": 1593,
+      "X": 577.64,
+      "Y": 464.08,
+      "Z": 17.21
+    },
+    {
+      "Name": "6",
+      "TargetMapId": 1593,
+      "X": 566.88,
+      "Y": 465.0,
+      "Z": 17.64
+    },
+    {
+      "Name": "chest",
+      "TargetMapId": 1593,
+      "X": 578.45,
+      "Y": 489.56,
+      "Z": 4.94
+    }
+  ]
+}

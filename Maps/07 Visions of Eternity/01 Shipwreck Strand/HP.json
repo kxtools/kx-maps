@@ -1,0 +1,115 @@
+{
+  "Name": "Hero Points",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-28T20:27:51.2032020Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "The Burn Out",
+      "TargetMapId": 1595,
+      "X": 309.54,
+      "Y": -579.21,
+      "Z": 3.31
+    },
+    {
+      "Name": "Fisher's Lookout Point",
+      "TargetMapId": 1595,
+      "X": 19.38,
+      "Y": -399.76,
+      "Z": 24.7
+    },
+    {
+      "Name": "The Mainland Verge",
+      "TargetMapId": 1595,
+      "X": -137.1,
+      "Y": 369.16,
+      "Z": 46.18
+    },
+    {
+      "Name": "The Castoran Headland",
+      "TargetMapId": 1595,
+      "X": -375.36,
+      "Y": 482.89,
+      "Z": 92.59
+    },
+    {
+      "Name": "Surveillance Point",
+      "TargetMapId": 1595,
+      "X": 178.32,
+      "Y": -65.19,
+      "Z": 35.43
+    },
+    {
+      "Name": "Far-Flung Lost Ship",
+      "TargetMapId": 1595,
+      "X": 740.84,
+      "Y": -589.72,
+      "Z": 63.19
+    },
+    {
+      "Name": "Survivor's Lament Lookout",
+      "TargetMapId": 1595,
+      "X": 513.46,
+      "Y": -984.59,
+      "Z": 39.88
+    },
+    {
+      "Name": "Freebooter Ajdin",
+      "TargetMapId": 1595,
+      "X": 682.03,
+      "Y": -308.59,
+      "Z": 0.68
+    },
+    {
+      "Name": "Inquest Research Outpost",
+      "TargetMapId": 1595,
+      "X": -496.93,
+      "Y": -766.31,
+      "Z": 10.17
+    },
+    {
+      "Name": "Inquest Infinite Interpreter (FIRE, FIRE, FIRE)",
+      "TargetMapId": 1595,
+      "X": -577.83,
+      "Y": -897.39,
+      "Z": 12.52
+    },
+    {
+      "Name": "Misplaced Inquest Box",
+      "TargetMapId": 1595,
+      "X": -302.93,
+      "Y": -641.3,
+      "Z": 6.85
+    },
+    {
+      "Name": "Castaway",
+      "TargetMapId": 1595,
+      "X": -644.78,
+      "Y": 1023.89,
+      "Z": 1.84
+    },
+    {
+      "Name": "Shelter's Backstage",
+      "TargetMapId": 1595,
+      "X": -770.11,
+      "Y": 909.33,
+      "Z": 13.92
+    },
+    {
+      "Name": "Tyrian Alliance Lookout Point",
+      "TargetMapId": 1595,
+      "X": 506.41,
+      "Y": 450.63,
+      "Z": 90.73
+    },
+    {
+      "Name": "Freebooter's Stateroom",
+      "TargetMapId": 1595,
+      "X": -441.08,
+      "Y": -301.8,
+      "Z": 18.24
+    }
+  ]
+}

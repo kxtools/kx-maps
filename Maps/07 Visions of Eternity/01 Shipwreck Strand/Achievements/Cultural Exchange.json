@@ -1,0 +1,45 @@
+{
+  "Name": "Cultural Exchange",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-10-28T21:13:47.8998610Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+      {
+      "Name": "01. Ley Lines for the Layman",
+      "TargetMapId": 1595,
+      "X": 536.06,
+      "Y": 794.63,
+      "Z": 51.75
+    },
+    {
+      "Name": "02. Intel Report",
+      "TargetMapId": 1595,
+      "X": 584.13,
+      "Y": 131.41,
+      "Z": 42.84
+    },
+    {
+      "Name": "03. Kestrel's Journal",
+      "TargetMapId": 1595,
+      "X": 672.92,
+      "Y": 740.6,
+      "Z": 40.76
+    },
+    {
+      "Name": "04. Hunter's Journal",
+      "TargetMapId": 1595,
+      "X": 355.7,
+      "Y": -619.52,
+      "Z": 6.48
+    },
+    {
+      "Name": "05. Nautical Charts of the Unending Ocean",
+      "TargetMapId": 1595,
+      "X": 762.3,
+      "Y": 939.43,
+      "Z": 10.15
+    }
+  ]
+}

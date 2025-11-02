@@ -1,0 +1,45 @@
+{
+  "Name": "Seafood Connoisseur",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T19:07:55.2423556Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "3 Events in 3 Locations",
+      "TargetMapId": 1595,
+      "X": -340.54,
+      "Y": 931.77,
+      "Z": 0.06
+    },
+    {
+      "Name": "Fish, Seaweed, Breakable rocks",
+      "TargetMapId": 1595,
+      "X": -340.54,
+      "Y": 931.77,
+      "Z": 0.06
+    },
+    {
+      "Name": "Event 1",
+      "TargetMapId": 1595,
+      "X": -340.54,
+      "Y": 931.77,
+      "Z": 0.06
+    },
+    {
+      "Name": "Event 2",
+      "TargetMapId": 1595,
+      "X": 35.0,
+      "Y": -328.77,
+      "Z": 0.37
+    },
+    {
+      "Name": "Event 3",
+      "TargetMapId": 1595,
+      "X": 239.17,
+      "Y": -788.34,
+      "Z": -0.13
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Orb Cavern Jumping Puzzle",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-28T22:08:31.1074884Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Tele Here",
+      "TargetMapId": 1595,
+      "X": -363.52,
+      "Y": -1023.43,
+      "Z": 32.17
+    },
+    {
+      "Name": "Tele Here For Grotto Aficionado Progress",
+      "TargetMapId": 1595,
+      "X": -377.9,
+      "Y": -1013.29,
+      "Z": -5.69
+    }
+  ]
+}

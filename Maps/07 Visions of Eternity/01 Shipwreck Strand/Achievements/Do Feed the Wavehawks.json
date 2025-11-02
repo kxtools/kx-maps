@@ -1,0 +1,38 @@
+{
+  "Name": "Do Feed the Wavehawks",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T04:25:34.9749782Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Take Fish",
+      "TargetMapId": 1595,
+      "X": 331.12,
+      "Y": 400.87,
+      "Z": 0.06
+    },
+    {
+      "Name": "1",
+      "TargetMapId": 1595,
+      "X": 335.43,
+      "Y": 408.93,
+      "Z": 0.18
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1595,
+      "X": 341.37,
+      "Y": 396.72,
+      "Z": 0.03
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1595,
+      "X": 323.35,
+      "Y": 397.61,
+      "Z": -0.1
+    }
+  ]
+}

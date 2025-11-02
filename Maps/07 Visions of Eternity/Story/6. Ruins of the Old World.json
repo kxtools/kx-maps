@@ -1,0 +1,304 @@
+{
+  "Name": "6. Ruins of the Old World",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-29T02:12:37.6914672Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "1. Canoch (talk)",
+      "TargetMapId": 1593,
+      "X": -78.33,
+      "Y": 497.56,
+      "Z": 1.14
+    },
+    {
+      "Name": "   • 1 (kill - pick up data banks)",
+      "TargetMapId": 1593,
+      "X": 222.9,
+      "Y": 566.15,
+      "Z": 1.65
+    },
+    {
+      "Name": "   • 2 (kill)",
+      "TargetMapId": 1593,
+      "X": 319.49,
+      "Y": 635.68,
+      "Z": 3.2
+    },
+    {
+      "Name": "   • 3 (kill)",
+      "TargetMapId": 1593,
+      "X": 257.88,
+      "Y": 648.44,
+      "Z": 32.17
+    },
+    {
+      "Name": "   • 4 (kill)",
+      "TargetMapId": 1593,
+      "X": 141.8,
+      "Y": 780.85,
+      "Z": 47.43
+    },
+    {
+      "Name": "   • 5 (kill if needed)",
+      "TargetMapId": 1593,
+      "X": 141.8,
+      "Y": 780.85,
+      "Z": 47.43
+    },
+    {
+      "Name": "   • 6 (kill if needed)",
+      "TargetMapId": 1593,
+      "X": 55.99,
+      "Y": 640.6,
+      "Z": 23.77
+    },
+    {
+      "Name": "   • 7 (kill if needed)",
+      "TargetMapId": 1593,
+      "X": 91.13,
+      "Y": 618.5,
+      "Z": 2.73
+    },
+    {
+      "Name": "2. Canoch (talk again)",
+      "TargetMapId": 1593,
+      "X": -78.03,
+      "Y": 496.64,
+      "Z": 1.13
+    },
+    {
+      "Name": "   • Pod 1",
+      "TargetMapId": 1593,
+      "X": -305.3,
+      "Y": 528.78,
+      "Z": 3.22
+    },
+    {
+      "Name": "   • Pod 2",
+      "TargetMapId": 1593,
+      "X": -300.77,
+      "Y": 495.75,
+      "Z": 6.05
+    },
+    {
+      "Name": "   • Pod 3",
+      "TargetMapId": 1593,
+      "X": 323.56,
+      "Y": 585.8,
+      "Z": 1.31
+    },
+    {
+      "Name": "   • Pod 4",
+      "TargetMapId": 1593,
+      "X": 384.21,
+      "Y": 579.51,
+      "Z": 2.83
+    },
+    {
+      "Name": "   • Pod 5",
+      "TargetMapId": 1593,
+      "X": -13.44,
+      "Y": 815.45,
+      "Z": 3.81
+    },
+    {
+      "Name": "   • Pod 6",
+      "TargetMapId": 1593,
+      "X": -64.55,
+      "Y": 789.04,
+      "Z": 3.57
+    },
+    {
+      "Name": "3. Enter Instance (wait)",
+      "TargetMapId": 1593,
+      "X": -108.73,
+      "Y": 333.36,
+      "Z": 3.73
+    },
+    {
+      "Name": "   • Meet allies (wait)",
+      "TargetMapId": 1593,
+      "X": -118.63,
+      "Y": 317.23,
+      "Z": 4.26
+    },
+    {
+      "Name": "   • Kill",
+      "TargetMapId": 1593,
+      "X": -94.97,
+      "Y": 203.9,
+      "Z": 17.3
+    },
+    {
+      "Name": "   • Kill (wait)",
+      "TargetMapId": 1593,
+      "X": -13.71,
+      "Y": -56.27,
+      "Z": 70.74
+    },
+    {
+      "Name": "   • Dig site 1 (wait)",
+      "TargetMapId": 1593,
+      "X": 43.86,
+      "Y": -34.06,
+      "Z": 58.82
+    },
+    {
+      "Name": "   • Dig site 2 (wait)",
+      "TargetMapId": 1593,
+      "X": -60.86,
+      "Y": -26.06,
+      "Z": 71.62
+    },
+    {
+      "Name": "   • Ruin 1 (wait)",
+      "TargetMapId": 1593,
+      "X": -50.62,
+      "Y": -59.05,
+      "Z": 70.22
+    },
+    {
+      "Name": "   • Ruin 2 (wait)",
+      "TargetMapId": 1593,
+      "X": -31.17,
+      "Y": -122.49,
+      "Z": 79.47
+    },
+    {
+      "Name": "   • Ruin 3 (wait)",
+      "TargetMapId": 1593,
+      "X": 37.06,
+      "Y": -74.67,
+      "Z": 77.03
+    },
+    {
+      "Name": "   • Kill (wait)",
+      "TargetMapId": 1593,
+      "X": 40.56,
+      "Y": -80.65,
+      "Z": 78.71
+    },
+    {
+      "Name": "   • Scholar (talk and wait)",
+      "TargetMapId": 1593,
+      "X": 52.41,
+      "Y": -160.12,
+      "Z": 83.44
+    },
+    {
+      "Name": "4. Priory Scout Hiorr (talk)",
+      "TargetMapId": 1593,
+      "X": -187.68,
+      "Y": -153.31,
+      "Z": 74.46
+    },
+    {
+      "Name": "   • Complete nearby events",
+      "TargetMapId": 1593,
+      "X": -188.24,
+      "Y": -153.5,
+      "Z": 74.44
+    },
+    {
+      "Name": "   • Priory Scout Hiorr (talk again)",
+      "TargetMapId": 1593,
+      "X": -187.68,
+      "Y": -153.31,
+      "Z": 74.46
+    },
+    {
+      "Name": "5. Historian Meliza (talk 2x)",
+      "TargetMapId": 1593,
+      "X": -116.92,
+      "Y": -141.46,
+      "Z": 78.18
+    },
+    {
+      "Name": "   • Ritual tool",
+      "TargetMapId": 1593,
+      "X": -113.93,
+      "Y": 362.49,
+      "Z": 4.58
+    },
+    {
+      "Name": "   • Broken totem",
+      "TargetMapId": 1593,
+      "X": 142.61,
+      "Y": 53.46,
+      "Z": 44.5
+    },
+    {
+      "Name": "   • Muddy plate",
+      "TargetMapId": 1593,
+      "X": 243.69,
+      "Y": 467.26,
+      "Z": 11.49
+    },
+    {
+      "Name": "   • Ritual bowl",
+      "TargetMapId": 1593,
+      "X": 858.45,
+      "Y": 219.06,
+      "Z": 0.62
+    },
+    {
+      "Name": "   • Worn seer coin",
+      "TargetMapId": 1593,
+      "X": 1008.59,
+      "Y": 387.83,
+      "Z": 5.37
+    },
+    {
+      "Name": "   • Ruined baggage",
+      "TargetMapId": 1593,
+      "X": 570.47,
+      "Y": -16.62,
+      "Z": 4.39
+    },
+    {
+      "Name": "   • Decayed cloth remnants",
+      "TargetMapId": 1593,
+      "X": 604.32,
+      "Y": -387.66,
+      "Z": 6.61
+    },
+    {
+      "Name": "   • Corroded weapon",
+      "TargetMapId": 1593,
+      "X": 205.17,
+      "Y": -224.4,
+      "Z": 2.25
+    },
+    {
+      "Name": "   • Faded grimoire",
+      "TargetMapId": 1593,
+      "X": 1019.55,
+      "Y": 41.14,
+      "Z": 10.53
+    },
+    {
+      "Name": "   • Faintly glowing stone",
+      "TargetMapId": 1593,
+      "X": 538.84,
+      "Y": -707.73,
+      "Z": 2.17
+    },
+    {
+      "Name": "   • Historian Meliza (talk again)",
+      "TargetMapId": 1593,
+      "X": -116.56,
+      "Y": -142.04,
+      "Z": 78.25
+    },
+    {
+      "Name": "6. Talk to Sayida",
+      "TargetMapId": 1593,
+      "X": -183.52,
+      "Y": -144.44,
+      "Z": 74.62
+    }
+  ]
+}

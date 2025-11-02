@@ -1,0 +1,115 @@
+{
+  "Name": "HP",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-30T13:01:00.3059509Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "Glider's Ledge",
+      "TargetMapId": 1593,
+      "X": -458.23,
+      "Y": -34.81,
+      "Z": 139.76
+    },
+    {
+      "Name": "Strange Rock",
+      "TargetMapId": 1593,
+      "X": -529.75,
+      "Y": 115.42,
+      "Z": 80.92
+    },
+    {
+      "Name": "Scout's Overlook",
+      "TargetMapId": 1593,
+      "X": 728.06,
+      "Y": 638.79,
+      "Z": 71.64
+    },
+    {
+      "Name": "Inquest Testing Room",
+      "TargetMapId": 1593,
+      "X": 534.56,
+      "Y": 476.98,
+      "Z": 57.06
+    },
+    {
+      "Name": "Strange Pineapple",
+      "TargetMapId": 1593,
+      "X": 986.77,
+      "Y": -57.94,
+      "Z": 2.53
+    },
+    {
+      "Name": "Starry Moat",
+      "TargetMapId": 1593,
+      "X": -712.11,
+      "Y": 276.92,
+      "Z": 65.58
+    },
+    {
+      "Name": "Ley-Rich Roots",
+      "TargetMapId": 1593,
+      "X": -610.04,
+      "Y": -655.03,
+      "Z": 77.84
+    },
+    {
+      "Name": "Cave Overlook",
+      "TargetMapId": 1593,
+      "X": 865.22,
+      "Y": -692.92,
+      "Z": 50.59
+    },
+    {
+      "Name": "Makaela",
+      "TargetMapId": 1593,
+      "X": 538.06,
+      "Y": -555.14,
+      "Z": 3.14
+    },
+    {
+      "Name": "Tyrannus Man-Eater",
+      "TargetMapId": 1593,
+      "X": 30.82,
+      "Y": -794.35,
+      "Z": 104.34
+    },
+    {
+      "Name": "Serene Lily Pad",
+      "TargetMapId": 1593,
+      "X": 196.85,
+      "Y": -490.06,
+      "Z": 0.35
+    },
+    {
+      "Name": "Raging Waterfall",
+      "TargetMapId": 1593,
+      "X": 1102.32,
+      "Y": -296.59,
+      "Z": 8.11
+    },
+    {
+      "Name": "Gnarled Roots",
+      "TargetMapId": 1593,
+      "X": 422.1,
+      "Y": -104.16,
+      "Z": 47.57
+    },
+    {
+      "Name": "Stunning Peak",
+      "TargetMapId": 1593,
+      "X": -37.31,
+      "Y": 678.2,
+      "Z": 108.24
+    },
+    {
+      "Name": "Satellite Dish",
+      "TargetMapId": 1593,
+      "X": 267.7,
+      "Y": 746.19,
+      "Z": 83.0
+    }
+  ]
+}

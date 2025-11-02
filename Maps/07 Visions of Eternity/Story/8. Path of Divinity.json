@@ -1,0 +1,381 @@
+{
+  "Name": "8. Path of Divinity",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-29T22:10:00.5954842Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "1. Isgarren (talk)",
+      "TargetMapId": 1593,
+      "X": 655.37,
+      "Y": -611.48,
+      "Z": 3.26
+    },
+    {
+      "Name": "2. PTM (talk)",
+      "TargetMapId": 1593,
+      "X": 553.31,
+      "Y": -621.16,
+      "Z": 1.5
+    },
+    {
+      "Name": "   @ Travel to Shipwreck Strand",
+      "TargetMapId": 1593,
+      "X": 1057.78,
+      "Y": -444.06,
+      "Z": 3.2
+    },
+    {
+      "Name": "   • [Shipwreck] Inert shadowstone shard",
+      "TargetMapId": 1593,
+      "X": -572.18,
+      "Y": 479.88,
+      "Z": 0.92
+    },
+    {
+      "Name": "   • [Shipwreck] Seer astrolabe",
+      "TargetMapId": 1593,
+      "X": -661.68,
+      "Y": -196.41,
+      "Z": 68.05
+    },
+    {
+      "Name": "   • [Shipwreck] Arcane spell rune",
+      "TargetMapId": 1593,
+      "X": -357.06,
+      "Y": -993.41,
+      "Z": 2.84
+    },
+    {
+      "Name": "   • [Shipwreck] Ancient tome",
+      "TargetMapId": 1593,
+      "X": 227.93,
+      "Y": -339.98,
+      "Z": -70.65
+    },
+    {
+      "Name": "   • [Shipwreck] Primeval shrine",
+      "TargetMapId": 1593,
+      "X": 219.99,
+      "Y": 240.34,
+      "Z": -80.9
+    },
+    {
+      "Name": "   • [Shipwreck] Gold ceremonial platter",
+      "TargetMapId": 1593,
+      "X": 57.71,
+      "Y": 502.36,
+      "Z": 0.52
+    },
+    {
+      "Name": "   @ Travel to Starlit Weald",
+      "TargetMapId": 1593,
+      "X": -815.63,
+      "Y": 578.4,
+      "Z": 17.01
+    },
+    {
+      "Name": "   • [Starlit] Murming spell ruin",
+      "TargetMapId": 1593,
+      "X": 957.06,
+      "Y": -724.78,
+      "Z": 0.33
+    },
+    {
+      "Name": "   • [Starlit] Ineffable spell rune",
+      "TargetMapId": 1593,
+      "X": 862.65,
+      "Y": 705.12,
+      "Z": 42.59
+    },
+    {
+      "Name": "   • [Starlit] Scrying font",
+      "TargetMapId": 1593,
+      "X": -452.68,
+      "Y": -678.49,
+      "Z": 80.66
+    },
+    {
+      "Name": "   • [Starlit] Crumbling scroll",
+      "TargetMapId": 1593,
+      "X": -668.23,
+      "Y": 432.95,
+      "Z": 128.79
+    },
+    {
+      "Name": "   • [Starlit] Misplaced research box",
+      "TargetMapId": 1593,
+      "X": 545.22,
+      "Y": 533.47,
+      "Z": -19.21
+    },
+    {
+      "Name": "   • [Starlit] Weathered stone tablet",
+      "TargetMapId": 1593,
+      "X": -263.22,
+      "Y": 41.24,
+      "Z": 57.86
+    },
+    {
+      "Name": "3. Isgarren (talk 3x)",
+      "TargetMapId": 1593,
+      "X": 655.96,
+      "Y": -611.62,
+      "Z": 3.26
+    },
+    {
+      "Name": "4. Enter Instance",
+      "TargetMapId": 1593,
+      "X": -531.86,
+      "Y": -141.15,
+      "Z": 75.82
+    },
+    {
+      "Name": "   • Isgarren",
+      "TargetMapId": 1593,
+      "X": -559.22,
+      "Y": -143.97,
+      "Z": 78.27
+    },
+    {
+      "Name": "   • Isgarren (wait for him)",
+      "TargetMapId": 1593,
+      "X": -715.39,
+      "Y": -12.37,
+      "Z": 80.96
+    },
+    {
+      "Name": "5. Enter Instance",
+      "TargetMapId": 1593,
+      "X": -679.22,
+      "Y": -432.23,
+      "Z": 74.83
+    },
+    {
+      "Name": "   • Isgarren",
+      "TargetMapId": 1593,
+      "X": -695.1,
+      "Y": -456.47,
+      "Z": 76.8
+    },
+    {
+      "Name": "   • Vault door (wait for allies)",
+      "TargetMapId": 1593,
+      "X": -831.05,
+      "Y": -560.97,
+      "Z": 58.96
+    },
+    {
+      "Name": "   • Stand here",
+      "TargetMapId": 1593,
+      "X": -887.51,
+      "Y": -585.12,
+      "Z": 77.17
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1593,
+      "X": -844.64,
+      "Y": -608.09,
+      "Z": 79.94
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1593,
+      "X": -847.35,
+      "Y": -576.6,
+      "Z": 78.1
+    },
+    {
+      "Name": "   • Open (wait on dialogue)",
+      "TargetMapId": 1593,
+      "X": -830.36,
+      "Y": -561.01,
+      "Z": 59.22
+    },
+    {
+      "Name": "   • Wait here on allies",
+      "TargetMapId": 1593,
+      "X": -789.52,
+      "Y": -599.68,
+      "Z": 25.04
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1593,
+      "X": -728.54,
+      "Y": -594.27,
+      "Z": 25.05
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1593,
+      "X": -732.85,
+      "Y": -593.39,
+      "Z": 25.08
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1593,
+      "X": -732.82,
+      "Y": -606.61,
+      "Z": 25.11
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1593,
+      "X": -769.76,
+      "Y": -606.61,
+      "Z": 25.18
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1593,
+      "X": -776.77,
+      "Y": -606.61,
+      "Z": 25.18
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1593,
+      "X": -770.1,
+      "Y": -593.3,
+      "Z": 25.16
+    },
+    {
+      "Name": "   • Ancient archive",
+      "TargetMapId": 1593,
+      "X": -752.09,
+      "Y": -581.5,
+      "Z": 25.09
+    },
+    {
+      "Name": "   • Isgarren (wait for him)",
+      "TargetMapId": 1593,
+      "X": -713.98,
+      "Y": -601.95,
+      "Z": 25.02
+    },
+    {
+      "Name": "   • Kill, collect and use deposit teleports",
+      "TargetMapId": 1593,
+      "X": -751.58,
+      "Y": -598.39,
+      "Z": 25.1
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1593,
+      "X": -714.48,
+      "Y": -594.92,
+      "Z": 25.03
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1593,
+      "X": -714.48,
+      "Y": -594.92,
+      "Z": 25.03
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1593,
+      "X": -714.48,
+      "Y": -594.92,
+      "Z": 25.03
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1593,
+      "X": -714.48,
+      "Y": -594.92,
+      "Z": 25.03
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1593,
+      "X": -714.48,
+      "Y": -594.92,
+      "Z": 25.03
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1593,
+      "X": -714.48,
+      "Y": -594.92,
+      "Z": 25.03
+    },
+    {
+      "Name": "   • 7",
+      "TargetMapId": 1593,
+      "X": -714.48,
+      "Y": -594.92,
+      "Z": 25.03
+    },
+    {
+      "Name": "   • 8",
+      "TargetMapId": 1593,
+      "X": -714.48,
+      "Y": -594.92,
+      "Z": 25.03
+    },
+    {
+      "Name": "   • Take (wait on dialogue)",
+      "TargetMapId": 1593,
+      "X": -602.28,
+      "Y": -601.53,
+      "Z": 24.69
+    },
+    {
+      "Name": "   • Investigate",
+      "TargetMapId": 1593,
+      "X": -654.11,
+      "Y": -599.16,
+      "Z": 21.05
+    },
+    {
+      "Name": "   • Boss - focus sebb, avoid kill circle and arrows",
+      "TargetMapId": 1593,
+      "X": -662.16,
+      "Y": -601.57,
+      "Z": 21.05
+    },
+    {
+      "Name": "   • Use device on raptors (random spot)",
+      "TargetMapId": 1593,
+      "X": -654.43,
+      "Y": -602.65,
+      "Z": 21.05
+    },
+    {
+      "Name": "   • Isgarren",
+      "TargetMapId": 1593,
+      "X": -620.01,
+      "Y": -601.54,
+      "Z": 20.69
+    },
+    {
+      "Name": "   @ Travel to Shipwreck Strand",
+      "TargetMapId": 1593,
+      "X": 1057.78,
+      "Y": -444.06,
+      "Z": 3.2
+    },
+    {
+      "Name": "6. Enter Instance",
+      "TargetMapId": 1593,
+      "X": 719.72,
+      "Y": 864.45,
+      "Z": 3.64
+    },
+    {
+      "Name": "   • Regroup with allies",
+      "TargetMapId": 1593,
+      "X": 759.8,
+      "Y": 925.7,
+      "Z": 10.15
+    }
+  ]
+}

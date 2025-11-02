@@ -1,0 +1,73 @@
+{
+  "Name": "Prologue - On the Sly",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-28T16:33:59.6883076Z",
+  "StartGameMapId": 139,
+  "Coordinates": [
+	  {
+      "Name": "1. Read mail",
+      "TargetMapId": 139,
+      "X": 147.69,
+      "Y": 463.71,
+      "Z": 84.44
+    },
+    {
+      "Name": "2. [Divinity's Reach] Sang-Mi (talk)",
+      "TargetMapId": 139,
+      "X": 147.69,
+      "Y": 463.71,
+      "Z": 84.44
+    },
+    {
+      "Name": "3. Read mail",
+      "TargetMapId": 139,
+      "X": 147.69,
+      "Y": 463.71,
+      "Z": 84.44
+    },
+    {
+      "Name": "4. [Lion's Arch] Enter Instance",
+      "TargetMapId": 139,
+      "X": -103.45,
+      "Y": 21.4,
+      "Z": 26.9
+    },
+    {
+      "Name": "   • Sayida (wait and talk)",
+      "TargetMapId": 139,
+      "X": -85.71,
+      "Y": 3.58,
+      "Z": 26.97
+    },
+    {
+      "Name": "   • Canach (talk)",
+      "TargetMapId": 139,
+      "X": -20.45,
+      "Y": -11.06,
+      "Z": 22.66
+    },
+    {
+      "Name": "   • Lawson (talk)",
+      "TargetMapId": 139,
+      "X": -69.14,
+      "Y": -45.71,
+      "Z": 10.65
+    },
+    {
+      "Name": "   • Step Away (wait)",
+      "TargetMapId": 139,
+      "X": 3.48,
+      "Y": -1.1,
+      "Z": 22.33
+    },
+    {
+      "Name": "   • Loop Friends",
+      "TargetMapId": 139,
+      "X": -23.72,
+      "Y": -9.63,
+      "Z": 22.66
+    }
+  ]
+}

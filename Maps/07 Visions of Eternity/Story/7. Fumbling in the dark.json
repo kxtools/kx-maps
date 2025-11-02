@@ -1,0 +1,220 @@
+{
+  "Name": "7. Fumbling in the dark",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-29T20:12:04.3670743Z",
+  "StartGameMapId": 1600,
+  "Coordinates": [
+    {
+      "Name": "1. Priory Scout (wait on dialogue then talk)",
+      "TargetMapId": 1600,
+      "X": -186.67,
+      "Y": -154.25,
+      "Z": 74.77
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1600,
+      "X": -775.94,
+      "Y": 171.08,
+      "Z": 80.9
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1600,
+      "X": -622.65,
+      "Y": 113.01,
+      "Z": 81.31
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1600,
+      "X": -633.86,
+      "Y": 64.73,
+      "Z": 81.07
+    },
+    {
+      "Name": "   • 4",
+      "TargetMapId": 1600,
+      "X": -509.22,
+      "Y": -34.46,
+      "Z": 78.57
+    },
+    {
+      "Name": "   • 5",
+      "TargetMapId": 1600,
+      "X": -575.72,
+      "Y": -77.95,
+      "Z": 82.16
+    },
+    {
+      "Name": "   • 6",
+      "TargetMapId": 1600,
+      "X": -666.87,
+      "Y": -137.23,
+      "Z": 81.0
+    },
+    {
+      "Name": "   • 7",
+      "TargetMapId": 1600,
+      "X": -848.91,
+      "Y": 38.99,
+      "Z": 82.02
+    },
+    {
+      "Name": "   • 8",
+      "TargetMapId": 1600,
+      "X": -894.39,
+      "Y": 3.28,
+      "Z": 82.7
+    },
+    {
+      "Name": "   • 9",
+      "TargetMapId": 1600,
+      "X": -670.65,
+      "Y": 182.27,
+      "Z": 82.23
+    },
+    {
+      "Name": "   • 10",
+      "TargetMapId": 1600,
+      "X": -771.55,
+      "Y": -110.9,
+      "Z": 81.14
+    },
+    {
+      "Name": "   • Magical Agitation (wait on dialogue)",
+      "TargetMapId": 1600,
+      "X": -724.84,
+      "Y": 208.63,
+      "Z": 80.87
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1600,
+      "X": -730.04,
+      "Y": 304.57,
+      "Z": 95.55
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1600,
+      "X": -724.91,
+      "Y": 372.89,
+      "Z": 100.44
+    },
+    {
+      "Name": "   • 3",
+      "TargetMapId": 1600,
+      "X": -718.49,
+      "Y": 442.91,
+      "Z": 100.35
+    },
+    {
+      "Name": "2. Isgarren",
+      "TargetMapId": 1600,
+      "X": -759.75,
+      "Y": 539.54,
+      "Z": 128.86
+    },
+    {
+      "Name": "3. Enter Instance",
+      "TargetMapId": 1600,
+      "X": -759.04,
+      "Y": 485.83,
+      "Z": 100.01
+    },
+    {
+      "Name": "   • Open (wait on dialogue)",
+      "TargetMapId": 1600,
+      "X": -667.09,
+      "Y": 484.25,
+      "Z": 100.39
+    },
+    {
+      "Name": "   • Open (kill first)",
+      "TargetMapId": 1600,
+      "X": -617.28,
+      "Y": 483.31,
+      "Z": 100.18
+    },
+    {
+      "Name": "   • Open",
+      "TargetMapId": 1600,
+      "X": -586.88,
+      "Y": 558.22,
+      "Z": 100.19
+    },
+    {
+      "Name": "   • Kill",
+      "TargetMapId": 1600,
+      "X": -587.01,
+      "Y": 576.3,
+      "Z": 100.19
+    },
+    {
+      "Name": "   • Open",
+      "TargetMapId": 1600,
+      "X": -528.1,
+      "Y": 600.16,
+      "Z": 100.18
+    },
+    {
+      "Name": "   • Open (kill first)",
+      "TargetMapId": 1600,
+      "X": -482.04,
+      "Y": 430.35,
+      "Z": 50.32
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1600,
+      "X": -431.4,
+      "Y": 351.94,
+      "Z": 42.51
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1600,
+      "X": -480.01,
+      "Y": 309.55,
+      "Z": 42.68
+    },
+    {
+      "Name": "   • 3 (wait here for second interact)",
+      "TargetMapId": 1600,
+      "X": -533.53,
+      "Y": 346.39,
+      "Z": 42.3
+    },
+    {
+      "Name": "   • 2",
+      "TargetMapId": 1600,
+      "X": -480.01,
+      "Y": 309.55,
+      "Z": 42.68
+    },
+    {
+      "Name": "   • 1",
+      "TargetMapId": 1600,
+      "X": -431.4,
+      "Y": 351.94,
+      "Z": 42.51
+    },
+    {
+      "Name": "   • Boss (kill - random spot)",
+      "TargetMapId": 1600,
+      "X": -431.4,
+      "Y": 351.94,
+      "Z": 42.51
+    },
+    {
+      "Name": "   • Isgarren (talk - random spot)",
+      "TargetMapId": 1600,
+      "X": -452.23,
+      "Y": 352.1,
+      "Z": 40.23
+    }
+  ]
+}

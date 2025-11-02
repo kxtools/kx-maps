@@ -1,0 +1,87 @@
+{
+  "Name": "In Loving Memory",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-10-28T21:12:01.2087521Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "01. A bouquet of flowers is placed here",
+      "TargetMapId": 1595,
+      "X": -670.69,
+      "Y": -91.42,
+      "Z": 91.1
+    },
+    {
+      "Name": "02. Tove Grieves at this grave (may not work)",
+      "TargetMapId": 1595,
+      "X": -716.98,
+      "Y": 1104.28,
+      "Z": 88.81
+    },
+    {
+      "Name": "     • If it doesn't work, start the event here",
+      "TargetMapId": 1595,
+      "X": -358.64,
+      "Y": 744.66,
+      "Z": 45.81
+    },
+    {
+      "Name": "     • Follow event to grave site",
+      "TargetMapId": 1595,
+      "X": -716.98,
+      "Y": 1104.28,
+      "Z": 88.81
+    },
+    {
+      "Name": "03. A pair of candles, lit for a pair",
+      "TargetMapId": 1595,
+      "X": -750.55,
+      "Y": 462.08,
+      "Z": 93.31
+    },
+    {
+      "Name": "04. A grave where rumors are buried",
+      "TargetMapId": 1595,
+      "X": 434.54,
+      "Y": -951.33,
+      "Z": 36.45
+    },
+    {
+      "Name": "05. A monument in a grotto",
+      "TargetMapId": 1595,
+      "X": 716.52,
+      "Y": 64.17,
+      "Z": -96.37
+    },
+    {
+      "Name": "06. Under the earth,, in a grotto. The first of a trio",
+      "TargetMapId": 1595,
+      "X": 438.22,
+      "Y": -562.92,
+      "Z": -51.58
+    },
+    {
+      "Name": "07. Under the earth,, in a grotto. The second of a trio",
+      "TargetMapId": 1595,
+      "X": 443.28,
+      "Y": -568.17,
+      "Z": -51.81
+    },
+    {
+      "Name": "08. Under the earth,, in a grotto. The third of a trio",
+      "TargetMapId": 1595,
+      "X": 448.06,
+      "Y": -572.1,
+      "Z": -52.32
+    },
+    {
+      "Name": "09. A Warrior's Grave",
+      "TargetMapId": 1595,
+      "X": 359.82,
+      "Y": 397.48,
+      "Z": 18.22
+    }
+  ]
+}

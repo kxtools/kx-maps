@@ -1,0 +1,311 @@
+{
+  "Name": "POI",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "Rensuhlo",
+  "LastUpdated": "2025-10-30T02:29:39.5320898Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "Abandoned Antechamber",
+      "TargetMapId": 1593,
+      "X": -688.7,
+      "Y": 656.33,
+      "Z": 41.84
+    },
+    {
+      "Name": "Archway of the Worthy",
+      "TargetMapId": 1593,
+      "X": -453.49,
+      "Y": -793.04,
+      "Z": 79.06
+    },
+    {
+      "Name": "Artesian Ley Spring",
+      "TargetMapId": 1593,
+      "X": -514.61,
+      "Y": 540.89,
+      "Z": 147.53
+    },
+    {
+      "Name": "Choya Conclave",
+      "TargetMapId": 1593,
+      "X": 1082.61,
+      "Y": -153.3,
+      "Z": -6.81
+    },
+    {
+      "Name": "Consecrated Piazza",
+      "TargetMapId": 1593,
+      "X": -725.84,
+      "Y": 1.46,
+      "Z": 81.16
+    },
+    {
+      "Name": "Core Processor",
+      "TargetMapId": 1593,
+      "X": 579.77,
+      "Y": 473.59,
+      "Z": 11.71
+    },
+    {
+      "Name": "Dig Site Gamma",
+      "TargetMapId": 1593,
+      "X": 12.78,
+      "Y": -42.67,
+      "Z": 70.71
+    },
+    {
+      "Name": "Font of Truth",
+      "TargetMapId": 1593,
+      "X": -866.94,
+      "Y": 635.4,
+      "Z": 86.59
+    },
+    {
+      "Name": "Forbidden Vault",
+      "TargetMapId": 1593,
+      "X": -845.64,
+      "Y": 486.27,
+      "Z": 100.12
+    },
+    {
+      "Name": "Forward Base Bravo",
+      "TargetMapId": 1593,
+      "X": -725.89,
+      "Y": 359.91,
+      "Z": 100.29
+    },
+    {
+      "Name": "Fountain of Blessings",
+      "TargetMapId": 1593,
+      "X": -457.35,
+      "Y": -689.17,
+      "Z": 80.87
+    },
+    {
+      "Name": "Giant's lap",
+      "TargetMapId": 1593,
+      "X": 167.12,
+      "Y": -568.02,
+      "Z": 11.97
+    },
+    {
+      "Name": "Grotto of Spirits",
+      "TargetMapId": 1593,
+      "X": -550.63,
+      "Y": 726.1,
+      "Z": 0.02
+    },
+    {
+      "Name": "Hallowed Archive",
+      "TargetMapId": 1593,
+      "X": -742.5,
+      "Y": 641.32,
+      "Z": 93.56
+    },
+    {
+      "Name": "Hidden Aquifer",
+      "TargetMapId": 1593,
+      "X": 579.37,
+      "Y": 552.66,
+      "Z": -29.27
+    },
+    {
+      "Name": "Lake of Lillies",
+      "TargetMapId": 1593,
+      "X": 241.98,
+      "Y": -476.12,
+      "Z": -20.53
+    },
+    {
+      "Name": "Lost Grotto",
+      "TargetMapId": 1593,
+      "X": 978.36,
+      "Y": -721.23,
+      "Z": 13.59
+    },
+    {
+      "Name": "Nestled Clutch",
+      "TargetMapId": 1593,
+      "X": -241.35,
+      "Y": -462.58,
+      "Z": 11.01
+    },
+    {
+      "Name": "Priority Specimen Containment",
+      "TargetMapId": 1593,
+      "X": 637.65,
+      "Y": 548.82,
+      "Z": 57.08
+    },
+    {
+      "Name": "Prismatic Falls",
+      "TargetMapId": 1593,
+      "X": 605.8,
+      "Y": -779.8,
+      "Z": 10.89
+    },
+    {
+      "Name": "Reclaimed Lyceum",
+      "TargetMapId": 1593,
+      "X": -751.48,
+      "Y": 546.6,
+      "Z": 42.59
+    },
+    {
+      "Name": "Ruined Nave",
+      "TargetMapId": 1593,
+      "X": -724.28,
+      "Y": 482.17,
+      "Z": 100.63
+    },
+    {
+      "Name": "Secret Spring",
+      "TargetMapId": 1593,
+      "X": 177.28,
+      "Y": 777.82,
+      "Z": 42.9
+    },
+    {
+      "Name": "Shattered Capstone",
+      "TargetMapId": 1593,
+      "X": -899.53,
+      "Y": 394.64,
+      "Z": 101.85
+    },
+    {
+      "Name": "Shattered Spire",
+      "TargetMapId": 1593,
+      "X": -437.67,
+      "Y": 352.35,
+      "Z": 156.59
+    },
+    {
+      "Name": "Shrine of the Lost",
+      "TargetMapId": 1593,
+      "X": -663.4,
+      "Y": 483.27,
+      "Z": 105.3
+    },
+    {
+      "Name": "Sparkling Sanctum",
+      "TargetMapId": 1593,
+      "X": 954.26,
+      "Y": 695.13,
+      "Z": -13.56
+    },
+    {
+      "Name": "Specimen Containment",
+      "TargetMapId": 1593,
+      "X": 464.05,
+      "Y": 371.12,
+      "Z": 3.25
+    },
+    {
+      "Name": "Spintered Pillars",
+      "TargetMapId": 1593,
+      "X": -492.02,
+      "Y": -462.57,
+      "Z": 99.61
+    },
+    {
+      "Name": "Starlight Bayou",
+      "TargetMapId": 1593,
+      "X": -660.52,
+      "Y": -311.42,
+      "Z": 81.42
+    },
+    {
+      "Name": "Sylvan Cradle",
+      "TargetMapId": 1593,
+      "X": -931.07,
+      "Y": 22.55,
+      "Z": 82.2
+    },
+    {
+      "Name": "The Balance of Souls",
+      "TargetMapId": 1593,
+      "X": -664.71,
+      "Y": -137.37,
+      "Z": 91.23
+    },
+    {
+      "Name": "The Fallen Gate",
+      "TargetMapId": 1593,
+      "X": -497.0,
+      "Y": 24.55,
+      "Z": 86.45
+    },
+    {
+      "Name": "The Great Cascades",
+      "TargetMapId": 1593,
+      "X": -959.53,
+      "Y": -364.53,
+      "Z": 124.04
+    },
+    {
+      "Name": "The Last Vault",
+      "TargetMapId": 1593,
+      "X": -640.26,
+      "Y": 522.53,
+      "Z": 21.8
+    },
+    {
+      "Name": "The Motor Pool",
+      "TargetMapId": 1593,
+      "X": 627.92,
+      "Y": 363.02,
+      "Z": 7.02
+    },
+    {
+      "Name": "The Opening Salvo",
+      "TargetMapId": 1593,
+      "X": 969.14,
+      "Y": 391.4,
+      "Z": 2.31
+    },
+    {
+      "Name": "Threshold of Heaven",
+      "TargetMapId": 1593,
+      "X": -723.67,
+      "Y": 281.76,
+      "Z": 91.79
+    },
+    {
+      "Name": "Tranquil Falls",
+      "TargetMapId": 1593,
+      "X": 142.7,
+      "Y": -100.03,
+      "Z": -1.08
+    },
+    {
+      "Name": "Twin Geysers",
+      "TargetMapId": 1593,
+      "X": 423.21,
+      "Y": -118.24,
+      "Z": -5.58
+    },
+    {
+      "Name": "Weeping Falls",
+      "TargetMapId": 1593,
+      "X": -294.5,
+      "Y": 713.46,
+      "Z": -4.12
+    },
+    {
+      "Name": "Well of Stars",
+      "TargetMapId": 1593,
+      "X": -791.41,
+      "Y": -717.14,
+      "Z": 74.05
+    },
+    {
+      "Name": "Winding Haven",
+      "TargetMapId": 1593,
+      "X": -309.7,
+      "Y": 19.02,
+      "Z": 20.77
+    }
+  ]
+}

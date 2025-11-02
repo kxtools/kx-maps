@@ -1,0 +1,31 @@
+{
+  "Name": "Heart.",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-10-31T20:47:59.9046376Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "Castaway Agnes",
+      "TargetMapId": 1595,
+      "X": 649.4,
+      "Y": 37.57,
+      "Z": 3.61
+    },
+    {
+      "Name": "Canach",
+      "TargetMapId": 1595,
+      "X": 330.15,
+      "Y": -500.27,
+      "Z": 6.24
+    },
+    {
+      "Name": "Tyrian Rep. Sharpwhisker",
+      "TargetMapId": 1595,
+      "X": -9.5,
+      "Y": 631.13,
+      "Z": 0.43
+    }
+  ]
+}
