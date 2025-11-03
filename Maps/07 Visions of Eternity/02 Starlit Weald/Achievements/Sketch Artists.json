@@ -1,0 +1,45 @@
+{
+  "Name": "Sketch Artists",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-03T20:26:13.2812929Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "Do 10 in a row (no mistakes)",
+      "TargetMapId": 1593,
+      "X": 477.54,
+      "Y": -414.64,
+      "Z": 3.22
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 484.22,
+      "Y": -453.22,
+      "Z": 1.7
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 552.55,
+      "Y": -525.3,
+      "Z": 1.03
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 568.57,
+      "Y": -445.78,
+      "Z": 4.26
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1593,
+      "X": 565.93,
+      "Y": -267.19,
+      "Z": 0.04
+    }
+  ]
+}

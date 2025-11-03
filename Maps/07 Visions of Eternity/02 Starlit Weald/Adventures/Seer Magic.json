@@ -7,14 +7,7 @@
   "StartGameMapId": 1593,
   "Coordinates": [
     {
-      "Name": "*CAUTION* Teleporting on mount",
-      "TargetMapId": 1593,
-      "X": -455.24,
-      "Y": 251.23,
-      "Z": 130.89
-    },
-    {
-      "Name": "start",
+      "Name": "Start (go slow)",
       "TargetMapId": 1593,
       "X": -455.24,
       "Y": 251.23,
@@ -196,7 +189,7 @@
       "Z": 193.97
     },
     {
-      "Name": "",
+      "Name": "Finish",
       "TargetMapId": 1593,
       "X": -431.32,
       "Y": 374.17,

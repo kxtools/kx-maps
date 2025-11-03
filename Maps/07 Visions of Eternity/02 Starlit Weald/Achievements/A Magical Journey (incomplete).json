@@ -1,0 +1,101 @@
+{
+  "Name": "A Magical Journey",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-03T19:52:13.2166282Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "1. Talk to Hiberius Mythseeker",
+      "TargetMapId": 1593,
+      "X": -723.61,
+      "Y": 465.71,
+      "Z": 100.72
+    },
+    {
+      "Name": "2. Magic from a trapped room (wait for event)",
+      "TargetMapId": 1593,
+      "X": -832.7,
+      "Y": 484.62,
+      "Z": 100.53
+    },
+    {
+      "Name": "    • open (event may have started already)",
+      "TargetMapId": 1593,
+      "X": -779.04,
+      "Y": 484.39,
+      "Z": 99.92
+    },
+    {
+      "Name": "    • 1",
+      "TargetMapId": 1593,
+      "X": -832.7,
+      "Y": 484.62,
+      "Z": 100.53
+    },
+    {
+      "Name": "    • 2",
+      "TargetMapId": 1593,
+      "X": -879.87,
+      "Y": 484.9,
+      "Z": 100.16
+    },
+    {
+      "Name": "    • 3",
+      "TargetMapId": 1593,
+      "X": -814.53,
+      "Y": 499.98,
+      "Z": 100.22
+    },
+    {
+      "Name": "    • 4",
+      "TargetMapId": 1593,
+      "X": -776.4,
+      "Y": 525.73,
+      "Z": 98.55
+    },
+    {
+      "Name": "    • 5",
+      "TargetMapId": 1593,
+      "X": -777.19,
+      "Y": 469.62,
+      "Z": 98.44
+    },
+    {
+      "Name": "    • 6",
+      "TargetMapId": 1593,
+      "X": -766.92,
+      "Y": 448.77,
+      "Z": 98.46
+    },
+    {
+      "Name": "    • 7",
+      "TargetMapId": 1593,
+      "X": -739.0,
+      "Y": 528.11,
+      "Z": 99.3
+    },
+    {
+      "Name": "3. Essence of Seer Spirit (start event)",
+      "TargetMapId": 1593,
+      "X": 72.42,
+      "Y": 88.27,
+      "Z": 51.58
+    },
+    {
+      "Name": "    • 1",
+      "TargetMapId": 1593,
+      "X": 53.91,
+      "Y": -150.77,
+      "Z": 83.64
+    },
+    {
+      "Name": "    • 2",
+      "TargetMapId": 1593,
+      "X": 73.56,
+      "Y": -97.01,
+      "Z": 79.36
+    }
+  ]
+}

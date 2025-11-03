@@ -1,0 +1,45 @@
+{
+  "Name": "T1 Rifts",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T23:03:23.3646366Z",
+  "StartGameMapId": 1595,
+  "Coordinates": [
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 709.55,
+      "Y": 727.94,
+      "Z": 17.64
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 373.51,
+      "Y": 490.59,
+      "Z": 0.72
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 517.97,
+      "Y": -424.66,
+      "Z": 1.25
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": -377.8,
+      "Y": 529.74,
+      "Z": 1.56
+    },
+    {
+      "Name": "",
+      "TargetMapId": 1595,
+      "X": 249.09,
+      "Y": 190.79,
+      "Z": 6.44
+    },
+  ]
+}

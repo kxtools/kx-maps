@@ -1,0 +1,150 @@
+{
+  "Name": "Gwyl Rings",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "novus000",
+  "LastUpdated": "2025-11-02T21:44:45.7365260Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "01. Speak with Cattra",
+      "TargetMapId": 1593,
+      "X": 814.23,
+      "Y": -735.13,
+      "Z": 2.43
+    },
+    {
+      "Name": "02. Tend to the rock",
+      "TargetMapId": 1593,
+      "X": 844.88,
+      "Y": -760.45,
+      "Z": 0.64
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": 823.03,
+      "Y": -740.7,
+      "Z": 2.37
+    },
+    {
+      "Name": "03. Tend to the saurian egg",
+      "TargetMapId": 1593,
+      "X": -65.04,
+      "Y": 713.68,
+      "Z": 35.48
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": -41.57,
+      "Y": 757.75,
+      "Z": 3.16
+    },
+    {
+      "Name": "04. Tend to the bright fern",
+      "TargetMapId": 1593,
+      "X": -57.46,
+      "Y": -462.71,
+      "Z": 27.13
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": -5.62,
+      "Y": -409.74,
+      "Z": 14.44
+    },
+    {
+      "Name": "05. Tend to the blue poppy",
+      "TargetMapId": 1593,
+      "X": 401.88,
+      "Y": -139.86,
+      "Z": 6.06
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": 347.7,
+      "Y": -42.42,
+      "Z": 1.04
+    },
+    {
+      "Name": "06. Tend to the red mushroom",
+      "TargetMapId": 1593,
+      "X": 658.29,
+      "Y": 633.85,
+      "Z": 37.46
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": 536.01,
+      "Y": 744.51,
+      "Z": 39.58
+    },
+    {
+      "Name": "07. Tend to the coconut",
+      "TargetMapId": 1593,
+      "X": -351.58,
+      "Y": 74.67,
+      "Z": 47.57
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": -194.18,
+      "Y": -9.1,
+      "Z": 0.45
+    },
+    {
+      "Name": "08. Tend to the frog",
+      "TargetMapId": 1593,
+      "X": 138.01,
+      "Y": -676.77,
+      "Z": 0.22
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": 17.71,
+      "Y": -711.61,
+      "Z": 0.49
+    },
+    {
+      "Name": "09. Tend to the butterfly",
+      "TargetMapId": 1593,
+      "X": -552.48,
+      "Y": 707.19,
+      "Z": 0.43
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": -557.0,
+      "Y": 756.19,
+      "Z": 1.43
+    },
+    {
+      "Name": "10. Tend to the wildflower",
+      "TargetMapId": 1593,
+      "X": 1100.5,
+      "Y": -130.81,
+      "Z": 36.07
+    },
+    {
+      "Name": "     • drop",
+      "TargetMapId": 1593,
+      "X": 1046.36,
+      "Y": 22.61,
+      "Z": 2.42
+    },
+    {
+      "Name": "11. Report back to Cattra",
+      "TargetMapId": 1593,
+      "X": 814.23,
+      "Y": -735.13,
+      "Z": 2.43
+    },
+  ]
+}

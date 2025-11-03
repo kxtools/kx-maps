@@ -1,0 +1,45 @@
+{
+  "Name": "Shattered History",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sneakychopsticks",
+  "LastUpdated": "2025-11-03T03:21:51.1814999Z",
+  "StartGameMapId": 1593,
+  "Coordinates": [
+    {
+      "Name": "01. Fragmmented Poem",
+      "TargetMapId": 1593,
+      "X": -154.68,
+      "Y": -99.46,
+      "Z": 78.33
+    },
+	    {
+      "Name": "02. List of Ingredients",
+      "TargetMapId": 1593,
+      "X": -484.96,
+      "Y": -447.81,
+      "Z": 81.85
+    },
+    {
+      "Name": "03. Pilgrim's Path",
+      "TargetMapId": 1593,
+      "X": 168.24,
+      "Y": -117.07,
+      "Z": -10.73
+    },
+    {
+      "Name": "04. Crumbling Tablet",
+      "TargetMapId": 1593,
+      "X": -124.98,
+      "Y": -357.64,
+      "Z": 34.78
+    },
+    {
+      "Name": "05. Ancient Message",
+      "TargetMapId": 1593,
+      "X": 43.3,
+      "Y": -230.49,
+      "Z": 61.88
+    }
+  ]
+}
