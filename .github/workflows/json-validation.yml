@@ -15,8 +15,12 @@ jobs:
 
       - name: Validate JSON files
         shell: pwsh
-        run: ./scripts/validate-json.ps1
+        run: ./scripts/checks/validate-json.ps1
 
       - name: Check JSON Name alignment
         shell: pwsh
-        run: ./scripts/check-name-alignment.ps1
+        run: ./scripts/checks/check-name-alignment.ps1
+
+      - name: Check filename style
+        shell: pwsh
+        run: ./scripts/checks/check-filename-style.ps1

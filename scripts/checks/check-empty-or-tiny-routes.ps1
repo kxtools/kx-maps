@@ -1,14 +1,16 @@
 param(
     [switch]$Changed,
-    [switch]$Apply,
-    [switch]$IncludeNonMaps
+    [switch]$IncludeNonMaps,
+    [ValidateRange(1, 50)]
+    [int]$TinyThreshold = 2,
+    [switch]$FailOnTiny
 )
 
 Set-StrictMode -Version Latest
 $ErrorActionPreference = "Stop"
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
-$repoRoot = (Resolve-Path (Join-Path $scriptDir "..")).Path
+$repoRoot = (Resolve-Path (Join-Path $scriptDir "..\..")).Path
 
 function Get-RepoRelativePath {
     param(
@@ -78,19 +80,16 @@ if ($files.Count -eq 0) {
     exit 0
 }
 
-$mismatchCount = 0
-$updatedCount = 0
 $errorCount = 0
+$emptyCount = 0
+$tinyCount = 0
 
 foreach ($file in $files) {
     $relativePath = Get-RepoRelativePath -Path $file
-    $expected = [System.IO.Path]::GetFileNameWithoutExtension($file)
-
-    $raw = $null
     $json = $null
+
     try {
-        $raw = Get-Content -Path $file -Raw -Encoding UTF8
-        $json = $raw | ConvertFrom-Json
+        $json = Get-Content -Path $file -Raw -Encoding UTF8 | ConvertFrom-Json
     }
     catch {
         Write-Host "[ERROR] $relativePath : invalid JSON syntax. $($_.Exception.Message)"
@@ -104,54 +103,45 @@ foreach ($file in $files) {
         continue
     }
 
-    if (-not ($json.PSObject.Properties.Name -contains "Name") -or $json.Name -isnot [string]) {
-        Write-Host "[ERROR] $relativePath : missing or invalid 'Name' (must be a string)."
+    if (-not ($json.PSObject.Properties.Name -contains "Coordinates") -or $null -eq $json.Coordinates) {
+        Write-Host "[ERROR] $relativePath : missing 'Coordinates' (must be an array)."
         $errorCount++
         continue
     }
 
-    $actual = $json.Name
-    if ([string]::Equals($actual, $expected, [System.StringComparison]::Ordinal)) {
-        continue
-    }
-
-    $mismatchCount++
-    Write-Host "[MISMATCH] $relativePath"
-    Write-Host "  File name : $expected"
-    Write-Host "  JSON Name : $actual"
-
-    if (-not $Apply) {
-        continue
-    }
-
-    $escapedExpected = ($expected | ConvertTo-Json -Compress)
-    $namePattern = '("Name"\s*:\s*)"((?:\\.|[^"\\])*)"'
-    $regex = [System.Text.RegularExpressions.Regex]::new($namePattern)
-    $updatedRaw = $regex.Replace($raw, ('$1' + $escapedExpected), 1)
-
-    if ([string]::Equals($updatedRaw, $raw, [System.StringComparison]::Ordinal)) {
-        Write-Host "[ERROR] $relativePath : unable to update Name field in raw text."
+    if ($json.Coordinates -is [string] -or $json.Coordinates -isnot [System.Collections.IEnumerable]) {
+        Write-Host "[ERROR] $relativePath : 'Coordinates' must be an array."
         $errorCount++
         continue
     }
 
-    Set-Content -Path $file -Value $updatedRaw -Encoding utf8
-    $updatedCount++
-}
+    $coordinates = @($json.Coordinates)
+    $count = $coordinates.Count
 
-if (-not $Apply) {
-    Write-Host ""
-    Write-Host "Dry run complete. Mismatches found: $mismatchCount. Use -Apply to update files."
-    if ($errorCount -gt 0) {
-        Write-Host "Errors: $errorCount"
-        exit 1
+    if ($count -eq 0) {
+        Write-Host "[EMPTY] $relativePath : Coordinates count is 0."
+        $emptyCount++
+        continue
     }
-    exit 0
+
+    if ($count -le $TinyThreshold) {
+        Write-Host "[TINY] $relativePath : Coordinates count is $count (threshold=$TinyThreshold)."
+        $tinyCount++
+    }
 }
 
 Write-Host ""
-Write-Host "Apply complete. Mismatches found: $mismatchCount. Files updated: $updatedCount. Errors: $errorCount."
-if ($errorCount -gt 0) {
+Write-Host "Scanned files: $($files.Count)"
+Write-Host "Empty routes: $emptyCount"
+Write-Host "Tiny routes: $tinyCount (threshold=$TinyThreshold)"
+Write-Host "Errors: $errorCount"
+
+if ($errorCount -gt 0 -or $emptyCount -gt 0) {
     exit 1
 }
+
+if ($FailOnTiny -and $tinyCount -gt 0) {
+    exit 1
+}
+
 exit 0
