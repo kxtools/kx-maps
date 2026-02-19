@@ -1,6 +1,7 @@
 param(
     [switch]$Changed,
-    [switch]$IgnoreCase
+    [switch]$IgnoreCase,
+    [switch]$IncludeNonMaps
 )
 
 Set-StrictMode -Version Latest
@@ -59,6 +60,13 @@ function Get-JsonFiles {
 }
 
 $files = @(Get-JsonFiles -OnlyChanged:$Changed)
+
+if (-not $IncludeNonMaps) {
+    $files = @($files | Where-Object {
+        $rel = Get-RepoRelativePath -Path $_
+        $rel -like "Maps\*" -or $rel -like "Maps/*"
+    })
+}
 
 if ($files.Count -eq 0) {
     if ($Changed) {
