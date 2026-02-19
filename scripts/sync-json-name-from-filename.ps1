@@ -129,7 +129,7 @@ foreach ($file in $files) {
     $regex = [System.Text.RegularExpressions.Regex]::new($namePattern)
     $updatedRaw = $regex.Replace($raw, ('$1' + $escapedExpected), 1)
 
-    if ($updatedRaw -eq $raw) {
+    if ([string]::Equals($updatedRaw, $raw, [System.StringComparison]::Ordinal)) {
         Write-Host "[ERROR] $relativePath : unable to update Name field in raw text."
         $errorCount++
         continue
