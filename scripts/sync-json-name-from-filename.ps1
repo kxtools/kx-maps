@@ -126,12 +126,8 @@ foreach ($file in $files) {
 
     $escapedExpected = ($expected | ConvertTo-Json -Compress)
     $namePattern = '("Name"\s*:\s*)"((?:\\.|[^"\\])*)"'
-    $updatedRaw = [System.Text.RegularExpressions.Regex]::Replace(
-        $raw,
-        $namePattern,
-        ('$1' + $escapedExpected),
-        1
-    )
+    $regex = [System.Text.RegularExpressions.Regex]::new($namePattern)
+    $updatedRaw = $regex.Replace($raw, ('$1' + $escapedExpected), 1)
 
     if ($updatedRaw -eq $raw) {
         Write-Host "[ERROR] $relativePath : unable to update Name field in raw text."
