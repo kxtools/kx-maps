@@ -103,6 +103,12 @@ foreach ($file in $files) {
     $relativePath = Get-RepoRelativePath -Path $file
     $baseName = [System.IO.Path]::GetFileNameWithoutExtension($file)
 
+    if ($relativePath.Length -ge 180) {
+        Write-Host "[STYLE][ERROR] $relativePath : path is too long ($($relativePath.Length) chars). Keep under 180 to avoid Windows unzip errors."
+        Add-Count -Map $ruleCounts -Key "path_too_long"
+        $strictErrors++
+    }
+
     if ($relativePath -match '[^\x00-\x7F]') {
         Write-Host "[STYLE][ERROR] $relativePath : non-ASCII character in path."
         Add-Count -Map $ruleCounts -Key "non_ascii_path"
