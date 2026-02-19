@@ -203,8 +203,17 @@ function Insert-StartGameMapId {
         $newline = "`r`n"
     }
 
+    # Preferred path: inject right before the top-level Coordinates key.
+    $coordPattern = '("Coordinates"\s*:)'
+    $coordRegex = [System.Text.RegularExpressions.Regex]::new($coordPattern)
+    if ($coordRegex.IsMatch($Raw)) {
+        $insert = "`"StartGameMapId`": $MapId,$newline  "
+        $updated = $coordRegex.Replace($Raw, ($insert + '$1'), 1)
+        return $updated
+    }
+
     $lines = New-Object System.Collections.Generic.List[string]
-    foreach ($line in ($Raw -split '\r?\n', -1)) {
+    foreach ($line in ($Raw -split '\r?\n')) {
         [void]$lines.Add($line)
     }
 
