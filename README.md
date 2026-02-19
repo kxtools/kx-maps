@@ -6,8 +6,8 @@ Official repository of custom route files created for the **[premium KX Trainer 
 To use these files, you need an active license for the **[premium version of KX Trainer Pro](https://kxtools.xyz/kx-trainer-pro)**. Once you have it, simply clone this repository, replace your local `Maps` folder with the one from here, and load the desired file in the utility to start exploring.
 
 ## Repository Notes
-`Data/` contains app-required data files (for example `map_names.json`).
-`Legacy Notes/` contains archived route-author notes and is not required at runtime.
+- `Data/` contains app-required data files (example: `map_names.json`).
+- `Legacy Notes/` contains archived route-author notes and is not required at runtime.
 
 ## Contributing
 Pull requests are welcome. If you think that there is something missing you can always make your own custom routes using the KX Trainer Pro map-making system and open a pull request. For major changes, please open an issue first to discuss what you would like to change.
