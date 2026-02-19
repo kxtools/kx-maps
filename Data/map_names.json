@@ -3225,11 +3225,11 @@
   },
   {
     "id": "1331",
-    "name": "Strike Mission: Shiverpeaks Pass (Public)"
+    "name": "Shiverpeaks Pass (Public)"
   },
   {
     "id": "1332",
-    "name": "Strike Mission: Shiverpeaks Pass (Squad)"
+    "name": "Shiverpeaks Pass"
   },
   {
     "id": "1334",
@@ -3245,15 +3245,15 @@
   },
   {
     "id": "1339",
-    "name": "Weekly Strike Mission: Boneskinner (Squad)"
+    "name": "Boneskinner"
   },
   {
     "id": "1340",
-    "name": "Weekly Strike Mission: Voice of the Fallen and Claw of the Fallen (Public)"
+    "name": "Voice of the Fallen and Claw of the Fallen (Public)"
   },
   {
     "id": "1341",
-    "name": "Weekly Strike Mission: Fraenir of Jormag (Squad)"
+    "name": "Fraenir of Jormag"
   },
   {
     "id": "1342",
@@ -3265,7 +3265,7 @@
   },
   {
     "id": "1344",
-    "name": "Weekly Strike Mission: Fraenir of Jormag (Public)"
+    "name": "Fraenir of Jormag (Public)"
   },
   {
     "id": "1345",
@@ -3273,7 +3273,7 @@
   },
   {
     "id": "1346",
-    "name": "Weekly Strike Mission: Voice of the Fallen and Claw of the Fallen (Squad)"
+    "name": "Voice of the Fallen and Claw of the Fallen"
   },
   {
     "id": "1349",
@@ -3281,7 +3281,7 @@
   },
   {
     "id": "1351",
-    "name": "Weekly Strike Mission: Boneskinner (Public)"
+    "name": "Boneskinner (Public)"
   },
   {
     "id": "1352",
@@ -3301,7 +3301,7 @@
   },
   {
     "id": "1357",
-    "name": "Strike Mission: Whisper of Jormag (Public)"
+    "name": "Whisper of Jormag (Public)"
   },
   {
     "id": "1358",
@@ -3309,7 +3309,7 @@
   },
   {
     "id": "1359",
-    "name": "Strike Mission: Whisper of Jormag (Squad)"
+    "name": "Whisper of Jormag"
   },
   {
     "id": "1361",
@@ -3357,7 +3357,7 @@
   },
   {
     "id": "1374",
-    "name": "Strike Mission: Cold War (Squad)"
+    "name": "Cold War"
   },
   {
     "id": "1375",
@@ -3365,7 +3365,7 @@
   },
   {
     "id": "1376",
-    "name": "Strike Mission: Cold War (Public)"
+    "name": "Cold War (Public)"
   },
   {
     "id": "1378",
@@ -3553,7 +3553,7 @@
   },
   {
     "id": "1432",
-    "name": "Strike Mission: Aetherblade Hideout"
+    "name": "Aetherblade Hideout"
   },
   {
     "id": "1433",
@@ -3573,7 +3573,7 @@
   },
   {
     "id": "1437",
-    "name": "Strike Mission: Harvest Temple"
+    "name": "Harvest Temple"
   },
   {
     "id": "1438",
@@ -3613,11 +3613,11 @@
   },
   {
     "id": "1450",
-    "name": "Strike Mission: Xunlai Jade Junkyard"
+    "name": "Xunlai Jade Junkyard"
   },
   {
     "id": "1451",
-    "name": "Strike Mission: Kaineng Overlook"
+    "name": "Kaineng Overlook"
   },
   {
     "id": "1452",
@@ -3733,7 +3733,7 @@
   },
   {
     "id": "1485",
-    "name": "Strike Mission: Old Lion's Court"
+    "name": "Old Lion's Court"
   },
   {
     "id": "1487",
@@ -3841,7 +3841,7 @@
   },
   {
     "id": "1515",
-    "name": "Strike Mission: Cosmic Observatory"
+    "name": "Cosmic Observatory"
   },
   {
     "id": "1516",
@@ -3861,7 +3861,7 @@
   },
   {
     "id": "1520",
-    "name": "Strike Mission: Temple of Febe"
+    "name": "Temple of Febe"
   },
   {
     "id": "1521",
@@ -4194,5 +4194,13 @@
   {
     "id": "1608",
     "name": "Unscheduled Departures: Shipwreck Strand"
+  },
+  {
+    "id": "1609",
+    "name": "Guardian's Glade"
+  },
+  {
+    "id": "1611",
+    "name": "Laboratory CAS-U-5"
   }
 ]
