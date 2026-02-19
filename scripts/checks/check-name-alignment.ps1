@@ -1,6 +1,5 @@
 param(
     [switch]$Changed,
-    [switch]$IgnoreCase,
     [switch]$IncludeNonMaps
 )
 
@@ -108,18 +107,19 @@ foreach ($file in $files) {
     $expected = [System.IO.Path]::GetFileNameWithoutExtension($file)
     $actual = $json.Name
 
-    $isMatch = $false
-    if ($IgnoreCase) {
-        $isMatch = [string]::Equals($actual, $expected, [System.StringComparison]::OrdinalIgnoreCase)
-    }
-    else {
-        $isMatch = [string]::Equals($actual, $expected, [System.StringComparison]::Ordinal)
+    if ($actual -ne $actual.Trim()) {
+        Write-Host "[MISMATCH] $relativePath"
+        Write-Host "  Reason    : JSON Name has leading/trailing whitespace."
+        Write-Host "  File name : '$expected'"
+        Write-Host "  JSON Name : '$actual'"
+        $errorCount++
+        continue
     }
 
-    if (-not $isMatch) {
+    if (-not [string]::Equals($actual, $expected, [System.StringComparison]::Ordinal)) {
         Write-Host "[MISMATCH] $relativePath"
-        Write-Host "  File name : $expected"
-        Write-Host "  JSON Name : $actual"
+        Write-Host "  File name : '$expected'"
+        Write-Host "  JSON Name : '$actual'"
         $errorCount++
     }
 }
