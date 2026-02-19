@@ -261,6 +261,31 @@ function Get-ApostropheTypoHints {
     return @($hints | Sort-Object)
 }
 
+function Test-ApostropheVariant {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$SourceText,
+        [Parameter(Mandatory = $true)]
+        [string]$CanonicalText
+    )
+
+    if ($CanonicalText -notmatch "'") {
+        return $false
+    }
+
+    $source = $SourceText.Trim()
+    $canonical = $CanonicalText.Trim()
+    if ($source -ceq $canonical) {
+        return $false
+    }
+
+    if ((Normalize-MapNameForMatch -Text $source) -ne (Normalize-MapNameForMatch -Text $canonical)) {
+        return $false
+    }
+
+    return ($source -notmatch "'")
+}
+
 function Resolve-FileMapContext {
     param(
         [Parameter(Mandatory = $true)]
@@ -356,6 +381,18 @@ foreach ($name in $canonicalMapNames) {
     }
 }
 
+$canonicalListByNormalized = @{}
+foreach ($name in $canonicalMapNames) {
+    $normalized = Normalize-MapNameForMatch -Text $name
+    if (-not $canonicalListByNormalized.ContainsKey($normalized)) {
+        $canonicalListByNormalized[$normalized] = New-Object System.Collections.Generic.List[string]
+    }
+
+    if (-not $canonicalListByNormalized[$normalized].Contains($name)) {
+        [void]$canonicalListByNormalized[$normalized].Add($name)
+    }
+}
+
 $canonicalByNearPluralKey = @{}
 foreach ($name in $canonicalMapNames) {
     $key = Get-NearPluralKey -Text $name
@@ -393,10 +430,12 @@ if ($files.Count -eq 0) {
 $checkedScopeFolders = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
 $checkedMapFolders = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
 $unknownMapFolders = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
+$apostropheMapFolders = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
 $mapNameMismatchWarnings = 0
 $nearTypoWarnings = 0
 $inferenceByFile = @{}
 $nearFolderSuggestions = @{}
+$apostropheFolderSuggestions = @{}
 $repoExactCanonicalNames = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
 
 foreach ($file in $files) {
@@ -419,6 +458,11 @@ foreach ($file in $files) {
     if ($inferred.MatchKind -eq "exact") {
         [void]$checkedMapFolders.Add($folderKey)
         [void]$repoExactCanonicalNames.Add($inferred.Canonical)
+
+        if (Test-ApostropheVariant -SourceText $inferred.Segment -CanonicalText $inferred.Canonical) {
+            [void]$apostropheMapFolders.Add($folderKey)
+            $apostropheFolderSuggestions[$folderKey] = "$($inferred.Segment) -> $($inferred.Canonical)"
+        }
     }
     else {
         [void]$unknownMapFolders.Add($folderKey)
@@ -473,7 +517,23 @@ if ($WarnOnNearMapTypos) {
         }
 
         $baseNormalized = Normalize-MapNameForMatch -Text $baseName
-        if ($canonicalByNormalized.ContainsKey($baseNormalized)) {
+        if ($canonicalListByNormalized.ContainsKey($baseNormalized)) {
+            $apostropheHints = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
+            foreach ($candidate in $canonicalListByNormalized[$baseNormalized]) {
+                if ($knownMapNames -notcontains $candidate) {
+                    continue
+                }
+
+                if ($candidate -match "'" -and $baseName -notmatch "'" -and $baseName -cne $candidate) {
+                    [void]$apostropheHints.Add("$baseName -> $candidate")
+                }
+            }
+
+            if ($apostropheHints.Count -gt 0) {
+                $nearTypoWarnings++
+                Write-Host "[MAP-NAME][WARN] $relativePath : possible apostrophe typo(s): $($apostropheHints -join '; ')"
+            }
+
             continue
         }
 
@@ -521,10 +581,15 @@ foreach ($entry in ($unknownMapFolders | Sort-Object)) {
     }
 }
 
+foreach ($entry in ($apostropheMapFolders | Sort-Object)) {
+    Write-Host "[MAP-NAME][WARN] $entry : possible apostrophe typo: $($apostropheFolderSuggestions[$entry])"
+}
+
 Write-Host ""
 Write-Host "Checked scope folders: $($checkedScopeFolders.Count)"
 Write-Host "Checked map folders: $($checkedMapFolders.Count)"
 Write-Host "Unknown map folders: $($unknownMapFolders.Count)"
+Write-Host "Apostrophe map folder warnings: $($apostropheMapFolders.Count)"
 if ($WarnOnMapNameInFileMismatch) {
     Write-Host "File-name map mismatch warnings: $mapNameMismatchWarnings"
 }
@@ -532,7 +597,7 @@ if ($WarnOnNearMapTypos) {
     Write-Host "Near map typo warnings: $nearTypoWarnings"
 }
 
-if ($unknownMapFolders.Count -gt 0) {
+if ($unknownMapFolders.Count -gt 0 -or $apostropheMapFolders.Count -gt 0) {
     exit 1
 }
 
