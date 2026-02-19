@@ -1,5 +1,5 @@
 {
-  "Name": "Noxious Pod",
+  "Name": "Noxious Pods",
   "Coordinates": [
     {
       "Name": "type=tw_guides.tw_hot.tw_hot_ds.tw_hot_ds_noxiouspods.tw_hot_ds_noxiouspods_noxiouspod",
@@ -1527,3 +1527,4 @@
     }
   ]
 }
+
