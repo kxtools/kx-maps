@@ -2,16 +2,7 @@ param(
     [switch]$Changed,
     [switch]$IncludeNonMaps,
     [switch]$WarnOnMapNameInFileMismatch,
-    [string[]]$TopLevelScopes = @(
-        "01 Core Tyria",
-        "02 Heart of Thorns",
-        "03 Path of Fire",
-        "04 End of Dragons",
-        "05 Secrets of the Obscure",
-        "06 Janthir Wilds",
-        "07 Visions of Eternity",
-        "10 Living World"
-    )
+    [switch]$WarnOnNearMapTypos
 )
 
 Set-StrictMode -Version Latest
@@ -69,6 +60,96 @@ function Get-JsonFiles {
     }
 }
 
+function Normalize-MapNameForMatch {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$Text
+    )
+
+    $value = $Text.ToLowerInvariant()
+    $value = $value -replace "[']", ""
+    $value = $value -replace "[^a-z0-9 ]", " "
+    $value = $value -replace "\s+", " "
+    return $value.Trim()
+}
+
+function Remove-TrailingS {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$Token
+    )
+
+    if ($Token.Length -gt 1 -and $Token.EndsWith("s")) {
+        return $Token.Substring(0, $Token.Length - 1)
+    }
+
+    return $Token
+}
+
+function Test-NearPluralTypo {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$SourceText,
+        [Parameter(Mandatory = $true)]
+        [string]$CanonicalText
+    )
+
+    $source = Normalize-MapNameForMatch -Text $SourceText
+    $canonical = Normalize-MapNameForMatch -Text $CanonicalText
+
+    if ([string]::IsNullOrWhiteSpace($source) -or [string]::IsNullOrWhiteSpace($canonical)) {
+        return $false
+    }
+
+    if ($source -eq $canonical) {
+        return $false
+    }
+
+    $sourceTokens = @($source -split ' ' | Where-Object { $_ })
+    $canonicalTokens = @($canonical -split ' ' | Where-Object { $_ })
+    if ($sourceTokens.Count -ne $canonicalTokens.Count) {
+        return $false
+    }
+
+    $changes = 0
+    for ($i = 0; $i -lt $sourceTokens.Count; $i++) {
+        $s = $sourceTokens[$i]
+        $c = $canonicalTokens[$i]
+        if ($s -eq $c) {
+            continue
+        }
+
+        if ((Remove-TrailingS -Token $s) -eq (Remove-TrailingS -Token $c)) {
+            $changes++
+            continue
+        }
+
+        return $false
+    }
+
+    return ($changes -gt 0)
+}
+
+function Get-NearPluralKey {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$Text
+    )
+
+    $normalized = Normalize-MapNameForMatch -Text $Text
+    if ([string]::IsNullOrWhiteSpace($normalized)) {
+        return $null
+    }
+
+    $tokens = @($normalized -split ' ' | Where-Object { $_ })
+    if ($tokens.Count -eq 0) {
+        return $null
+    }
+
+    $trimmed = @($tokens | ForEach-Object { Remove-TrailingS -Token $_ })
+    return ($trimmed -join ' ')
+}
+
 function Get-ClosestNames {
     param(
         [Parameter(Mandatory = $true)]
@@ -77,14 +158,17 @@ function Get-ClosestNames {
         [string[]]$Candidates
     )
 
-    $needle = $InputName.ToLowerInvariant()
+    $needle = Normalize-MapNameForMatch -Text $InputName
+    if ([string]::IsNullOrWhiteSpace($needle)) {
+        return @()
+    }
+
     $matches = @($Candidates | Where-Object {
-        $c = $_.ToLowerInvariant()
+        $c = Normalize-MapNameForMatch -Text $_
         $c.Contains($needle) -or $needle.Contains($c)
     } | Select-Object -Unique)
-
     if ($matches.Count -gt 0) {
-        return $matches | Select-Object -First 3
+        return @($matches | Select-Object -First 3)
     }
 
     $tokens = @($needle -split '\s+' | Where-Object { $_ })
@@ -93,14 +177,13 @@ function Get-ClosestNames {
     }
 
     $scored = foreach ($candidate in $Candidates) {
-        $cl = $candidate.ToLowerInvariant()
+        $normalized = Normalize-MapNameForMatch -Text $candidate
         $score = 0
         foreach ($token in $tokens) {
-            if ($cl.Contains($token)) {
+            if ($normalized.Contains($token)) {
                 $score++
             }
         }
-
         if ($score -gt 0) {
             [pscustomobject]@{
                 Name  = $candidate
@@ -109,86 +192,139 @@ function Get-ClosestNames {
         }
     }
 
-    return @($scored | Sort-Object -Property @{Expression = "Score"; Descending = $true }, @{Expression = "Name"; Descending = $false } | Select-Object -ExpandProperty Name -First 3)
+    return @(
+        $scored |
+        Sort-Object -Property @{Expression = "Score"; Descending = $true }, @{Expression = "Name"; Descending = $false } |
+        Select-Object -ExpandProperty Name -First 3
+    )
 }
 
-function Normalize-MapFolderName {
+function Get-MapMentions {
     param(
         [Parameter(Mandatory = $true)]
-        [string]$Name
+        [string]$BaseName,
+        [Parameter(Mandatory = $true)]
+        [string[]]$KnownMapNames
     )
 
-    return (($Name -replace '^\d+\s+', '').Trim())
+    $mentions = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
+    foreach ($candidate in ($KnownMapNames | Sort-Object { $_.Length } -Descending)) {
+        $escaped = [System.Text.RegularExpressions.Regex]::Escape($candidate)
+        $pattern = "(?i)(?<!\w)$escaped(?!\w)"
+        if ($BaseName -match $pattern) {
+            [void]$mentions.Add($candidate)
+            continue
+        }
+
+        if ($candidate -match "'") {
+            $apostropheLess = ($candidate -replace "'", "")
+            $apostropheLessEscaped = [System.Text.RegularExpressions.Regex]::Escape($apostropheLess)
+            $apostropheLessPattern = "(?i)(?<!\w)$apostropheLessEscaped(?!\w)"
+            if ($BaseName -match $apostropheLessPattern) {
+                [void]$mentions.Add($candidate)
+            }
+        }
+    }
+
+    return @($mentions | Sort-Object)
 }
 
-function Resolve-MapFolder {
+function Get-ApostropheTypoHints {
     param(
         [Parameter(Mandatory = $true)]
-        [string[]]$Parts
+        [string]$BaseName,
+        [Parameter(Mandatory = $true)]
+        [string[]]$KnownMapNames
+    )
+
+    $hints = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
+    foreach ($canonical in $KnownMapNames) {
+        if ($canonical -notmatch "'") {
+            continue
+        }
+
+        $apostropheLess = ($canonical -replace "'", "")
+        if ([string]::IsNullOrWhiteSpace($apostropheLess) -or $apostropheLess -eq $canonical) {
+            continue
+        }
+
+        $canonicalEscaped = [System.Text.RegularExpressions.Regex]::Escape($canonical)
+        $apostropheLessEscaped = [System.Text.RegularExpressions.Regex]::Escape($apostropheLess)
+        $canonicalPattern = "(?i)(?<!\w)$canonicalEscaped(?!\w)"
+        $apostropheLessPattern = "(?i)(?<!\w)$apostropheLessEscaped(?!\w)"
+
+        if ($BaseName -match $apostropheLessPattern -and $BaseName -notmatch $canonicalPattern) {
+            [void]$hints.Add("$apostropheLess -> $canonical")
+        }
+    }
+
+    return @($hints | Sort-Object)
+}
+
+function Resolve-FileMapContext {
+    param(
+        [Parameter(Mandatory = $true)]
+        [string[]]$Parts,
+        [Parameter(Mandatory = $true)]
+        [string[]]$CanonicalMapNames,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$CanonicalByNormalized,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$CanonicalByNearPluralKey
     )
 
     if ($Parts.Count -lt 3 -or $Parts[0] -ne "Maps") {
         return $null
     }
 
-    $scope = $Parts[1]
-
-    if ($scope -eq "10 Living World") {
-        if ($Parts.Count -lt 4) {
-            return $null
+    $best = $null
+    for ($i = 1; $i -lt ($Parts.Count - 1); $i++) {
+        $segment = $Parts[$i].Trim()
+        if ([string]::IsNullOrWhiteSpace($segment)) {
+            continue
         }
 
-        $wrapper = $Parts[2]
-        if ($wrapper -eq "_Story Missions") {
-            return $null
+        $normalized = Normalize-MapNameForMatch -Text $segment
+        if ([string]::IsNullOrWhiteSpace($normalized)) {
+            continue
         }
 
-        return Normalize-MapFolderName -Name $Parts[3]
+        if ($CanonicalByNormalized.ContainsKey($normalized)) {
+            $candidate = [pscustomobject]@{
+                Segment      = $segment
+                SegmentIndex = $i
+                Canonical    = $CanonicalByNormalized[$normalized]
+                MatchKind    = "exact"
+                Score        = 100
+            }
+            if ($null -eq $best -or $candidate.Score -gt $best.Score -or ($candidate.Score -eq $best.Score -and $candidate.SegmentIndex -gt $best.SegmentIndex)) {
+                $best = $candidate
+            }
+            continue
+        }
+
+        $nearKey = Get-NearPluralKey -Text $segment
+        if ([string]::IsNullOrWhiteSpace($nearKey) -or -not $CanonicalByNearPluralKey.ContainsKey($nearKey)) {
+            continue
+        }
+
+        foreach ($canonical in $CanonicalByNearPluralKey[$nearKey]) {
+            if (Test-NearPluralTypo -SourceText $segment -CanonicalText $canonical) {
+                $candidate = [pscustomobject]@{
+                    Segment      = $segment
+                    SegmentIndex = $i
+                    Canonical    = $canonical
+                    MatchKind    = "near"
+                    Score        = 70
+                }
+                if ($null -eq $best -or $candidate.Score -gt $best.Score -or ($candidate.Score -eq $best.Score -and $candidate.SegmentIndex -gt $best.SegmentIndex)) {
+                    $best = $candidate
+                }
+            } 
+        }
     }
 
-    if ($scope -eq "06 Janthir Wilds") {
-        if ($Parts.Count -lt 3) {
-            return $null
-        }
-
-        $candidate = Normalize-MapFolderName -Name $Parts[2]
-        if ($candidate -eq "Janthir Wilds Story") {
-            return $null
-        }
-
-        return $candidate
-    }
-
-    if ($scope -eq "07 Visions of Eternity") {
-        if ($Parts.Count -lt 3) {
-            return $null
-        }
-
-        $candidate = Normalize-MapFolderName -Name $Parts[2]
-        if ($candidate -eq "Story") {
-            return $null
-        }
-
-        return $candidate
-    }
-
-    if ($Parts.Count -lt 3) {
-        return $null
-    }
-
-    $candidateDefault = Normalize-MapFolderName -Name $Parts[2]
-    $ignored = @(
-        "Over All Maps",
-        "Achievements Across Cantha",
-        "Collections",
-        "SotO Story"
-    )
-
-    if ($ignored -contains $candidateDefault) {
-        return $null
-    }
-
-    return $candidateDefault
+    return $best
 }
 
 $mapNamesPath = Join-Path $repoRoot "Data\map_names.json"
@@ -212,9 +348,28 @@ $canonicalMapNames = @(
     Sort-Object -Unique
 )
 
-$canonicalLookup = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
+$canonicalByNormalized = @{}
 foreach ($name in $canonicalMapNames) {
-    [void]$canonicalLookup.Add($name)
+    $normalized = Normalize-MapNameForMatch -Text $name
+    if (-not $canonicalByNormalized.ContainsKey($normalized)) {
+        $canonicalByNormalized[$normalized] = $name
+    }
+}
+
+$canonicalByNearPluralKey = @{}
+foreach ($name in $canonicalMapNames) {
+    $key = Get-NearPluralKey -Text $name
+    if ([string]::IsNullOrWhiteSpace($key)) {
+        continue
+    }
+
+    if (-not $canonicalByNearPluralKey.ContainsKey($key)) {
+        $canonicalByNearPluralKey[$key] = New-Object System.Collections.Generic.List[string]
+    }
+
+    if (-not $canonicalByNearPluralKey[$key].Contains($name)) {
+        [void]$canonicalByNearPluralKey[$key].Add($name)
+    }
 }
 
 $files = @(Get-JsonFiles -OnlyChanged:$Changed)
@@ -235,136 +390,147 @@ if ($files.Count -eq 0) {
     exit 0
 }
 
-$scopes = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
-foreach ($scope in $TopLevelScopes) {
-    if ($scope) {
-        [void]$scopes.Add($scope.Trim())
-    }
-}
-
+$checkedScopeFolders = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
 $checkedMapFolders = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
 $unknownMapFolders = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
 $mapNameMismatchWarnings = 0
+$nearTypoWarnings = 0
+$inferenceByFile = @{}
+$nearFolderSuggestions = @{}
+$repoExactCanonicalNames = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
 
 foreach ($file in $files) {
     $relativePath = Get-RepoRelativePath -Path $file
     $parts = @($relativePath -split '[\\/]')
-    if ($parts.Count -lt 3) {
+    if ($parts.Count -lt 2 -or $parts[0] -ne "Maps") {
         continue
     }
 
-    if ($parts[0] -ne "Maps") {
+    if ($parts.Count -ge 2) {
+        [void]$checkedScopeFolders.Add($parts[1])
+    }
+
+    $inferred = Resolve-FileMapContext -Parts $parts -CanonicalMapNames $canonicalMapNames -CanonicalByNormalized $canonicalByNormalized -CanonicalByNearPluralKey $canonicalByNearPluralKey
+    if ($null -eq $inferred) {
         continue
     }
 
-    $scope = $parts[1]
-    if (-not $scopes.Contains($scope)) {
-        continue
+    $folderKey = (($parts[1..$inferred.SegmentIndex]) -join '/')
+    if ($inferred.MatchKind -eq "exact") {
+        [void]$checkedMapFolders.Add($folderKey)
+        [void]$repoExactCanonicalNames.Add($inferred.Canonical)
+    }
+    else {
+        [void]$unknownMapFolders.Add($folderKey)
+        $nearFolderSuggestions[$folderKey] = $inferred.Canonical
     }
 
-    $mapFolder = Resolve-MapFolder -Parts $parts
-    if (-not $mapFolder) {
-        continue
-    }
-
-    [void]$checkedMapFolders.Add("$scope/$mapFolder")
-    if (-not $canonicalLookup.Contains($mapFolder)) {
-        [void]$unknownMapFolders.Add("$scope/$mapFolder")
-    }
+    $inferenceByFile[$relativePath] = $inferred
 }
 
 if ($WarnOnMapNameInFileMismatch) {
-    $knownMapFolders = @($checkedMapFolders | ForEach-Object { ($_ -split '/', 2)[1] } | Sort-Object -Unique)
-    $knownByLength = @($knownMapFolders | Sort-Object { $_.Length } -Descending)
+    $knownMapNames = @($repoExactCanonicalNames | Sort-Object)
 
     foreach ($file in $files) {
         $relativePath = Get-RepoRelativePath -Path $file
-        $parts = @($relativePath -split '[\\/]')
-        if ($parts.Count -lt 3 -or $parts[0] -ne "Maps") {
+        if (-not $inferenceByFile.ContainsKey($relativePath)) {
             continue
         }
 
-        $scope = $parts[1]
-        if (-not $scopes.Contains($scope)) {
+        $inferred = $inferenceByFile[$relativePath]
+        if ($inferred.MatchKind -ne "exact") {
             continue
         }
 
-        $mapFolder = Resolve-MapFolder -Parts $parts
-        if (-not $mapFolder) {
-            continue
-        }
-
-        $baseName = [System.IO.Path]::GetFileNameWithoutExtension($parts[$parts.Count - 1])
+        $baseName = [System.IO.Path]::GetFileNameWithoutExtension($relativePath)
         if ($baseName -match '(?i)^Transit to ') {
             continue
         }
 
-        $mentioned = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
-        $apostropheTypoHints = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
+        $mentioned = @(Get-MapMentions -BaseName $baseName -KnownMapNames $knownMapNames | Where-Object { $_ -ne $inferred.Canonical })
+        $apostropheHints = @(Get-ApostropheTypoHints -BaseName $baseName -KnownMapNames $knownMapNames)
 
-        foreach ($candidate in $knownByLength) {
-            if ($candidate -eq $mapFolder) {
-                continue
-            }
-
-            $escaped = [System.Text.RegularExpressions.Regex]::Escape($candidate)
-            $pattern = "(?i)(?<!\w)$escaped(?!\w)"
-            if ($baseName -match $pattern) {
-                [void]$mentioned.Add($candidate)
-            }
-        }
-
-        # Detect common apostrophe typos such as "Lions Arch" instead of "Lion's Arch".
-        foreach ($canonical in $knownByLength) {
-            if ($canonical -notmatch "[']") {
-                continue
-            }
-
-            $apostropheLess = ($canonical -replace "[']", "")
-            if ([string]::IsNullOrWhiteSpace($apostropheLess) -or $apostropheLess -eq $canonical) {
-                continue
-            }
-
-            $canonicalEscaped = [System.Text.RegularExpressions.Regex]::Escape($canonical)
-            $apostropheLessEscaped = [System.Text.RegularExpressions.Regex]::Escape($apostropheLess)
-            $canonicalPattern = "(?i)(?<!\w)$canonicalEscaped(?!\w)"
-            $apostropheLessPattern = "(?i)(?<!\w)$apostropheLessEscaped(?!\w)"
-
-            if ($baseName -match $apostropheLessPattern -and $baseName -notmatch $canonicalPattern) {
-                [void]$apostropheTypoHints.Add("$apostropheLess -> $canonical")
-            }
-        }
-
-        if ($mentioned.Count -gt 0 -or $apostropheTypoHints.Count -gt 0) {
+        if ($mentioned.Count -gt 0 -or $apostropheHints.Count -gt 0) {
             $mapNameMismatchWarnings++
             if ($mentioned.Count -gt 0) {
                 Write-Host "[MAP-NAME][WARN] $relativePath : file name mentions another map name(s): $($mentioned -join ', ')"
             }
-            if ($apostropheTypoHints.Count -gt 0) {
-                Write-Host "[MAP-NAME][WARN] $relativePath : possible apostrophe typo(s): $($apostropheTypoHints -join '; ')"
+            if ($apostropheHints.Count -gt 0) {
+                Write-Host "[MAP-NAME][WARN] $relativePath : possible apostrophe typo(s): $($apostropheHints -join '; ')"
             }
+        }
+    }
+}
+
+if ($WarnOnNearMapTypos) {
+    $knownMapNames = @($repoExactCanonicalNames | Sort-Object)
+
+    foreach ($file in $files) {
+        $relativePath = Get-RepoRelativePath -Path $file
+        $baseName = [System.IO.Path]::GetFileNameWithoutExtension($relativePath)
+        if ($baseName -match '(?i)^Transit to ') {
+            continue
+        }
+
+        $baseNormalized = Normalize-MapNameForMatch -Text $baseName
+        if ($canonicalByNormalized.ContainsKey($baseNormalized)) {
+            continue
+        }
+
+        $hints = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
+        $key = Get-NearPluralKey -Text $baseName
+        if (-not [string]::IsNullOrWhiteSpace($key) -and $canonicalByNearPluralKey.ContainsKey($key)) {
+            foreach ($candidate in $canonicalByNearPluralKey[$key]) {
+                if ($knownMapNames -notcontains $candidate) {
+                    continue
+                }
+
+                if (Test-NearPluralTypo -SourceText $baseName -CanonicalText $candidate) {
+                    [void]$hints.Add("$baseName -> $candidate")
+                }
+            }
+        }
+        else {
+            foreach ($candidate in $knownMapNames) {
+                if (Test-NearPluralTypo -SourceText $baseName -CanonicalText $candidate) {
+                    [void]$hints.Add("$baseName -> $candidate")
+                }
+            }
+        }
+
+        if ($hints.Count -gt 0) {
+            $nearTypoWarnings++
+            Write-Host "[MAP-NAME][WARN] $relativePath : possible near typo(s): $($hints -join '; ')"
         }
     }
 }
 
 foreach ($entry in ($unknownMapFolders | Sort-Object)) {
-    $split = $entry -split '/', 2
-    $scope = $split[0]
-    $mapFolder = $split[1]
-    $suggestions = @(Get-ClosestNames -InputName $mapFolder -Candidates $canonicalMapNames)
-    if ($suggestions.Count -gt 0) {
-        Write-Host "[MAP-NAME][WARN] $scope/$mapFolder : not found in Data/map_names.json. Suggestions: $($suggestions -join ', ')"
+    if ($nearFolderSuggestions.ContainsKey($entry)) {
+        Write-Host "[MAP-NAME][WARN] $entry : not found in Data/map_names.json. Suggestion: $($nearFolderSuggestions[$entry])"
     }
     else {
-        Write-Host "[MAP-NAME][WARN] $scope/$mapFolder : not found in Data/map_names.json."
+        $mapFolder = ($entry -split '/')[-1]
+        $suggestions = @(Get-ClosestNames -InputName $mapFolder -Candidates $canonicalMapNames)
+        if ($suggestions.Count -gt 0) {
+            Write-Host "[MAP-NAME][WARN] $entry : not found in Data/map_names.json. Suggestions: $($suggestions -join ', ')"
+        }
+        else {
+            Write-Host "[MAP-NAME][WARN] $entry : not found in Data/map_names.json."
+        }
     }
 }
 
 Write-Host ""
-Write-Host "Checked scope folders: $($scopes.Count)"
+Write-Host "Checked scope folders: $($checkedScopeFolders.Count)"
 Write-Host "Checked map folders: $($checkedMapFolders.Count)"
 Write-Host "Unknown map folders: $($unknownMapFolders.Count)"
-Write-Host "File-name map mismatch warnings: $mapNameMismatchWarnings"
+if ($WarnOnMapNameInFileMismatch) {
+    Write-Host "File-name map mismatch warnings: $mapNameMismatchWarnings"
+}
+if ($WarnOnNearMapTypos) {
+    Write-Host "Near map typo warnings: $nearTypoWarnings"
+}
 
 if ($unknownMapFolders.Count -gt 0) {
     exit 1
