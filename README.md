@@ -18,9 +18,11 @@ Discover more tools and get your KX Trainer Pro license at **[kxtools.xyz](https
 
 ## Validation
 Run before push:
-`pwsh -File scripts/checks/validate-json.ps1`
-`pwsh -File scripts/checks/check-name-alignment.ps1`
-`pwsh -File scripts/checks/check-filename-style.ps1`
+```powershell
+pwsh -File scripts/checks/validate-json.ps1
+pwsh -File scripts/checks/check-name-alignment.ps1
+pwsh -File scripts/checks/check-filename-style.ps1
+```
 
 These checks also run in GitHub Actions on pull requests and pushes to `main` (`json-validation`).
 
