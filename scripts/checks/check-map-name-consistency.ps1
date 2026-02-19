@@ -243,18 +243,25 @@ function Get-ApostropheTypoHints {
             continue
         }
 
+        $variants = New-Object 'System.Collections.Generic.HashSet[string]' ([System.StringComparer]::Ordinal)
         $apostropheLess = ($canonical -replace "'", "")
-        if ([string]::IsNullOrWhiteSpace($apostropheLess) -or $apostropheLess -eq $canonical) {
-            continue
+        if (-not [string]::IsNullOrWhiteSpace($apostropheLess) -and $apostropheLess -ne $canonical) {
+            [void]$variants.Add($apostropheLess)
+        }
+        $possessiveLess = ($canonical -replace "(?i)'s\b", "")
+        if (-not [string]::IsNullOrWhiteSpace($possessiveLess) -and $possessiveLess -ne $canonical) {
+            [void]$variants.Add($possessiveLess)
         }
 
         $canonicalEscaped = [System.Text.RegularExpressions.Regex]::Escape($canonical)
-        $apostropheLessEscaped = [System.Text.RegularExpressions.Regex]::Escape($apostropheLess)
         $canonicalPattern = "(?i)(?<!\w)$canonicalEscaped(?!\w)"
-        $apostropheLessPattern = "(?i)(?<!\w)$apostropheLessEscaped(?!\w)"
 
-        if ($BaseName -match $apostropheLessPattern -and $BaseName -notmatch $canonicalPattern) {
-            [void]$hints.Add("$apostropheLess -> $canonical")
+        foreach ($variant in $variants) {
+            $variantEscaped = [System.Text.RegularExpressions.Regex]::Escape($variant)
+            $variantPattern = "(?i)(?<!\w)$variantEscaped(?!\w)"
+            if ($BaseName -match $variantPattern -and $BaseName -notmatch $canonicalPattern) {
+                [void]$hints.Add("$variant -> $canonical")
+            }
         }
     }
 
@@ -279,11 +286,23 @@ function Test-ApostropheVariant {
         return $false
     }
 
-    if ((Normalize-MapNameForMatch -Text $source) -ne (Normalize-MapNameForMatch -Text $canonical)) {
+    if ($source -match "'") {
         return $false
     }
 
-    return ($source -notmatch "'")
+    $normalizedSource = Normalize-MapNameForMatch -Text $source
+    $normalizedCanonical = Normalize-MapNameForMatch -Text $canonical
+    if ($normalizedSource -eq $normalizedCanonical) {
+        return $true
+    }
+
+    $canonicalPossessiveLess = ($canonical -replace "(?i)'s\b", "")
+    $normalizedPossessiveLess = Normalize-MapNameForMatch -Text $canonicalPossessiveLess
+    if (-not [string]::IsNullOrWhiteSpace($normalizedPossessiveLess) -and $normalizedSource -eq $normalizedPossessiveLess) {
+        return $true
+    }
+
+    return $false
 }
 
 function Resolve-FileMapContext {
@@ -295,7 +314,9 @@ function Resolve-FileMapContext {
         [Parameter(Mandatory = $true)]
         [hashtable]$CanonicalByNormalized,
         [Parameter(Mandatory = $true)]
-        [hashtable]$CanonicalByNearPluralKey
+        [hashtable]$CanonicalByNearPluralKey,
+        [Parameter(Mandatory = $true)]
+        [hashtable]$CanonicalByApostropheVariant
     )
 
     if ($Parts.Count -lt 3 -or $Parts[0] -ne "Maps") {
@@ -326,6 +347,25 @@ function Resolve-FileMapContext {
                 $best = $candidate
             }
             continue
+        }
+
+        if ($CanonicalByApostropheVariant.ContainsKey($normalized)) {
+            foreach ($canonical in $CanonicalByApostropheVariant[$normalized]) {
+                if (-not (Test-ApostropheVariant -SourceText $segment -CanonicalText $canonical)) {
+                    continue
+                }
+
+                $candidate = [pscustomobject]@{
+                    Segment      = $segment
+                    SegmentIndex = $i
+                    Canonical    = $canonical
+                    MatchKind    = "near"
+                    Score        = 80
+                }
+                if ($null -eq $best -or $candidate.Score -gt $best.Score -or ($candidate.Score -eq $best.Score -and $candidate.SegmentIndex -gt $best.SegmentIndex)) {
+                    $best = $candidate
+                }
+            }
         }
 
         $nearKey = Get-NearPluralKey -Text $segment
@@ -409,6 +449,27 @@ foreach ($name in $canonicalMapNames) {
     }
 }
 
+$canonicalByApostropheVariant = @{}
+foreach ($name in $canonicalMapNames) {
+    if ($name -notmatch "'") {
+        continue
+    }
+
+    $variants = @(
+        (Normalize-MapNameForMatch -Text ($name -replace "'", "")),
+        (Normalize-MapNameForMatch -Text ($name -replace "(?i)'s\b", ""))
+    ) | Where-Object { -not [string]::IsNullOrWhiteSpace($_) } | Select-Object -Unique
+
+    foreach ($variant in $variants) {
+        if (-not $canonicalByApostropheVariant.ContainsKey($variant)) {
+            $canonicalByApostropheVariant[$variant] = New-Object System.Collections.Generic.List[string]
+        }
+        if (-not $canonicalByApostropheVariant[$variant].Contains($name)) {
+            [void]$canonicalByApostropheVariant[$variant].Add($name)
+        }
+    }
+}
+
 $files = @(Get-JsonFiles -OnlyChanged:$Changed)
 if (-not $IncludeNonMaps) {
     $files = @($files | Where-Object {
@@ -449,7 +510,7 @@ foreach ($file in $files) {
         [void]$checkedScopeFolders.Add($parts[1])
     }
 
-    $inferred = Resolve-FileMapContext -Parts $parts -CanonicalMapNames $canonicalMapNames -CanonicalByNormalized $canonicalByNormalized -CanonicalByNearPluralKey $canonicalByNearPluralKey
+    $inferred = Resolve-FileMapContext -Parts $parts -CanonicalMapNames $canonicalMapNames -CanonicalByNormalized $canonicalByNormalized -CanonicalByNearPluralKey $canonicalByNearPluralKey -CanonicalByApostropheVariant $canonicalByApostropheVariant
     if ($null -eq $inferred) {
         continue
     }
