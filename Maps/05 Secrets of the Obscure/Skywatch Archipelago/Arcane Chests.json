@@ -1,5 +1,6 @@
 {
   "Name": "Arcane Chests",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "Minor Arcane Chest",

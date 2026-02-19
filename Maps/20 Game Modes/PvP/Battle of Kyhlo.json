@@ -1,5 +1,6 @@
 {
   "Name": "Battle of Kyhlo",
+  "StartGameMapId": 549,
   "Coordinates": [
     {
       "Name": "Windmill",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Jahai Griffon Expert",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "start",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

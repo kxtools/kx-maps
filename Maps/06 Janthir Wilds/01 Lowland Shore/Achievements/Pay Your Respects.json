@@ -1,5 +1,6 @@
 {
   "Name": "Pay Your Respects",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "Do /kneel or /bow here",

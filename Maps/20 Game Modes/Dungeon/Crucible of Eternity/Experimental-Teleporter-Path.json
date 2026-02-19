@@ -1,6 +1,7 @@
 {
   "Name": "Experimental-Teleporter-Path",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 81,
   "Coordinates": [
     {
       "Name": "Talk-to-Spire",
@@ -88,3 +89,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Quirky Quaggan achievement",
+  "StartGameMapId": 1178,
   "Coordinates": [
     {
       "Name": "1",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

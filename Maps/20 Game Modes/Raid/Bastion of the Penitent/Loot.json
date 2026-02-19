@@ -1,5 +1,6 @@
 {
   "Name": "Loot",
+  "StartGameMapId": 1188,
   "Coordinates": [
     {
       "Name": "Chest1",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

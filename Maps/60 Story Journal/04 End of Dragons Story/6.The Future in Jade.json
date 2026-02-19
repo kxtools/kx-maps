@@ -1,5 +1,6 @@
 {
   "Name": "6.The Future in Jade",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "first_wait_and_listen_to_dialogue",
@@ -525,3 +526,4 @@
     }
   ]
 }
+

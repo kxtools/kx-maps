@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Ember Bay Master",
+  "StartGameMapId": 520,
   "Coordinates": [
     {
       "Name": "Welcome-to-the-Ember-Bey-Master-Collection[We-will-start-with[Petrified-Burl]-Therefore-you-need-to-gathered-it-from-petrified-stumps-the-next-coords-will-bring-you-to-all-of-them-enjoy!",
@@ -975,3 +976,4 @@
     }
   ]
 }
+

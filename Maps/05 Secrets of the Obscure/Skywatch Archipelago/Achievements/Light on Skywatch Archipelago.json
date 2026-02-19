@@ -1,5 +1,6 @@
 {
   "Name": "Light on Skywatch Archipelago",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "",
@@ -345,3 +346,4 @@
     }
   ]
 }
+

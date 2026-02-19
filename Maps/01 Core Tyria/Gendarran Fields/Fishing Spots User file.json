@@ -1,6 +1,7 @@
 {
   "Name": "Fishing Spots User file",
   "Author": "Tarusinner",
+  "StartGameMapId": 24,
   "Coordinates": [
     {
       "Name": "coastal fish",
@@ -244,3 +245,4 @@
     }
   ]
 }
+

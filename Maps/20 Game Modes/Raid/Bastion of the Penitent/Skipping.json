@@ -1,5 +1,6 @@
 {
   "Name": "Skipping",
+  "StartGameMapId": 1188,
   "Coordinates": [
     {
       "Name": "GlennaFirstSpawnPosition",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

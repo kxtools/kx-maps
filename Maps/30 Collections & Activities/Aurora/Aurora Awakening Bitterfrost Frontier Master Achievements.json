@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Bitterfrost Frontier Master Achievements",
+  "StartGameMapId": 1178,
   "Coordinates": [
     {
       "Name": "Getting-[Plump-Winterberry]You-need-to-gather-Winter-berrys",
@@ -807,4 +808,5 @@
     }
   ]
 }
+
 

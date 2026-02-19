@@ -1,5 +1,6 @@
 {
   "Name": "Story LW3 Ember Bay Mursaat Disguise",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "[Start]_Talk_to_Grumby",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

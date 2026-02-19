@@ -1,5 +1,6 @@
 {
   "Name": "Alpine Borderlands",
+  "StartGameMapId": 95,
   "Coordinates": [
     {
       "Name": "Citadel",
@@ -171,3 +172,4 @@
     }
   ]
 }
+

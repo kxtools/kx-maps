@@ -1,6 +1,7 @@
 {
   "Name": "Magellan's Memento",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 30,
   "Coordinates": [
     {
       "Name": "starting-point-here",

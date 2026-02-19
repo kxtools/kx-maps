@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening 4 Draconis Mons A Henge Away from Home Collection 4",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "Shroom&kill",
@@ -1545,4 +1546,5 @@
     }
   ]
 }
+
 

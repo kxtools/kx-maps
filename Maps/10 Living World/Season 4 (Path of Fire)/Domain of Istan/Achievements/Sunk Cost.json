@@ -1,5 +1,6 @@
 {
   "Name": "Sunk Cost",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "Scoundrels_Bounty_Airwalk",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

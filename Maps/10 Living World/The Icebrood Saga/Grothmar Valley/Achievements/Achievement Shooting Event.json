@@ -1,5 +1,6 @@
 {
   "Name": "Achievement Shooting Event",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "shooting",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

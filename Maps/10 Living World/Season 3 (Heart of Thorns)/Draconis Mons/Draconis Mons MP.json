@@ -1,5 +1,6 @@
 {
   "Name": "Draconis Mons MP",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "MP1",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Escort",
+  "StartGameMapId": 1156,
   "Coordinates": [
     {
       "Name": "Escord-Cave-Skip",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

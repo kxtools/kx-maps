@@ -1,5 +1,6 @@
 {
   "Name": "Adventure Skimmer",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "",
@@ -165,3 +166,4 @@
     }
   ]
 }
+

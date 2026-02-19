@@ -1,5 +1,6 @@
 {
   "Name": "Mysteries Deep Within",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "Interact",
@@ -123,3 +124,4 @@
     }
   ]
 }
+

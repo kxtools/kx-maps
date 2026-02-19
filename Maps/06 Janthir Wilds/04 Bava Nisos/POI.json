@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1574,
   "Coordinates": [
     {
       "Name": "Alliance Camp",
@@ -63,3 +64,4 @@
     }
   ]
 }
+

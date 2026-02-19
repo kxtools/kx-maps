@@ -1,5 +1,6 @@
 {
   "Name": "Comrades in Arms",
+  "StartGameMapId": 1509,
   "Coordinates": [
     {
       "Name": "Start in Wizards Tower",

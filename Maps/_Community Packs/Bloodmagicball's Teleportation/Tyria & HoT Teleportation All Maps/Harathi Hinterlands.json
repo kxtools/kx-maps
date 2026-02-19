@@ -1,5 +1,6 @@
 {
   "Name": "Harathi Hinterlands",
+  "StartGameMapId": 17,
   "Coordinates": [
     {
       "Name": "Harathi-to-Gendarran",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

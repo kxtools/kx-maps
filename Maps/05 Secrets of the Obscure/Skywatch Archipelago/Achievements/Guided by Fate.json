@@ -1,5 +1,6 @@
 {
   "Name": "Guided by Fate",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "Use /kneel at Glint's Shrine in Droknar's Light.",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

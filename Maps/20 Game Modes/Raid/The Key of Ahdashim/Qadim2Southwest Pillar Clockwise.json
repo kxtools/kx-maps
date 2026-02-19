@@ -1,5 +1,6 @@
 {
   "Name": "Qadim2Southwest Pillar Clockwise",
+  "StartGameMapId": 1323,
   "Coordinates": [
     {
       "Name": "Pillar",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

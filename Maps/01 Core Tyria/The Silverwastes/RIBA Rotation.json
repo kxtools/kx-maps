@@ -1,5 +1,6 @@
 {
   "Name": "RIBA Rotation",
+  "StartGameMapId": 1015,
   "Coordinates": [
     {
       "Name": "Red_Rock_Bastion",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

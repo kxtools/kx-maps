@@ -1,5 +1,6 @@
 {
   "Name": "Charr Chest",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "Drizzlewood_Coast_Charrchest",
@@ -165,3 +166,4 @@
     }
   ]
 }
+

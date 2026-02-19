@@ -1,6 +1,7 @@
 {
   "Name": "16.Hearts and Minds",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1040,
   "Coordinates": [
     {
       "Name": "start-instance-Hearts-and-Minds",

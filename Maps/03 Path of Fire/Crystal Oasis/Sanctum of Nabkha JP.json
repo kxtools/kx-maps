@@ -1,5 +1,6 @@
 {
   "Name": "Sanctum of Nabkha JP",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "Sanctum_of_Nabkha_(Safespot_above)",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

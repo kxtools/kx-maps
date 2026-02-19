@@ -1,5 +1,6 @@
 {
   "Name": "Langmar Estate",
+  "StartGameMapId": 1081,
   "Coordinates": [
     {
       "Name": "End_Puzzle",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

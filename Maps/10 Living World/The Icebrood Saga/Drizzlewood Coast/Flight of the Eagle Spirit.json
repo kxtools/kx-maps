@@ -1,5 +1,6 @@
 {
   "Name": "Flight of the Eagle Spirit",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "Quick_Port_to_start",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

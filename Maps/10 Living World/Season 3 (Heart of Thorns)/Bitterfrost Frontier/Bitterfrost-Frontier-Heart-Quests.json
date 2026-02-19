@@ -1,5 +1,6 @@
 {
   "Name": "Bitterfrost-Frontier-Heart-Quests",
+  "StartGameMapId": 1178,
   "Coordinates": [
     {
       "Name": "Egg",
@@ -351,3 +352,4 @@
     }
   ]
 }
+

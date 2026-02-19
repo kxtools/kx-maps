@@ -1,5 +1,6 @@
 {
   "Name": "The Hunger",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "talk",
@@ -81,3 +82,4 @@
     }
   ]
 }
+

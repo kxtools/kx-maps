@@ -1,5 +1,6 @@
 {
   "Name": "BmB Harvest Nodes",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "",
@@ -2085,3 +2086,4 @@
     }
   ]
 }
+

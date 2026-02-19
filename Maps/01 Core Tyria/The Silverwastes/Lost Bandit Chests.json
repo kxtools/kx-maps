@@ -1,5 +1,6 @@
 {
   "Name": "Lost Bandit Chests",
+  "StartGameMapId": 1015,
   "Coordinates": [
     {
       "Name": "",
@@ -699,3 +700,4 @@
     }
   ]
 }
+

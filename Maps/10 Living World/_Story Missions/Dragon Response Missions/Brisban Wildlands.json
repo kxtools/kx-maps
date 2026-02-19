@@ -1,5 +1,6 @@
 {
   "Name": "Brisban Wildlands",
+  "StartGameMapId": 54,
   "Coordinates": [
     {
       "Name": "start",
@@ -183,4 +184,5 @@
     }
   ]
 }
+
 

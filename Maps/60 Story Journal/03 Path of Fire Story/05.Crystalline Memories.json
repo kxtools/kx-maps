@@ -1,6 +1,7 @@
 {
   "Name": "05.Crystalline Memories",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1252,
   "Coordinates": [
     {
       "Name": "instance-start-Crystalline-Memories",

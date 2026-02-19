@@ -1,5 +1,6 @@
 {
   "Name": "Honey Stumps",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "W1Z1",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Skipping",
+  "StartGameMapId": 1264,
   "Coordinates": [
     {
       "Name": "Desminaspawn",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "EmberBay UM",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "",
@@ -501,3 +502,4 @@
     }
   ]
 }
+

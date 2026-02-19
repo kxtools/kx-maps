@@ -1,5 +1,6 @@
 {
   "Name": "Griffon Master Course",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 21,
   "Coordinates": [
     {
       "Name": "Bush&Kill-if-enemy-spawns",
@@ -1372,3 +1373,4 @@
     }
   ]
 }
+

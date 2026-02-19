@@ -1,5 +1,6 @@
 {
   "Name": "Legacy of the Foefire",
+  "StartGameMapId": 795,
   "Coordinates": [
     {
       "Name": "Quarry",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

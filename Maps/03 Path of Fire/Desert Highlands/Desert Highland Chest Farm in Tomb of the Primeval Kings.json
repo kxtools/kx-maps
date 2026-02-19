@@ -1,5 +1,6 @@
 {
   "Name": "Desert Highland Chest Farm in Tomb of the Primeval Kings",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "Chest1_Tomb_of_the_Primeval_Kings",
@@ -39,4 +40,5 @@
     }
   ]
 }
+
 

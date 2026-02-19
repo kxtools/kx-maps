@@ -1,5 +1,6 @@
 {
   "Name": "World 2 Zone 1 Adventure",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "Start",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

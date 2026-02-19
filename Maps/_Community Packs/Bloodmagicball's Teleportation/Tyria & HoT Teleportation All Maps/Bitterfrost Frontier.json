@@ -1,5 +1,6 @@
 {
   "Name": "Bitterfrost Frontier",
+  "StartGameMapId": 1178,
   "Coordinates": [
     {
       "Name": "Bitterfrost-to-Frostgorge",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

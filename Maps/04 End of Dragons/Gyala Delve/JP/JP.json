@@ -1,5 +1,6 @@
 {
   "Name": "JP",
+  "StartGameMapId": 1490,
   "Coordinates": [
     {
       "Name": "Start",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

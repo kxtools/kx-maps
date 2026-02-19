@@ -1,5 +1,6 @@
 {
   "Name": "Metrica Province",
+  "StartGameMapId": 35,
   "Coordinates": [
     {
       "Name": "start",
@@ -261,4 +262,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Flax Farm (Start Verdant Brink)",
+  "StartGameMapId": 1042,
   "Coordinates": [
     {
       "Name": "Verdant_Brink_Spot1/Next_teleport_to_Tangled_Depths",
@@ -33,4 +34,5 @@
     }
   ]
 }
+
 

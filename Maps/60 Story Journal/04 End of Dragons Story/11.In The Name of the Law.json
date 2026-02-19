@@ -1,5 +1,6 @@
 {
   "Name": "11.In The Name of the Law",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Return_to_New_Kaineng",
@@ -165,3 +166,4 @@
     }
   ]
 }
+

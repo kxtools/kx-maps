@@ -1,5 +1,6 @@
 {
   "Name": "Study of the Macabre Achievement",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "1",
@@ -87,3 +88,4 @@
     }
   ]
 }
+

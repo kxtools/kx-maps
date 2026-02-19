@@ -1,5 +1,6 @@
 {
   "Name": "Caledon Forest",
+  "StartGameMapId": 34,
   "Coordinates": [
     {
       "Name": "start",
@@ -249,4 +250,5 @@
     }
   ]
 }
+
 

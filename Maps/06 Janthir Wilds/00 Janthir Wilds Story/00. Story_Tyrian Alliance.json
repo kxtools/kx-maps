@@ -1,5 +1,6 @@
 {
   "Name": "00. Story_Tyrian Alliance",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "Start-Divinity",
@@ -177,3 +178,4 @@
     }
   ]
 }
+

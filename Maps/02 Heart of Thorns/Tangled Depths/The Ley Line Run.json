@@ -1,5 +1,6 @@
 {
   "Name": "The Ley Line Run",
+  "StartGameMapId": 1045,
   "Coordinates": [
     {
       "Name": "",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

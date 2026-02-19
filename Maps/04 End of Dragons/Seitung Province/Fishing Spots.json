@@ -1,5 +1,6 @@
 {
   "Name": "Fishing Spots",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "port_here-_and_go_on_youre_skiff",
@@ -129,3 +130,4 @@
     }
   ]
 }
+

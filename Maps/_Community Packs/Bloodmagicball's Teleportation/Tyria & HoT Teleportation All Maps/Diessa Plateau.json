@@ -1,5 +1,6 @@
 {
   "Name": "Diessa Plateau",
+  "StartGameMapId": 32,
   "Coordinates": [
     {
       "Name": "Diessa-to-BlackCitadel",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

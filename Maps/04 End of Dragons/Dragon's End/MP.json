@@ -1,5 +1,6 @@
 {
   "Name": "MP",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "Jade_Waves",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

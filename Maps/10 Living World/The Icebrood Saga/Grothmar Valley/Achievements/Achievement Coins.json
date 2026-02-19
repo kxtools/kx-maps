@@ -1,5 +1,6 @@
 {
   "Name": "Achievement Coins",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "coin01",
@@ -189,3 +190,4 @@
     }
   ]
 }
+

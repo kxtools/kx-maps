@@ -1,5 +1,6 @@
 {
   "Name": "Kessex Hills",
+  "StartGameMapId": 23,
   "Coordinates": [
     {
       "Name": "Kessex-to-Queensdale",
@@ -27,4 +28,5 @@
     }
   ]
 }
+
 

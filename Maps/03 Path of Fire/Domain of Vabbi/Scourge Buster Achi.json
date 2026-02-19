@@ -1,5 +1,6 @@
 {
   "Name": "Scourge Buster Achi",
+  "StartGameMapId": 1248,
   "Coordinates": [
     {
       "Name": "1",
@@ -153,3 +154,4 @@
     }
   ]
 }
+

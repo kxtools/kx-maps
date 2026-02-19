@@ -1,5 +1,6 @@
 {
   "Name": "BmB Harvest Nodes",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "Risen_Havoc_West",
@@ -1389,3 +1390,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Skipping",
+  "StartGameMapId": 1062,
   "Coordinates": [
     {
       "Name": "BreachPlace1",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

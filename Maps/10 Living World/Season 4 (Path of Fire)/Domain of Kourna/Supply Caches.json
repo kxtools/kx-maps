@@ -1,5 +1,6 @@
 {
   "Name": "Supply Caches",
+  "StartGameMapId": 1288,
   "Coordinates": [
     {
       "Name": "cache",
@@ -225,3 +226,4 @@
     }
   ]
 }
+

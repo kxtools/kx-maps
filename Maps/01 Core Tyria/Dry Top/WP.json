@@ -1,6 +1,7 @@
 {
   "Name": "WP",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 988,
   "Coordinates": [
     {
       "Name": "WP1",
@@ -34,3 +35,4 @@
     }
   ]
 }
+

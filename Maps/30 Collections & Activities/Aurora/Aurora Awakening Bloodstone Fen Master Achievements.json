@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Bloodstone Fen Master Achievements",
+  "StartGameMapId": 1165,
   "Coordinates": [
     {
       "Name": "Bloodstone-Crystal-for-[Bloodstone-Chip-Item]",
@@ -753,4 +754,5 @@
     }
   ]
 }
+
 

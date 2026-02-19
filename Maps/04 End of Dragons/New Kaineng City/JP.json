@@ -1,5 +1,6 @@
 {
   "Name": "JP",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "FinalChest",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Harathi Strongbox",
+  "StartGameMapId": 1185,
   "Coordinates": [
     {
       "Name": "",
@@ -93,3 +94,4 @@
     }
   ]
 }
+

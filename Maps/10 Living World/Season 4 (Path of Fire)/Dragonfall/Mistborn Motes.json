@@ -1,5 +1,6 @@
 {
   "Name": "Mistborn Motes",
+  "StartGameMapId": 1317,
   "Coordinates": [
     {
       "Name": "MistBorn",
@@ -759,3 +760,4 @@
     }
   ]
 }
+

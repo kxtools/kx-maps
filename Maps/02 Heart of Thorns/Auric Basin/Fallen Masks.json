@@ -1,5 +1,6 @@
 {
   "Name": "Fallen Masks",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "start",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

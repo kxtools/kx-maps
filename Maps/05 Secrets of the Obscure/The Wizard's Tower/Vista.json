@@ -1,5 +1,6 @@
 {
   "Name": "Vista",
+  "StartGameMapId": 1509,
   "Coordinates": [
     {
       "Name": "Memory's Gaze Vista",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

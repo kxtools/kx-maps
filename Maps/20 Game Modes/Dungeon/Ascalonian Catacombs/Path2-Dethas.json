@@ -1,6 +1,7 @@
 {
   "Name": "Path2-Dethas",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 33,
   "Coordinates": [
     {
       "Name": "Killit",
@@ -22,3 +23,4 @@
     }
   ]
 }
+

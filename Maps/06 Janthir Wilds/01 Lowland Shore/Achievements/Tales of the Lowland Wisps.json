@@ -1,5 +1,6 @@
 {
   "Name": "Tales of the Lowland Wisps",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "Meet with Stalwart",
@@ -99,3 +100,4 @@
     }
   ]
 }
+

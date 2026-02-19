@@ -1,5 +1,6 @@
 {
   "Name": "Bringing Light to the Darkness",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "shrine01",
@@ -111,3 +112,4 @@
     }
   ]
 }
+

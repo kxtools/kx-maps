@@ -1,5 +1,6 @@
 {
   "Name": "Auric Basin No Masks Left Behind",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "Take",
@@ -153,4 +154,5 @@
     }
   ]
 }
+
 

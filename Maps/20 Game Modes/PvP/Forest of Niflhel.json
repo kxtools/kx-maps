@@ -1,5 +1,6 @@
 {
   "Name": "Forest of Niflhel",
+  "StartGameMapId": 554,
   "Coordinates": [
     {
       "Name": "Crmlech",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

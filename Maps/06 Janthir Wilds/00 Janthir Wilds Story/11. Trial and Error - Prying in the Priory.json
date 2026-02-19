@@ -1,5 +1,6 @@
 {
   "Name": "11. Trial and Error - Prying in the Priory",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "Extra Clue - Classroom",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

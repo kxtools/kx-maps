@@ -1,5 +1,6 @@
 {
   "Name": "4.Can't Trust a Pirate",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Start_instance",
@@ -117,3 +118,4 @@
     }
   ]
 }
+

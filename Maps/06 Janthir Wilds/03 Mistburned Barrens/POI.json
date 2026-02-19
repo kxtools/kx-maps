@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1575,
   "Coordinates": [
     {
       "Name": "The Obsidian Rise",
@@ -111,3 +112,4 @@
     }
   ]
 }
+

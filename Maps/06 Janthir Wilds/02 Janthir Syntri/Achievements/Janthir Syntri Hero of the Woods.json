@@ -1,6 +1,7 @@
 {
   "Name": "Janthir Syntri Hero of the Woods",
   "Author": "sinner",
+  "StartGameMapId": 1554,
   "Coordinates": [
     {
       "Name": "#1  [Janthir Syntri] ",
@@ -238,3 +239,4 @@
     }
   ]
 }
+

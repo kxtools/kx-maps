@@ -1,5 +1,6 @@
 {
   "Name": "Vista",
+  "StartGameMapId": 1517,
   "Coordinates": [
     {
       "Name": "Bastion of the Natural Vista",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Vista",
+  "StartGameMapId": 1574,
   "Coordinates": [
     {
       "Name": "Southern Hollow Vista",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

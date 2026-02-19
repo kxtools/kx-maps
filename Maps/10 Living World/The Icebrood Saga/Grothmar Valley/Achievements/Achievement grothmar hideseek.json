@@ -1,5 +1,6 @@
 {
   "Name": "Achievement grothmar hideseek",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "npc",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

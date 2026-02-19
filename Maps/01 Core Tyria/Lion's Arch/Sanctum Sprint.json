@@ -1,5 +1,6 @@
 {
   "Name": "Sanctum Sprint",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "getting-started-in-Lions-Arch",

@@ -1,5 +1,6 @@
 {
   "Name": "Dreams of a Thorn",
+  "StartGameMapId": 24,
   "Coordinates": [
     {
       "Name": "",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

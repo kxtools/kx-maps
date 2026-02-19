@@ -1,5 +1,6 @@
 {
   "Name": "Skimmer Master Fast Run",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "SkimmerMastery",
@@ -201,3 +202,4 @@
     }
   ]
 }
+

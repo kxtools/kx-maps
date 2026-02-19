@@ -1,6 +1,7 @@
 {
   "Name": "07.Facing the Truth",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "instance-Facing-the-Truth",

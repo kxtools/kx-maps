@@ -1,5 +1,6 @@
 {
   "Name": "WP",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "Arborstone_Waypoint",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

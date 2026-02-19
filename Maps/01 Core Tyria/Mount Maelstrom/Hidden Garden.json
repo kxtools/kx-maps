@@ -1,5 +1,6 @@
 {
   "Name": "Hidden Garden",
+  "StartGameMapId": 39,
   "Coordinates": [
     {
       "Name": "Normal_Teleport",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

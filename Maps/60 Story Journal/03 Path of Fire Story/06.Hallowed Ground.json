@@ -1,6 +1,7 @@
 {
   "Name": "06.Hallowed Ground",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "Instance-Hallowed-Ground",

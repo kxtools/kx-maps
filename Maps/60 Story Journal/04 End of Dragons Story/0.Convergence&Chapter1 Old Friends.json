@@ -1,5 +1,6 @@
 {
   "Name": "0.Convergence&Chapter1 Old Friends",
+  "StartGameMapId": 1433,
   "Coordinates": [
     {
       "Name": "start_in_Eye_of_the_North",
@@ -183,3 +184,4 @@
     }
   ]
 }
+

@@ -1,6 +1,7 @@
 {
   "Name": "Path1-Up",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 67,
   "Coordinates": [
     {
       "Name": "choose",
@@ -52,3 +53,4 @@
     }
   ]
 }
+

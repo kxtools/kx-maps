@@ -1,5 +1,6 @@
 {
   "Name": "Lions Arch Aerodrome",
+  "StartGameMapId": 1155,
   "Coordinates": [
     {
       "Name": "Training",
@@ -69,4 +70,5 @@
     }
   ]
 }
+
 

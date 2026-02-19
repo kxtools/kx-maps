@@ -1,5 +1,6 @@
 {
   "Name": "Transit to Dragon's End",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

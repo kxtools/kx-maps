@@ -1,5 +1,6 @@
 {
   "Name": "Eternal Battlegrounds",
+  "StartGameMapId": 38,
   "Coordinates": [
     {
       "Name": "Golanta-Clearing",

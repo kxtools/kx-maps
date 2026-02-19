@@ -1,5 +1,6 @@
 {
   "Name": "Achi",
+  "StartGameMapId": 1062,
   "Coordinates": [
     {
       "Name": "Soldier1",
@@ -189,3 +190,4 @@
     }
   ]
 }
+

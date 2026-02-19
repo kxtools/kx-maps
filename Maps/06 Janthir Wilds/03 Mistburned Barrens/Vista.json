@@ -1,5 +1,6 @@
 {
   "Name": "Vista",
+  "StartGameMapId": 1575,
   "Coordinates": [
     {
       "Name": "Hidden Sacrarium Vista",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

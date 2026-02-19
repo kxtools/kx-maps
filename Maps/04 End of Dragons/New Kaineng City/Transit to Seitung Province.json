@@ -1,5 +1,6 @@
 {
   "Name": "Transit to Seitung Province",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Domain of Vabbi Griffon Expert",
+  "StartGameMapId": 1248,
   "Coordinates": [
     {
       "Name": "",
@@ -69,4 +70,5 @@
     }
   ]
 }
+
 

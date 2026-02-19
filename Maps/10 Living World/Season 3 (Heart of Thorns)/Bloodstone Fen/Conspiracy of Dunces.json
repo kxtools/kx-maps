@@ -1,5 +1,6 @@
 {
   "Name": "Conspiracy of Dunces",
+  "StartGameMapId": 1165,
   "Coordinates": [
     {
       "Name": "",
@@ -255,3 +256,4 @@
     }
   ]
 }
+

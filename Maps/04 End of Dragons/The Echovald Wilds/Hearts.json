@@ -1,6 +1,7 @@
 {
   "Name": "Hearts",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "Kestrel_Michiko",
@@ -22,3 +23,4 @@
     }
   ]
 }
+

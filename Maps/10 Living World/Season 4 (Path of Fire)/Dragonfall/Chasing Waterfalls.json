@@ -1,5 +1,6 @@
 {
   "Name": "Chasing Waterfalls",
+  "StartGameMapId": 1317,
   "Coordinates": [
     {
       "Name": "Chasing_Waterfalls",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

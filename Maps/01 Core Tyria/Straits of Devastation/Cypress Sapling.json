@@ -1,6 +1,7 @@
 {
   "Name": "Cypress Sapling",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 51,
   "Coordinates": [
     {
       "Name": "",
@@ -166,3 +167,4 @@
     }
   ]
 }
+

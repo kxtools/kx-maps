@@ -1,5 +1,6 @@
 {
   "Name": "Iron farm(Start-Fields of Ruin)",
+  "StartGameMapId": 21,
   "Coordinates": [
     {
       "Name": "1",
@@ -165,3 +166,4 @@
     }
   ]
 }
+

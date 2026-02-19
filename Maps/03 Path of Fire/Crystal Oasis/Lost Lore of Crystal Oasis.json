@@ -1,5 +1,6 @@
 {
   "Name": "Lost Lore of Crystal Oasis",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "Page2",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

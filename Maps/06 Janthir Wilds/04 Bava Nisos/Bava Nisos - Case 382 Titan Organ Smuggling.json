@@ -1,6 +1,7 @@
 {
   "Name": "Bava Nisos - Case 382 Titan Organ Smuggling",
   "Author": "",
+  "StartGameMapId": 1574,
   "Coordinates": [
     {
       "Name": "Find Chief Inspector Lutze in Mantel's Arrival, near the Faction Provisioners.  [Bava Niso] ",
@@ -154,3 +155,4 @@
     }
   ]
 }
+

@@ -1,6 +1,7 @@
 {
   "Name": "Skimshallow Cove",
   "Author": "Tarusinner",
+  "StartGameMapId": 1228,
   "Coordinates": [
     {
       "Name": "1",
@@ -46,3 +47,4 @@
     }
   ]
 }
+

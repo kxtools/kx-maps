@@ -1,5 +1,6 @@
 {
   "Name": "A Study in Gold & Exalted Dare",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "",
@@ -117,3 +118,4 @@
     }
   ]
 }
+

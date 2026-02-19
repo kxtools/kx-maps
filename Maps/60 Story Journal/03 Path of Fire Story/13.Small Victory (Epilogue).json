@@ -1,6 +1,7 @@
 {
   "Name": "13.Small Victory (Epilogue)",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1223,
   "Coordinates": [
     {
       "Name": "Instance-start",

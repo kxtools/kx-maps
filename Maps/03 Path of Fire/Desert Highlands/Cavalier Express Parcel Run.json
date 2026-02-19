@@ -1,6 +1,7 @@
 {
   "Name": "Cavalier Express Parcel Run",
   "Author": "Tarusinner",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "start",
@@ -58,3 +59,4 @@
     }
   ]
 }
+

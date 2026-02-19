@@ -1,5 +1,6 @@
 {
   "Name": "Roller Beetle Time Trial",
+  "StartGameMapId": 32,
   "Coordinates": [
     {
       "Name": "",
@@ -249,3 +250,4 @@
     }
   ]
 }
+

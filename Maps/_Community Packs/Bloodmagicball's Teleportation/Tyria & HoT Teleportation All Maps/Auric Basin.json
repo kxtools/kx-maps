@@ -1,5 +1,6 @@
 {
   "Name": "Auric Basin",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "Auric-to-Verdant",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

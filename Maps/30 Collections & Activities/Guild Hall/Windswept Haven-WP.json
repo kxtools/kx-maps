@@ -1,5 +1,6 @@
 {
   "Name": "Windswept Haven-WP",
+  "StartGameMapId": 1214,
   "Coordinates": [
     {
       "Name": "WP1",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

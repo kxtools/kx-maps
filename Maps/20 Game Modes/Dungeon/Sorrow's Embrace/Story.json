@@ -1,6 +1,7 @@
 {
   "Name": "Story",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 63,
   "Coordinates": [
     {
       "Name": "start",

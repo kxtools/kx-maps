@@ -1,5 +1,6 @@
 {
   "Name": "Dragon's Stand",
+  "StartGameMapId": 1041,
   "Coordinates": [
     {
       "Name": "Dragonstand-to-Tangled",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

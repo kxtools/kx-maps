@@ -1,5 +1,6 @@
 {
   "Name": "Achievement grothmar ash race",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "1",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

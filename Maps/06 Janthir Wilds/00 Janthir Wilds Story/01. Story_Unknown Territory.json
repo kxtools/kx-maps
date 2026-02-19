@@ -1,5 +1,6 @@
 {
   "Name": "01. Story_Unknown Territory",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "DR-Start",
@@ -213,3 +214,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Shooting Gallery",
+  "StartGameMapId": 1042,
   "Coordinates": [
     {
       "Name": "",
@@ -123,3 +124,4 @@
     }
   ]
 }
+

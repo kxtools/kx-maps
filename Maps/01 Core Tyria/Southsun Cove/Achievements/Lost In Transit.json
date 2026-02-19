@@ -1,5 +1,6 @@
 {
   "Name": "Lost In Transit",
+  "StartGameMapId": 873,
   "Coordinates": [
     {
       "Name": "1",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

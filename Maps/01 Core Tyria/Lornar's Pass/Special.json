@@ -1,6 +1,7 @@
 {
   "Name": "Special",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 27,
   "Coordinates": [
     {
       "Name": "chest1",
@@ -16,3 +17,4 @@
     }
   ]
 }
+

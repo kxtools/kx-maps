@@ -1,5 +1,6 @@
 {
   "Name": "Salvage Piles Wreckage",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "",
@@ -1425,4 +1426,5 @@
     }
   ]
 }
+
 

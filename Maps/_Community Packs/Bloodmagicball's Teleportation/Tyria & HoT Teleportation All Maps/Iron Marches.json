@@ -1,5 +1,6 @@
 {
   "Name": "Iron Marches",
+  "StartGameMapId": 25,
   "Coordinates": [
     {
       "Name": "IronMarches-to-Fireheart",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

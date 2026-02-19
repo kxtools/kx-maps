@@ -1,6 +1,7 @@
 {
   "Name": "Inner Nayos Map Comp",
   "Author": "Severus",
+  "StartGameMapId": 1526,
   "Coordinates": [
     {
       "Name": "WP- Astral Ward Camp",
@@ -148,3 +149,4 @@
     }
   ]
 }
+

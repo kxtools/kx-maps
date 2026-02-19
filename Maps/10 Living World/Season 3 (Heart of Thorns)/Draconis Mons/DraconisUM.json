@@ -1,5 +1,6 @@
 {
   "Name": "DraconisUM",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "",
@@ -909,3 +910,4 @@
     }
   ]
 }
+

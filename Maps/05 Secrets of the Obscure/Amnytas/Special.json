@@ -1,5 +1,6 @@
 {
   "Name": "Special",
+  "StartGameMapId": 1517,
   "Coordinates": [
     {
       "Name": "Diving Goggles",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

@@ -1,6 +1,7 @@
 {
   "Name": "POI",
   "Author": "Severus",
+  "StartGameMapId": 1526,
   "Coordinates": [
     {
       "Name": "Astral Ward Camp",
@@ -124,3 +125,4 @@
     }
   ]
 }
+

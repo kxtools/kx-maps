@@ -1,5 +1,6 @@
 {
   "Name": "Jahai Bluff Disturbance Rotation",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "Jahai_Bluff_Disturbance",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

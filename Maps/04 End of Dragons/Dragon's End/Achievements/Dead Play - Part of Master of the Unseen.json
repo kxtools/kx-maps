@@ -1,5 +1,6 @@
 {
   "Name": "Dead Play - Part of Master of the Unseen",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "de",
@@ -129,3 +130,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "2.Outreach",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "talk_to_the_Fisher_to_get_to_Aurene",
@@ -273,3 +274,4 @@
     }
   ]
 }
+

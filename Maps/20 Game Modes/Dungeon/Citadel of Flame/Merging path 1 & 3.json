@@ -1,6 +1,7 @@
 {
   "Name": "Merging path 1 & 3",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 66,
   "Coordinates": [
     {
       "Name": "talk",
@@ -220,3 +221,4 @@
     }
   ]
 }
+

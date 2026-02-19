@@ -1,5 +1,6 @@
 {
   "Name": "Wayfarer Foothills",
+  "StartGameMapId": 28,
   "Coordinates": [
     {
       "Name": "Wayfarer-to-Snowden",
@@ -27,4 +28,5 @@
     }
   ]
 }
+
 

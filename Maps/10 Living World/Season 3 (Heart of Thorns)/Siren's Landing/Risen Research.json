@@ -1,5 +1,6 @@
 {
   "Name": "Risen Research",
+  "StartGameMapId": 1203,
   "Coordinates": [
     {
       "Name": "",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

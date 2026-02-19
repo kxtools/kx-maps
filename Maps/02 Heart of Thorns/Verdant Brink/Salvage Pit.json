@@ -1,5 +1,6 @@
 {
   "Name": "Salvage Pit",
+  "StartGameMapId": 1042,
   "Coordinates": [
     {
       "Name": "Begin",
@@ -189,3 +190,4 @@
     }
   ]
 }
+

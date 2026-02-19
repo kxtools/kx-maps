@@ -1,5 +1,6 @@
 {
   "Name": "Shadow Provisions",
+  "StartGameMapId": 1226,
   "Coordinates": [
     {
       "Name": "shadowprovisions",
@@ -153,3 +154,4 @@
     }
   ]
 }
+

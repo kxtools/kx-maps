@@ -1,5 +1,6 @@
 {
   "Name": "Desolation Griffon Expert",
+  "StartGameMapId": 1226,
   "Coordinates": [
     {
       "Name": "",
@@ -51,4 +52,5 @@
     }
   ]
 }
+
 

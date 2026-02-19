@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 15,
   "Coordinates": [
     {
       "Name": "Scorched-Corn1",
@@ -1558,3 +1559,4 @@
     }
   ]
 }
+

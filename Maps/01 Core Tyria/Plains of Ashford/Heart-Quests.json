@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 19,
   "Coordinates": [
     {
       "Name": "Wine-Cask&Kill",
@@ -1294,3 +1295,4 @@
     }
   ]
 }
+

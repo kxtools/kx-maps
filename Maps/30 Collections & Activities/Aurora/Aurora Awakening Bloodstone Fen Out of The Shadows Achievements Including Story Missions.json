@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Bloodstone Fen Out of The Shadows Achievements Including Story Missions",
+  "StartGameMapId": 1165,
   "Coordinates": [
     {
       "Name": "INFO-For-the-next-part-were-going-into-the-story-missions-so-select-living-story3-Out-of-the-Shadows-Mission-and-do-it-with-a-character-who-allready-played-all-missions-so-you-have-the-achievments-unlocked-please-port-know-to-hoelbrak-before-you-using-the-next-coords-for-porting-thank-you-and-good-luck",
@@ -327,4 +328,5 @@
     }
   ]
 }
+
 

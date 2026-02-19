@@ -1,5 +1,6 @@
 {
   "Name": "W2Z1 Hillbilly and Vending Machine",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "Hillbilly",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

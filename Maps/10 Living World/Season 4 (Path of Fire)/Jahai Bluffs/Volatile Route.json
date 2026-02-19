@@ -1,5 +1,6 @@
 {
   "Name": "Volatile Route",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "",
@@ -147,3 +148,4 @@
     }
   ]
 }
+

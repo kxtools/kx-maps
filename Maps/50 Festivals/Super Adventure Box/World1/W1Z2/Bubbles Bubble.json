@@ -1,5 +1,6 @@
 {
   "Name": "Bubbles Bubble",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "",
@@ -303,3 +304,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Dry Top",
+  "StartGameMapId": 988,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

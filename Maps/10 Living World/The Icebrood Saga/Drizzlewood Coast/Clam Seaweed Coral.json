@@ -1,5 +1,6 @@
 {
   "Name": "Clam Seaweed Coral",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "",
@@ -225,3 +226,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "The Ox's Yoke",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "starting_point",
@@ -255,4 +256,5 @@
     }
   ]
 }
+
 

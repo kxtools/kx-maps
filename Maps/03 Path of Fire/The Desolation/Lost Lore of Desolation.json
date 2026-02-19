@@ -1,5 +1,6 @@
 {
   "Name": "Lost Lore of Desolation",
+  "StartGameMapId": 1226,
   "Coordinates": [
     {
       "Name": "",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

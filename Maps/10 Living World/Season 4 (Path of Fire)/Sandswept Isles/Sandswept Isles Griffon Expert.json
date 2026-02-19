@@ -1,5 +1,6 @@
 {
   "Name": "Sandswept Isles Griffon Expert",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

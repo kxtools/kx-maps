@@ -1,6 +1,7 @@
 {
   "Name": "15.Bitter Harvest",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1054,
   "Coordinates": [
     {
       "Name": "start-instance-Bitter-Harvest",

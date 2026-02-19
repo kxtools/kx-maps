@@ -1,5 +1,6 @@
 {
   "Name": "Rollerbeetle gold Mount Maelstrom",
+  "StartGameMapId": 39,
   "Coordinates": [
     {
       "Name": "",
@@ -183,4 +184,5 @@
     }
   ]
 }
+
 

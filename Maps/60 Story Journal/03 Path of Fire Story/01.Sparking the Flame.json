@@ -1,6 +1,7 @@
 {
   "Name": "01.Sparking the Flame",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1217,
   "Coordinates": [
     {
       "Name": "instance-start-Prologue-Sparking-the-Flame",

@@ -1,5 +1,6 @@
 {
   "Name": "Ember-Bay-Heart-Quests",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "Pearl",
@@ -609,3 +610,4 @@
     }
   ]
 }
+

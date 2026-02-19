@@ -1,5 +1,6 @@
 {
   "Name": "Raven Lens Scholar Story Instance Silence",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "note01",
@@ -33,4 +34,5 @@
     }
   ]
 }
+
 

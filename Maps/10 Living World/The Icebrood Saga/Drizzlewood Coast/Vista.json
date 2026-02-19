@@ -1,5 +1,6 @@
 {
   "Name": "Vista",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "VloxenMineVista",
@@ -99,3 +100,4 @@
     }
   ]
 }
+

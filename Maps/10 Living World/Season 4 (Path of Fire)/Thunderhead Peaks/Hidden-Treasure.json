@@ -1,5 +1,6 @@
 {
   "Name": "Hidden-Treasure",
+  "StartGameMapId": 1310,
   "Coordinates": [
     {
       "Name": "trade-to-get-light",
@@ -867,3 +868,4 @@
     }
   ]
 }
+

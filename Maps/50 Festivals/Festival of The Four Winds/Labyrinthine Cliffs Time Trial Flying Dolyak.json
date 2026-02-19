@@ -1,5 +1,6 @@
 {
   "Name": "Labyrinthine Cliffs Time Trial Flying Dolyak",
+  "StartGameMapId": 922,
   "Coordinates": [
     {
       "Name": "",
@@ -213,3 +214,4 @@
     }
   ]
 }
+

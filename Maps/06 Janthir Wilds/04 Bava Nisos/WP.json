@@ -1,5 +1,6 @@
 {
   "Name": "WP",
+  "StartGameMapId": 1574,
   "Coordinates": [
     {
       "Name": "Mantle's Arrival Waypoint",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

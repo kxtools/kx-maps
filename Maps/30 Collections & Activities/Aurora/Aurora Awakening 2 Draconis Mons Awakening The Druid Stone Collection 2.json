@@ -1,6 +1,7 @@
 {
   "Name": "Aurora Awakening 2 Draconis Mons Awakening The Druid Stone Collection 2",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "Shroom&kill",
@@ -466,4 +467,5 @@
     }
   ]
 }
+
 

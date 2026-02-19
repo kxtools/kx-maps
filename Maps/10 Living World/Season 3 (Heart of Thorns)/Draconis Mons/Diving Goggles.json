@@ -1,6 +1,7 @@
 {
   "Name": "Diving Goggles",
   "Author":"Bloodmagicball",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "[Hot-Splashes]Take-Googles[Extra-Info-when-youre-falling-down-go-to-next-coord-and-you-will-be-right-above-the-place-where-you-have-to-land",
@@ -16,4 +17,5 @@
     }
   ]
 }
+
 

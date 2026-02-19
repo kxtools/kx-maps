@@ -1,5 +1,6 @@
 {
   "Name": "5.The Scenic Route",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Talk_with_Kas",
@@ -327,3 +328,4 @@
     }
   ]
 }
+

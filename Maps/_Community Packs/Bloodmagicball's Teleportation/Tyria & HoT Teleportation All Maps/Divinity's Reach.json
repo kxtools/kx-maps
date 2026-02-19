@@ -1,5 +1,6 @@
 {
   "Name": "Divinity's Reach",
+  "StartGameMapId": 18,
   "Coordinates": [
     {
       "Name": "Divinity-to-Queensdale",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

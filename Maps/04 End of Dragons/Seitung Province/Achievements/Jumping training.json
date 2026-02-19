@@ -1,5 +1,6 @@
 {
   "Name": "Jumping training",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Start",
@@ -81,3 +82,4 @@
     }
   ]
 }
+

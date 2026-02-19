@@ -1,5 +1,6 @@
 {
   "Name": "Idolatry achievement",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "1jormag",
@@ -213,3 +214,4 @@
     }
   ]
 }
+

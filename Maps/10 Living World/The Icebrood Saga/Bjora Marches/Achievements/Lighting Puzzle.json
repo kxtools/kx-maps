@@ -1,5 +1,6 @@
 {
   "Name": "Lighting Puzzle",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "Start1",
@@ -141,3 +142,4 @@
     }
   ]
 }
+

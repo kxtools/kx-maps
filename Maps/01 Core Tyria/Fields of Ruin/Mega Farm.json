@@ -1,5 +1,6 @@
 {
   "Name": "Mega Farm",
+  "StartGameMapId": 21,
   "Coordinates": [
     {
       "Name": "0",
@@ -621,3 +622,4 @@
     }
   ]
 }
+

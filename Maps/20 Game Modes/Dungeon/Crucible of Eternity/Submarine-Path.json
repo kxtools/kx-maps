@@ -1,6 +1,7 @@
 {
   "Name": "Submarine-Path",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 81,
   "Coordinates": [
     {
       "Name": "Talk-with-Agent-Spire",
@@ -100,3 +101,4 @@
     }
   ]
 }
+

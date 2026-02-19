@@ -1,5 +1,6 @@
 {
   "Name": "The Grove Home Ini",
+  "StartGameMapId": 91,
   "Coordinates": [
     {
       "Name": "Ekku-Sapling",
@@ -255,4 +256,5 @@
     }
   ]
 }
+
 

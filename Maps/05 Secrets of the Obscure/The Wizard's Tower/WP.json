@@ -1,5 +1,6 @@
 {
   "Name": "WP",
+  "StartGameMapId": 1509,
   "Coordinates": [
     {
       "Name": "Tower Courtyard",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

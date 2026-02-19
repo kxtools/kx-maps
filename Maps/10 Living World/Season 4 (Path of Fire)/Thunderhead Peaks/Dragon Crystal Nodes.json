@@ -1,5 +1,6 @@
 {
   "Name": "Dragon Crystal Nodes",
+  "StartGameMapId": 1310,
   "Coordinates": [
     {
       "Name": "Crystal_Node",
@@ -375,3 +376,4 @@
     }
   ]
 }
+

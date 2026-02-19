@@ -1,5 +1,6 @@
 {
   "Name": "Lessons Learned",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "",
@@ -87,3 +88,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Exploration POI",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "pointsofinterest01",
@@ -183,3 +184,4 @@
     }
   ]
 }
+

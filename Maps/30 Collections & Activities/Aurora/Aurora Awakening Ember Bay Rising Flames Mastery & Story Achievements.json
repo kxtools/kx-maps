@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Ember Bay Rising Flames Mastery & Story Achievements",
+  "StartGameMapId": 520,
   "Coordinates": [
     {
       "Name": "Port-here-to-start-first-Mission",
@@ -1437,4 +1438,5 @@
     }
   ]
 }
+
 

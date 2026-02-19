@@ -1,5 +1,6 @@
 {
   "Name": "Istan Griffon Expert",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "Start",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

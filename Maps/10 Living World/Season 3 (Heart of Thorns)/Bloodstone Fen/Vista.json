@@ -1,5 +1,6 @@
 {
   "Name": "Vista",
+  "StartGameMapId": 1165,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

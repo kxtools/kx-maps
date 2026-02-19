@@ -1,5 +1,6 @@
 {
   "Name": "Auric Basin Treetop Retriever",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "TreeTop_Retriever",
@@ -63,4 +64,5 @@
     }
   ]
 }
+
 

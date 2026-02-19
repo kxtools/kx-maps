@@ -1,5 +1,6 @@
 {
   "Name": "PoF Completion starting Crystal oasis",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "1",
@@ -1491,3 +1492,4 @@
     }
   ]
 }
+

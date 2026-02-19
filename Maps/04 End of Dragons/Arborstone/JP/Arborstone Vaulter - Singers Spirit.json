@@ -1,5 +1,6 @@
 {
   "Name": "Arborstone Vaulter - Singers Spirit",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "Start",
@@ -315,3 +316,4 @@
     }
   ]
 }
+

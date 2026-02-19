@@ -1,5 +1,6 @@
 {
   "Name": "The Hidden Vault",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "Take_Key",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

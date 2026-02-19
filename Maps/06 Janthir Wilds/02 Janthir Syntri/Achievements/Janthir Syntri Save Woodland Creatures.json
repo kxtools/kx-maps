@@ -1,5 +1,6 @@
 {
   "Name": "Janthir Syntri Save Woodland Creatures",
+  "StartGameMapId": 1554,
   "Coordinates": [
     {
       "Name": "Start",
@@ -81,3 +82,4 @@
     }
   ]
 }
+

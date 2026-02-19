@@ -1,5 +1,6 @@
 {
   "Name": "Chests World 1",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "Buy_Key",
@@ -87,3 +88,4 @@
     }
   ]
 }
+

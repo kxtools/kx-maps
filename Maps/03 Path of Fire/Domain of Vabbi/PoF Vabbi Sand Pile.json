@@ -1,5 +1,6 @@
 {
   "Name": "PoF Vabbi Sand Pile",
+  "StartGameMapId": 1248,
   "Coordinates": [
     {
       "Name": "sand_pile",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

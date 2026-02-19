@@ -1,6 +1,7 @@
 {
   "Name": "Titan Heatsone",
   "Author": "",
+  "StartGameMapId": 1575,
   "Coordinates": [
     {
       "Name": "titan heatstone clusters",
@@ -472,3 +473,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Vision of Landscapes Dragonfall",
+  "StartGameMapId": 1317,
   "Coordinates": [
     {
       "Name": "Spot",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Light Speed",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "light-speed",
@@ -33,4 +34,5 @@
     }
   ]
 }
+
 

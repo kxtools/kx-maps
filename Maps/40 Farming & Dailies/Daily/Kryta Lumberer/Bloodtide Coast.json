@@ -1,5 +1,6 @@
 {
   "Name": "Bloodtide Coast",
+  "StartGameMapId": 73,
   "Coordinates": [
     {
       "Name": "SeasonedWoodLogs_Archen_Foreland",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

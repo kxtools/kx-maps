@@ -1,5 +1,6 @@
 {
   "Name": "Special",
+  "StartGameMapId": 1185,
   "Coordinates": [
     {
       "Name": "MasteryPoint1",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

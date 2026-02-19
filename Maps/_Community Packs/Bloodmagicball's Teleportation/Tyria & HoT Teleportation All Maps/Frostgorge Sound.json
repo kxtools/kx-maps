@@ -1,5 +1,6 @@
 {
   "Name": "Frostgorge Sound",
+  "StartGameMapId": 30,
   "Coordinates": [
     {
       "Name": "Frostgorge-to-Wayfarer",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

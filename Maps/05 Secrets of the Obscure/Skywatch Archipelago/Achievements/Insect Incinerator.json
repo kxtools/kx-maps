@@ -1,5 +1,6 @@
 {
   "Name": "Insect Incinerator",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "Event - Help Burn 30 Insects in Primal Maguuma",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

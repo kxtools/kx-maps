@@ -1,6 +1,7 @@
 {
   "Name": "Lost dolyak",
   "Author": "Tarusinner",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "jeppa ending",
@@ -16,3 +17,4 @@
     }
   ]
 }
+

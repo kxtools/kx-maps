@@ -1,5 +1,6 @@
 {
   "Name": "No Mask Left Behind",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "",
@@ -165,3 +166,4 @@
     }
   ]
 }
+

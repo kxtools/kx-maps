@@ -1,5 +1,6 @@
 {
   "Name": "Shards of a Thorn",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

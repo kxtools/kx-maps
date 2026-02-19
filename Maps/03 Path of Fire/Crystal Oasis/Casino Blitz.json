@@ -1,5 +1,6 @@
 {
   "Name": "Casino Blitz",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "Round1_1/36",
@@ -657,3 +658,4 @@
     }
   ]
 }
+

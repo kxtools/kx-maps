@@ -1,5 +1,6 @@
 {
   "Name": "14.The Only One",
+  "StartGameMapId": 1439,
   "Coordinates": [
     {
       "Name": "interance",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

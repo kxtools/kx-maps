@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Lake Doric Story- Achievements Head-of-the-Snake-Mastery&Lake-Doric-Master- Achievements",
+  "StartGameMapId": 1185,
   "Coordinates": [
     {
       "Name": "Welcome-to-[The-Head-of-the-Snake-Story-Achievments-we-will-start-in-Divintys-Reach",
@@ -2655,3 +2656,4 @@
     }
   ]
 }
+

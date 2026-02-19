@@ -1,6 +1,7 @@
 {
   "Name": "Cleanup Duty",
   "Author":"Bitter",
+  "StartGameMapId": 1438,
   "Wiki": "https://wiki.guildwars2.com/wiki/Cleanup_Duty",
   "Coordinates": [
     {

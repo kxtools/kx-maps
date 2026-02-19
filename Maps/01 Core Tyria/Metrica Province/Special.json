@@ -1,6 +1,7 @@
 {
   "Name": "Special",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 35,
   "Coordinates": [
     {
       "Name": "Goemms_Lab",
@@ -10,3 +11,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Dredgehaunt Cliffs",
+  "StartGameMapId": 26,
   "Coordinates": [
     {
       "Name": "Dredgehaunt-to-LornarsPass",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

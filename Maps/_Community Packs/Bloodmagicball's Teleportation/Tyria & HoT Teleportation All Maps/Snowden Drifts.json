@@ -1,5 +1,6 @@
 {
   "Name": "Snowden Drifts",
+  "StartGameMapId": 31,
   "Coordinates": [
     {
       "Name": "Snowden-to-LornarsPass",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

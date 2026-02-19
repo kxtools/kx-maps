@@ -1,6 +1,7 @@
 {
   "Name": "BmB Farming Nodes",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 15,
   "Coordinates": [
     {
       "Name": "Copper_Ore",
@@ -3934,3 +3935,4 @@
     }
   ]
 }
+

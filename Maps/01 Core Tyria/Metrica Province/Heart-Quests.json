@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 35,
   "Coordinates": [
     {
       "Name": "Kill-Haywire-Golem-aroundhere",
@@ -1444,3 +1445,4 @@
     }
   ]
 }
+

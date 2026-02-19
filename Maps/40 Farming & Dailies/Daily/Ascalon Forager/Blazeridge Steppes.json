@@ -1,5 +1,6 @@
 {
   "Name": "Blazeridge Steppes",
+  "StartGameMapId": 20,
   "Coordinates": [
     {
       "Name": "Cabbage_Lunk_Kraal_WP",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

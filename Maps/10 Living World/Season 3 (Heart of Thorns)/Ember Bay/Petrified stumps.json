@@ -1,5 +1,6 @@
 {
   "Name": "Petrified stumps",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "petrifidstamp",
@@ -231,3 +232,4 @@
     }
   ]
 }
+

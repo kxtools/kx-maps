@@ -1,5 +1,6 @@
 {
   "Name": "Skyhammer",
+  "StartGameMapId": 900,
   "Coordinates": [
     {
       "Name": "C",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Baubles W2-Z1-full",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "1",
@@ -165,3 +166,4 @@
     }
   ]
 }
+

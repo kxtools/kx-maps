@@ -1,5 +1,6 @@
 {
   "Name": "Hidden Room",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

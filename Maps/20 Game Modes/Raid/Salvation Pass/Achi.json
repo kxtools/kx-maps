@@ -1,5 +1,6 @@
 {
   "Name": "Achi",
+  "StartGameMapId": 1149,
   "Coordinates": [
     {
       "Name": "TornPage1",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

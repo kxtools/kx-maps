@@ -1,5 +1,6 @@
 {
   "Name": "Lost Dwarven Chests",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "LostDwarf",
@@ -153,3 +154,4 @@
     }
   ]
 }
+

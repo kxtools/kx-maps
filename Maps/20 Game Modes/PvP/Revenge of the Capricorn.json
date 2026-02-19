@@ -1,5 +1,6 @@
 {
   "Name": "Revenge of the Capricorn",
+  "StartGameMapId": 1163,
   "Coordinates": [
     {
       "Name": "Dock",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

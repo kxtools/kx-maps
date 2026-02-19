@@ -1,6 +1,7 @@
 {
   "Name": "BmB Harvest Nodes",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 21,
   "Coordinates": [
     {
       "Name": "type=tgmp.plant.tgmpmushrooms.portobellomushrooms",
@@ -2836,3 +2837,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "HP",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "Jade_Monument",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

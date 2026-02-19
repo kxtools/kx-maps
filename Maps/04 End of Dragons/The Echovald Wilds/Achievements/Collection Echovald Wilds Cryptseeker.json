@@ -1,5 +1,6 @@
 {
   "Name": "Collection Echovald Wilds Cryptseeker",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "Collection_Start",
@@ -39,4 +40,5 @@
     }
   ]
 }
+
 

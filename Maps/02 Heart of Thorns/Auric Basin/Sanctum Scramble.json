@@ -1,5 +1,6 @@
 {
   "Name": "Sanctum Scramble",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "Start",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

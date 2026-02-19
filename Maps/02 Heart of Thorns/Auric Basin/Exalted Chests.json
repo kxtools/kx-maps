@@ -1,5 +1,6 @@
 {
   "Name": "Exalted Chests",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "",
@@ -171,3 +172,4 @@
     }
   ]
 }
+

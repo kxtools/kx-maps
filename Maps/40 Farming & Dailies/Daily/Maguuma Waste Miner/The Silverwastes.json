@@ -1,5 +1,6 @@
 {
   "Name": "The Silverwastes",
+  "StartGameMapId": 1015,
   "Coordinates": [
     {
       "Name": "Mithril-Remnants_Retreat",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

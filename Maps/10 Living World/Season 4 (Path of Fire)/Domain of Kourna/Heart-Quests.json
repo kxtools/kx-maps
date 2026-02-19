@@ -1,5 +1,6 @@
 {
   "Name": "Heart-Quests",
+  "StartGameMapId": 1288,
   "Coordinates": [
     {
       "Name": "Allied_Encampment_Pick_Up_Supply",
@@ -465,3 +466,4 @@
     }
   ]
 }
+

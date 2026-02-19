@@ -1,5 +1,6 @@
 {
   "Name": "LW Jahai Sand Pile",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "sand_pile",
@@ -333,3 +334,4 @@
     }
   ]
 }
+

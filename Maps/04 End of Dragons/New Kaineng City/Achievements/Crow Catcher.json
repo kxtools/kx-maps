@@ -1,5 +1,6 @@
 {
   "Name": "Crow Catcher",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "MountSpringerAndJumpForCrow1",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

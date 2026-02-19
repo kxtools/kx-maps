@@ -1,5 +1,6 @@
 {
   "Name": "Lobby race",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "Start",
@@ -453,3 +454,4 @@
     }
   ]
 }
+

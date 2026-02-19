@@ -1,5 +1,6 @@
 {
   "Name": "Flying Circus",
+  "StartGameMapId": 1042,
   "Coordinates": [
     {
       "Name": "",
@@ -93,3 +94,4 @@
     }
   ]
 }
+

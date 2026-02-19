@@ -1,5 +1,6 @@
 {
   "Name": "Adventure Hide n Seek",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "1",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

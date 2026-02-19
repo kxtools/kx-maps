@@ -1,5 +1,6 @@
 {
   "Name": "Events4 Achievements-Spawns",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "three-golem-monte",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

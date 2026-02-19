@@ -1,5 +1,6 @@
 {
   "Name": "Grothmar Valley Historian",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "Training_Grounds",
@@ -183,3 +184,4 @@
     }
   ]
 }
+

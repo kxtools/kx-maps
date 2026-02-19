@@ -1,5 +1,6 @@
 {
   "Name": "Special",
+  "StartGameMapId": 1156,
   "Coordinates": [
     {
       "Name": "Achievment",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

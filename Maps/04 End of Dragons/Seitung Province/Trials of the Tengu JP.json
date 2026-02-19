@@ -1,5 +1,6 @@
 {
   "Name": "Trials of the Tengu JP",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Take_torch",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

@@ -1,6 +1,7 @@
 {
   "Name": "Mistburned Barrens Mursaat Caches",
   "Author": "EternalSuffer",
+  "StartGameMapId": 1575,
   "Coordinates": [
     {
       "Name": "#1 Mursaat Cache",
@@ -46,3 +47,4 @@
     }
   ]
 }
+

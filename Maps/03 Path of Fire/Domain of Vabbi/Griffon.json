@@ -1,5 +1,6 @@
 {
   "Name": "Griffon",
+  "StartGameMapId": 1248,
   "Coordinates": [
     {
       "Name": "Vabbi_Remains_of_the_Last_Spearmarshal",
@@ -369,3 +370,4 @@
     }
   ]
 }
+

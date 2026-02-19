@@ -1,5 +1,6 @@
 {
   "Name": "Tengu Weapon Etchings",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "TWE",
@@ -105,3 +106,4 @@
     }
   ]
 }
+

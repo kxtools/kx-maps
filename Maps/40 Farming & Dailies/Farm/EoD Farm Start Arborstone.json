@@ -1,6 +1,7 @@
 {
   "Name": "EoD Farm Start Arborstone",
   "Author": "ChiefKeefe",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "Arborstone_Tsuko_Talonedge",
@@ -148,3 +149,4 @@
     }
   ]
 }
+

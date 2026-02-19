@@ -1,6 +1,7 @@
 {
   "Name": "12.To Kill a God",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1234,
   "Coordinates": [
     {
       "Name": "inside-the-boss-arena-kill-balthazar",

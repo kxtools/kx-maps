@@ -1,6 +1,7 @@
 {
   "Name": "Hidden carrot",
   "Author": "Tarusinner",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "use springer skill 1",
@@ -58,3 +59,4 @@
     }
   ]
 }
+

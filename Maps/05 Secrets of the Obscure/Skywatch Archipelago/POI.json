@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "Beacon Command Center",
@@ -303,3 +304,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Fireheart Rise",
+  "StartGameMapId": 22,
   "Coordinates": [
     {
       "Name": "Fireheart-to-Frostgorge",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

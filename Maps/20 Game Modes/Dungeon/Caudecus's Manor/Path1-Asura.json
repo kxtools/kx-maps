@@ -1,6 +1,7 @@
 {
   "Name": "Path1-Asura",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 75,
   "Coordinates": [
     {
       "Name": "start-point",
@@ -106,3 +107,4 @@
     }
   ]
 }
+

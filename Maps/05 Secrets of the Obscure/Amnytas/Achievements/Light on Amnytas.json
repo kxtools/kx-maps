@@ -1,5 +1,6 @@
 {
   "Name": "Light on Amnytas",
+  "StartGameMapId": 1517,
   "Coordinates": [
     {
       "Name": "",
@@ -333,3 +334,4 @@
     }
   ]
 }
+

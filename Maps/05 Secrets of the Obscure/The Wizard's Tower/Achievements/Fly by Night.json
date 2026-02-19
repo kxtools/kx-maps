@@ -1,5 +1,6 @@
 {
   "Name": "Fly by Night",
+  "StartGameMapId": 1509,
   "Coordinates": [
     {
       "Name": "start",
@@ -249,3 +250,4 @@
     }
   ]
 }
+

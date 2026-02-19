@@ -1,5 +1,6 @@
 {
   "Name": "Corsair Keepsakes",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "Alehound_Brewers_Manual",
@@ -63,3 +64,4 @@
     }
   ]
 }
+

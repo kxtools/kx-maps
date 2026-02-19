@@ -1,6 +1,7 @@
 {
   "Name": "2.Torn from the Sky",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1050,
   "Coordinates": [
     {
       "Name": "Start-Mission",
@@ -82,3 +83,4 @@
     }
   ]
 }
+

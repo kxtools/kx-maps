@@ -1,6 +1,7 @@
 {
   "Name": "Bava Nisos Mastery Points",
   "Author": "EternalSuffer",
+  "StartGameMapId": 1574,
   "Coordinates": [
     {
       "Name": "#1 Bava Nisos Mastery Insight",
@@ -40,3 +41,4 @@
     }
   ]
 }
+

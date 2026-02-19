@@ -1,5 +1,6 @@
 {
   "Name": "Gendarran Fields",
+  "StartGameMapId": 24,
   "Coordinates": [
     {
       "Name": "VIsta1",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

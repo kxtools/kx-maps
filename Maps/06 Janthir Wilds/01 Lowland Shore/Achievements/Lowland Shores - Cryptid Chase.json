@@ -1,6 +1,7 @@
 {
   "Name": "Lowland Shores - Cryptid Chase",
   "Author": "",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "Talk to Echoes of Night in Harvest Den. [Lowland Shore] ",
@@ -88,3 +89,4 @@
     }
   ]
 }
+

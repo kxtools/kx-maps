@@ -1,5 +1,6 @@
 {
   "Name": "Crystal Oasis Heart Help Aksim Raptor Farm",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "Fly",
@@ -237,3 +238,4 @@
     }
   ]
 }
+

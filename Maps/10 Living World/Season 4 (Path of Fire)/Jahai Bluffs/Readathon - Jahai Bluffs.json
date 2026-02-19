@@ -1,5 +1,6 @@
 {
   "Name": "Readathon - Jahai Bluffs",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "book1",
@@ -81,3 +82,4 @@
     }
   ]
 }
+

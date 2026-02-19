@@ -1,6 +1,7 @@
 {
   "Name": "BmB Farming Nodes",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 17,
   "Coordinates": [
     {
       "Name": "",

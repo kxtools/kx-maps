@@ -1,5 +1,6 @@
 {
   "Name": "MP",
+  "StartGameMapId": 1317,
   "Coordinates": [
     {
       "Name": "MasteryInsight_1",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

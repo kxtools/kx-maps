@@ -1,5 +1,6 @@
 {
   "Name": "Black Citadel Home Ini",
+  "StartGameMapId": 218,
   "Coordinates": [
     {
       "Name": "3-Plants",
@@ -255,4 +256,5 @@
     }
   ]
 }
+
 

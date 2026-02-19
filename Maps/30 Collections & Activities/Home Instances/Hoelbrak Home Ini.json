@@ -1,5 +1,6 @@
 {
   "Name": "Hoelbrak Home Ini",
+  "StartGameMapId": 326,
   "Coordinates": [
     {
       "Name": "Red-Oak",
@@ -273,4 +274,5 @@
     }
   ]
 }
+
 

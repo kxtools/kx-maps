@@ -1,5 +1,6 @@
 {
   "Name": "Special",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "Bank",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

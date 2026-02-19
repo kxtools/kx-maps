@@ -1,5 +1,6 @@
 {
   "Name": "WP",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "Promenade_Waypoint",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

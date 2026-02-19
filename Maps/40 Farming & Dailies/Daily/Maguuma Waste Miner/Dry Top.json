@@ -1,5 +1,6 @@
 {
   "Name": "Dry Top",
+  "StartGameMapId": 988,
   "Coordinates": [
     {
       "Name": "Mithril-Town_of_Prosperity",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

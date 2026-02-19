@@ -1,5 +1,6 @@
 {
   "Name": "Adventure Diessa Plateau Ghostfire Run",
+  "StartGameMapId": 32,
   "Coordinates": [
     {
       "Name": "Start_1:45forgold",
@@ -255,4 +256,5 @@
     }
   ]
 }
+
 

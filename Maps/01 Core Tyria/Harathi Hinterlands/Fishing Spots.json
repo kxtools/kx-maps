@@ -1,6 +1,7 @@
 {
   "Name": "Fishing Spots",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 17,
   "Coordinates": [
     {
       "Name": "Lake",
@@ -142,3 +143,4 @@
     }
   ]
 }
+

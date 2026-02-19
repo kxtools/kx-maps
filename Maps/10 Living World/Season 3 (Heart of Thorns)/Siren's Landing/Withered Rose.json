@@ -1,5 +1,6 @@
 {
   "Name": "Withered Rose",
+  "StartGameMapId": 1203,
   "Coordinates": [
     {
       "Name": "",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

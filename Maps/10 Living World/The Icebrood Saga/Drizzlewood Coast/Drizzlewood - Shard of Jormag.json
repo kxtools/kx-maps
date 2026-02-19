@@ -1,5 +1,6 @@
 {
   "Name": "Drizzlewood - Shard of Jormag",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "20",
@@ -123,4 +124,5 @@
     }
   ]
 }
+
 

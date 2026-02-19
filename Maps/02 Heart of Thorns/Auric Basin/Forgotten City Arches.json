@@ -1,5 +1,6 @@
 {
   "Name": "Forgotten City Arches",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "GLIDEDOWN-THENCHANGELOCATION",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

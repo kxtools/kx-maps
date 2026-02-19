@@ -1,6 +1,7 @@
 {
   "Name": "11.Roots of Terror",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1046,
   "Coordinates": [
     {
       "Name": "instance-start",

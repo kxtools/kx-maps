@@ -1,5 +1,6 @@
 {
   "Name": "Timeworn Busts",
+  "StartGameMapId": 1248,
   "Coordinates": [
     {
       "Name": "bust",
@@ -153,3 +154,4 @@
     }
   ]
 }
+

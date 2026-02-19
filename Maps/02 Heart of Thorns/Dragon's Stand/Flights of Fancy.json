@@ -1,5 +1,6 @@
 {
   "Name": "Flights of Fancy",
+  "StartGameMapId": 1041,
   "Coordinates": [
     {
       "Name": "HIDE",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

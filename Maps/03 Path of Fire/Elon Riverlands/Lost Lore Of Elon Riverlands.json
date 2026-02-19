@@ -1,5 +1,6 @@
 {
   "Name": "Lost Lore Of Elon Riverlands",
+  "StartGameMapId": 1228,
   "Coordinates": [
     {
       "Name": "",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

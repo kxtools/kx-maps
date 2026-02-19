@@ -1,5 +1,6 @@
 {
   "Name": "Bava Nisos JP",
+  "StartGameMapId": 1574,
   "Coordinates": [
     {
       "Name": "JP Bava Nisos",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

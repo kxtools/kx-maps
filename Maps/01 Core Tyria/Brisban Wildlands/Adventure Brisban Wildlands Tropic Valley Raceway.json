@@ -1,5 +1,6 @@
 {
   "Name": "Adventure Brisban Wildlands Tropic Valley Raceway",
+  "StartGameMapId": 54,
   "Coordinates": [
     {
       "Name": "Start_Gold2:35",
@@ -375,4 +376,5 @@
     }
   ]
 }
+
 

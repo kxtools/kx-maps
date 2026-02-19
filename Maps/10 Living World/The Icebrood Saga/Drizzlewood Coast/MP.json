@@ -1,5 +1,6 @@
 {
   "Name": "MP",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

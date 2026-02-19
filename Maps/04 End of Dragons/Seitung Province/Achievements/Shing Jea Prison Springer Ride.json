@@ -1,5 +1,6 @@
 {
   "Name": "Shing Jea Prison Springer Ride",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Mount_Springer_Here",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

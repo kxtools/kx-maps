@@ -1,5 +1,6 @@
 {
   "Name": "Hide and Seek",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "Arborstone_HideSeek_Fledgling_Start",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

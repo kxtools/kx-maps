@@ -1,5 +1,6 @@
 {
   "Name": "Drone Race",
+  "StartGameMapId": 1045,
   "Coordinates": [
     {
       "Name": "",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Orr Wood Farm(Start-Lions Arch)",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "Lions_Arch_South_Portal",
@@ -87,3 +88,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "A Fungus Among Us",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Mursaat Token",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "",
@@ -237,3 +238,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "My Beautiful Infra",
+  "StartGameMapId": 1317,
   "Coordinates": [
     {
       "Name": "South",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

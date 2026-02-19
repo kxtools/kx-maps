@@ -1,5 +1,6 @@
 {
   "Name": "W1Z3",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "StartLvL3",
@@ -63,3 +64,4 @@
     }
   ]
 }
+

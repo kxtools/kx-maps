@@ -1,5 +1,6 @@
 {
   "Name": "Supply-Stashes",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "",
@@ -333,3 +334,4 @@
     }
   ]
 }
+

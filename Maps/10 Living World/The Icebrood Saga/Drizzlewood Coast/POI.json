@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "UnitedLegionsBaseCamp",
@@ -225,3 +226,4 @@
     }
   ]
 }
+

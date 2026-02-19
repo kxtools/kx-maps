@@ -1,5 +1,6 @@
 {
   "Name": "Elon Riverlands Griffon Master",
+  "StartGameMapId": 1228,
   "Coordinates": [
     {
       "Name": "",
@@ -51,4 +52,5 @@
     }
   ]
 }
+
 

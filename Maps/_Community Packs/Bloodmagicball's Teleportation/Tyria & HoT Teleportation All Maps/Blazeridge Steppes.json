@@ -1,5 +1,6 @@
 {
   "Name": "Blazeridge Steppes",
+  "StartGameMapId": 20,
   "Coordinates": [
     {
       "Name": "Blazeridge-to-IronMarches",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

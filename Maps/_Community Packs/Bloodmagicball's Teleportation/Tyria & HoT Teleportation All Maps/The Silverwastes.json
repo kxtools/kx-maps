@@ -1,5 +1,6 @@
 {
   "Name": "The Silverwastes",
+  "StartGameMapId": 1015,
   "Coordinates": [
     {
       "Name": "Silverwaste-to-Brisban",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

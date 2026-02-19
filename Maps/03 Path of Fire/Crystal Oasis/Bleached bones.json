@@ -1,5 +1,6 @@
 {
   "Name": "Bleached bones",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "BleachedBones",
@@ -147,3 +148,4 @@
     }
   ]
 }
+

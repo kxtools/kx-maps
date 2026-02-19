@@ -1,5 +1,6 @@
 {
   "Name": "Cannon Rotation",
+  "StartGameMapId": 1062,
   "Coordinates": [
     {
       "Name": "SOUTH_Cannon",
@@ -99,3 +100,4 @@
     }
   ]
 }
+

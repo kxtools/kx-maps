@@ -1,5 +1,6 @@
 {
   "Name": "Retrospective Runaround JP",
+  "StartGameMapId": 1015,
   "Coordinates": [
     {
       "Name": "Checkpoint-1-run-backwar-ds-forwards-if-you-dont-have-checkpoint-1",
@@ -105,3 +106,4 @@
     }
   ]
 }
+

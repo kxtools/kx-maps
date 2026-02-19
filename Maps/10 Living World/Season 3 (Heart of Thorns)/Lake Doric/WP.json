@@ -1,5 +1,6 @@
 {
   "Name": "WP",
+  "StartGameMapId": 1185,
   "Coordinates": [
     {
       "Name": "WP1",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

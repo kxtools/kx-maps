@@ -1,5 +1,6 @@
 {
   "Name": "Achievement EyesForEars",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "StartingNPC_InsideReconCove",
@@ -99,3 +100,4 @@
     }
   ]
 }
+

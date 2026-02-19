@@ -1,5 +1,6 @@
 {
   "Name": "Race Devourer Burrow Diessa Plateau",
+  "StartGameMapId": 32,
   "Coordinates": [
     {
       "Name": "",
@@ -69,4 +70,5 @@
     }
   ]
 }
+
 

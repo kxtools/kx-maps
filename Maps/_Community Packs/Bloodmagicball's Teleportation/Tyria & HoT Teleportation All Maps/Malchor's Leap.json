@@ -1,5 +1,6 @@
 {
   "Name": "Malchor's Leap",
+  "StartGameMapId": 65,
   "Coordinates": [
     {
       "Name": "MalchorsLeap-to-StraitsofDevastation",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

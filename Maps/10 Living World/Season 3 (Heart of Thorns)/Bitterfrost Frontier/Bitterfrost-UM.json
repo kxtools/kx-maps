@@ -1,5 +1,6 @@
 {
   "Name": "Bitterfrost-UM",
+  "StartGameMapId": 1178,
   "Coordinates": [
     {
       "Name": "",
@@ -357,3 +358,4 @@
     }
   ]
 }
+

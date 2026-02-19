@@ -1,6 +1,7 @@
 {
   "Name": "Leave-by-the-Front-Door-Path",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 81,
   "Coordinates": [
     {
       "Name": "Talk-to-Spire",
@@ -100,3 +101,4 @@
     }
   ]
 }
+

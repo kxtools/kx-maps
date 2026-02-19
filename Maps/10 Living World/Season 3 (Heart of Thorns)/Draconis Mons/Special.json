@@ -1,5 +1,6 @@
 {
   "Name": "Special",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "DraconisMonsJP",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

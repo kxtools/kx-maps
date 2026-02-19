@@ -1,5 +1,6 @@
 {
   "Name": "W2Z2 Powerup Glove",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "glove_safe_area_before_fight",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Abaddon Ascent JP",
+  "StartGameMapId": 1203,
   "Coordinates": [
     {
       "Name": "Get_the_chest_1",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

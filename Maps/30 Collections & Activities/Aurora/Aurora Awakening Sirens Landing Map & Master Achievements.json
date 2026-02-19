@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Sirens Landing Map & Master Achievements",
+  "StartGameMapId": 1203,
   "Coordinates": [
     {
       "Name": "MP1",
@@ -735,4 +736,5 @@
     }
   ]
 }
+
 

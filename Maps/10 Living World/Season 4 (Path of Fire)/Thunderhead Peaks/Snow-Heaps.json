@@ -1,5 +1,6 @@
 {
   "Name": "Snow-Heaps",
+  "StartGameMapId": 1310,
   "Coordinates": [
     {
       "Name": "",
@@ -111,3 +112,4 @@
     }
   ]
 }
+

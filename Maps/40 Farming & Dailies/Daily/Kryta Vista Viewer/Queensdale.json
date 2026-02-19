@@ -1,5 +1,6 @@
 {
   "Name": "Queensdale",
+  "StartGameMapId": 15,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

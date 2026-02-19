@@ -1,5 +1,6 @@
 {
   "Name": "Timberline Falls",
+  "StartGameMapId": 29,
   "Coordinates": [
     {
       "Name": "TimberlineFalls-to-LornarsPass",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Praise Joko",
+  "StartGameMapId": 1248,
   "Coordinates": [
     {
       "Name": "1_Type_/salute_at_each_coordinate",
@@ -279,3 +280,4 @@
     }
   ]
 }
+

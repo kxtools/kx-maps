@@ -1,5 +1,6 @@
 {
   "Name": "Verdant Brink",
+  "StartGameMapId": 1042,
   "Coordinates": [
     {
       "Name": "VerdantBrink-to-Silverwaste",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

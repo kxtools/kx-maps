@@ -1,6 +1,7 @@
 {
   "Name": "BmB Harvest Nodes",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 873,
   "Coordinates": [
     {
       "Name": "",
@@ -694,3 +695,4 @@
     }
   ]
 }
+

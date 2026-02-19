@@ -1,5 +1,6 @@
 {
   "Name": "LW Kourna Sand Pile",
+  "StartGameMapId": 1288,
   "Coordinates": [
     {
       "Name": "sand_pile",
@@ -171,3 +172,4 @@
     }
   ]
 }
+

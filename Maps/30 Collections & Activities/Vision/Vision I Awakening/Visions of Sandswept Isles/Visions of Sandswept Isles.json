@@ -1,5 +1,6 @@
 {
   "Name": "Visions of Sandswept Isles",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "Now-starting-with-Visions-of-Sandswept-Isles",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

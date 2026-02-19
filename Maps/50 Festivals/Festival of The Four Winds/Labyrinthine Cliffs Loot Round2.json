@@ -1,5 +1,6 @@
 {
   "Name": "Labyrinthine Cliffs Loot Round2",
+  "StartGameMapId": 922,
   "Coordinates": [
     {
       "Name": "start_round2",
@@ -579,3 +580,4 @@
     }
   ]
 }
+

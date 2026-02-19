@@ -1,5 +1,6 @@
 {
   "Name": "Mount Maelstrom",
+  "StartGameMapId": 39,
   "Coordinates": [
     {
       "Name": "MountMaelstrom-to-TimberlineFalls",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

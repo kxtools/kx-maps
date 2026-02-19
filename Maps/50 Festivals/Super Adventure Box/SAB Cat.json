@@ -1,5 +1,6 @@
 {
   "Name": "SAB Cat",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "SAB_CAT",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

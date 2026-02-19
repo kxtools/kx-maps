@@ -1,5 +1,6 @@
 {
   "Name": "Farming",
+  "StartGameMapId": 65,
   "Coordinates": [
     {
       "Name": "",
@@ -477,3 +478,4 @@
     }
   ]
 }
+

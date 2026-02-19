@@ -1,5 +1,6 @@
 {
   "Name": "Drizzlewood - Ears Wide Open",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "begin",
@@ -75,4 +76,5 @@
     }
   ]
 }
+
 

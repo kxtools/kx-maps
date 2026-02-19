@@ -1,5 +1,6 @@
 {
   "Name": "The Collection of Tribute Desert Highlands",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "DesertHighlandsTamarisk",
@@ -63,3 +64,4 @@
     }
   ]
 }
+

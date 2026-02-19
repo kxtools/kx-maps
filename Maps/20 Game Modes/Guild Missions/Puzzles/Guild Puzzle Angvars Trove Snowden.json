@@ -1,5 +1,6 @@
 {
   "Name": "Guild Puzzle Angvars Trove Snowden",
+  "StartGameMapId": 1065,
   "Coordinates": [
     {
       "Name": "Start",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

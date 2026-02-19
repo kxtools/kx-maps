@@ -1,5 +1,6 @@
 {
   "Name": "Strongboxes",
+  "StartGameMapId": 1041,
   "Coordinates": [
     {
       "Name": "",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Treasure Hunter",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "Chest01",
@@ -513,3 +514,4 @@
     }
   ]
 }
+

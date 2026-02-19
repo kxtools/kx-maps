@@ -1,5 +1,6 @@
 {
   "Name": "Lost Charr Supply Drop",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "Supply",
@@ -453,3 +454,4 @@
     }
   ]
 }
+

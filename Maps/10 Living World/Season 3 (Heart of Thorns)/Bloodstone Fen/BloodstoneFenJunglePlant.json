@@ -1,5 +1,6 @@
 {
   "Name": "BloodstoneFenJunglePlant",
+  "StartGameMapId": 1165,
   "Coordinates": [
     {
       "Name": "JunglePlant1BloodstoneFen",
@@ -99,3 +100,4 @@
     }
   ]
 }
+

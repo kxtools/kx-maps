@@ -1,5 +1,6 @@
 {
   "Name": "NKC Little Fox Chests",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "1_Take_Branch",
@@ -759,3 +760,4 @@
     }
   ]
 }
+

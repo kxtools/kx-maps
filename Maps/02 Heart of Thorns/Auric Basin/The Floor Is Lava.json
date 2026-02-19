@@ -1,5 +1,6 @@
 {
   "Name": "The Floor Is Lava",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "",
@@ -321,3 +322,4 @@
     }
   ]
 }
+

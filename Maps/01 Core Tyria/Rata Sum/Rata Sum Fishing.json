@@ -1,5 +1,6 @@
 {
   "Name": "Rata Sum Fishing",
+  "StartGameMapId": 139,
   "Coordinates": [
     {
       "Name": "saltwater",
@@ -63,3 +64,4 @@
     }
   ]
 }
+

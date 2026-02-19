@@ -1,5 +1,6 @@
 {
   "Name": "Desert Highlands Griffon Master",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "",
@@ -51,4 +52,5 @@
     }
   ]
 }
+
 

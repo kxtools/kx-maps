@@ -1,5 +1,6 @@
 {
   "Name": "On Wings of Gold",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "On-Wings-of-Gold-start-point",
@@ -249,3 +250,4 @@
     }
   ]
 }
+

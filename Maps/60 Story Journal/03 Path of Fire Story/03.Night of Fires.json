@@ -1,6 +1,7 @@
 {
   "Name": "03.Night of Fires",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1241,
   "Coordinates": [
     {
       "Name": "talk",

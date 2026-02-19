@@ -1,5 +1,6 @@
 {
   "Name": "MP",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "Lupine Reverie",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

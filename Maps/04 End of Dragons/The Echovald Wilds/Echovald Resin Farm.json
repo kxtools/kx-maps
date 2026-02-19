@@ -1,5 +1,6 @@
 {
   "Name": "Echovald Resin Farm",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "",
@@ -249,3 +250,4 @@
     }
   ]
 }
+

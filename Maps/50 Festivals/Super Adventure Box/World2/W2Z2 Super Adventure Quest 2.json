@@ -1,5 +1,6 @@
 {
   "Name": "W2Z2 Super Adventure Quest 2",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "GatekeepersLullaby_for_flute",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

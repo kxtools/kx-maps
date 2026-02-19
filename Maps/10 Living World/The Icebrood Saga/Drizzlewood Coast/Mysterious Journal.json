@@ -1,5 +1,6 @@
 {
   "Name": "Mysterious Journal",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "Mysterious_Journal",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

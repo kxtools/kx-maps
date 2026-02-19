@@ -1,5 +1,6 @@
 {
   "Name": "Labyrinthine Cliffs Tornflier",
+  "StartGameMapId": 922,
   "Coordinates": [
     {
       "Name": "Tornflier",
@@ -189,3 +190,4 @@
     }
   ]
 }
+

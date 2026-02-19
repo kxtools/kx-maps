@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 28,
   "Coordinates": [
     {
       "Name": "Raven-Egg",
@@ -1474,3 +1475,4 @@
     }
   ]
 }
+

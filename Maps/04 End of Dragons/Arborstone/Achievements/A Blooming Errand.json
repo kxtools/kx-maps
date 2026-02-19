@@ -1,6 +1,7 @@
 {
   "Name": "A Blooming Errand",
   "Author":"Bitter",
+  "StartGameMapId": 1428,
   "Wiki": "https://wiki.guildwars2.com/wiki/A_Blooming_Errand",
   "Coordinates": [
     {
@@ -29,3 +30,4 @@
     }
   ]
 }
+

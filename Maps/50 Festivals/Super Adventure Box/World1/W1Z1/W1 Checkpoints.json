@@ -1,5 +1,6 @@
 {
   "Name": "W1 Checkpoints",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "w1z1_c1",
@@ -81,3 +82,4 @@
     }
   ]
 }
+

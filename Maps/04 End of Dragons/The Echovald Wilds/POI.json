@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "before_going_into_pois_get_a_stealth_kit_from_him",
@@ -285,4 +286,5 @@
     }
   ]
 }
+
 

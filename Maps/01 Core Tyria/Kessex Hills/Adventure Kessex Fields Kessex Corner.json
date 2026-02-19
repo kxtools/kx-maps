@@ -1,5 +1,6 @@
 {
   "Name": "Adventure Kessex Fields Kessex Corner",
+  "StartGameMapId": 23,
   "Coordinates": [
     {
       "Name": "Start_20_sec_for_gold",
@@ -57,4 +58,5 @@
     }
   ]
 }
+
 

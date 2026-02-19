@@ -1,5 +1,6 @@
 {
   "Name": "Oozes",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "W1Z1_Ooze",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

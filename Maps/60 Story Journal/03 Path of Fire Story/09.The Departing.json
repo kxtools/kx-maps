@@ -1,6 +1,7 @@
 {
   "Name": "09.The Departing",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1245,
   "Coordinates": [
     {
       "Name": "instance-start",

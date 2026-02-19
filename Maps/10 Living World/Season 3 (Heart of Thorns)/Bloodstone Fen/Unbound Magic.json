@@ -1,5 +1,6 @@
 {
   "Name": "Unbound Magic",
+  "StartGameMapId": 1165,
   "Coordinates": [
     {
       "Name": "",
@@ -849,3 +850,4 @@
     }
   ]
 }
+

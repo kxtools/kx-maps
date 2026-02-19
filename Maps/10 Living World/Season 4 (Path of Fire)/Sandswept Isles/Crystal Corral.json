@@ -1,6 +1,7 @@
 {
   "Name": "Crystal Corral",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "start",
@@ -64,3 +65,4 @@
     }
   ]
 }
+

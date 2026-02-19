@@ -1,6 +1,7 @@
 {
   "Name": "Path3-Butler",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 75,
   "Coordinates": [
     {
       "Name": "Start",
@@ -46,3 +47,4 @@
     }
   ]
 }
+

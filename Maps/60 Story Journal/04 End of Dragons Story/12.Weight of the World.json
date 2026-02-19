@@ -1,5 +1,6 @@
 {
   "Name": "12.Weight of the World",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Trans_to_SP",
@@ -369,3 +370,4 @@
     }
   ]
 }
+

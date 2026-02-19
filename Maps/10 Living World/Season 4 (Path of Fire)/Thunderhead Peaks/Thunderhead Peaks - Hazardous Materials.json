@@ -1,5 +1,6 @@
 {
   "Name": "Thunderhead Peaks - Hazardous Materials",
+  "StartGameMapId": 1310,
   "Coordinates": [
     {
       "Name": "start",
@@ -51,4 +52,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "The Grove",
+  "StartGameMapId": 91,
   "Coordinates": [
     {
       "Name": "TheGrove-to-Caledon",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

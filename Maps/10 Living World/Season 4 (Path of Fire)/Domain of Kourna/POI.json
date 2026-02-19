@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1288,
   "Coordinates": [
     {
       "Name": "",
@@ -153,3 +154,4 @@
     }
   ]
 }
+

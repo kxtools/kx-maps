@@ -1,6 +1,7 @@
 {
   "Name": "Ongoing Investigations The Jade Brotherhood",
   "Author":"Bitter",
+  "StartGameMapId": 1490,
   "Wiki": "https://wiki.guildwars2.com/wiki/Ongoing_Investigations:_The_Jade_Brotherhood",
   "Coordinates": [
     {
@@ -65,3 +66,4 @@
     }
   ]
 }
+

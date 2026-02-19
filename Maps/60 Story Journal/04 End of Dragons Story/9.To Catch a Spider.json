@@ -1,5 +1,6 @@
 {
   "Name": "9.To Catch a Spider",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Enter",
@@ -357,3 +358,4 @@
     }
   ]
 }
+

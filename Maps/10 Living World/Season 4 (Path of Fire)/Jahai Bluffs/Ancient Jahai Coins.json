@@ -1,5 +1,6 @@
 {
   "Name": "Ancient Jahai Coins",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "Ancient_Jahai_Coins",
@@ -243,3 +244,4 @@
     }
   ]
 }
+

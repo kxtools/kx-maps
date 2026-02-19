@@ -1,6 +1,7 @@
 {
   "Name": "Path1-Jotun",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 112,
   "Coordinates": [
     {
       "Name": "",
@@ -136,3 +137,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Lost Pilgrims",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "Take-Crystal",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

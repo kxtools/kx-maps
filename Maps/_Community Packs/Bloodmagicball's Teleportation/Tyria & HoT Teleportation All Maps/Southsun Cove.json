@@ -1,5 +1,6 @@
 {
   "Name": "Southsun Cove",
+  "StartGameMapId": 873,
   "Coordinates": [
     {
       "Name": "SouthsunCove-to-LionsArch",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

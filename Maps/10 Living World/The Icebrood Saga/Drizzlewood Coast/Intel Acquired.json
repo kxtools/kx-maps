@@ -1,5 +1,6 @@
 {
   "Name": "Intel Acquired",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "Intel",
@@ -63,3 +64,4 @@
     }
   ]
 }
+

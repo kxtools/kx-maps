@@ -1,5 +1,6 @@
 {
   "Name": "Achievement Stomper",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "stomper01",
@@ -63,3 +64,4 @@
     }
   ]
 }
+

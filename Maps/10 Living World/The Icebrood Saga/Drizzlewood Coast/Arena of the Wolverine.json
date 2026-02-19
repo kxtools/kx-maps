@@ -1,5 +1,6 @@
 {
   "Name": "Arena of the Wolverine",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "Quick_port_to_start_the_Adventure",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

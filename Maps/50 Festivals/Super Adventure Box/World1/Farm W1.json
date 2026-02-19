@@ -1,5 +1,6 @@
 {
   "Name": "Farm W1",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "W1_Entrance",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

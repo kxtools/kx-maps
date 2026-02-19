@@ -1,5 +1,6 @@
 {
   "Name": "Orrian Pearls",
+  "StartGameMapId": 1203,
   "Coordinates": [
     {
       "Name": "",
@@ -381,3 +382,4 @@
     }
   ]
 }
+

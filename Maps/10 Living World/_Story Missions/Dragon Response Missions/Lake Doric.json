@@ -1,5 +1,6 @@
 {
   "Name": "Lake Doric",
+  "StartGameMapId": 1185,
   "Coordinates": [
     {
       "Name": "start",
@@ -243,4 +244,5 @@
     }
   ]
 }
+
 

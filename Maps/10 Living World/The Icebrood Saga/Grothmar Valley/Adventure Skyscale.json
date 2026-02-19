@@ -1,5 +1,6 @@
 {
   "Name": "Adventure Skyscale",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "skyscaletrial_startsign",
@@ -105,3 +106,4 @@
     }
   ]
 }
+

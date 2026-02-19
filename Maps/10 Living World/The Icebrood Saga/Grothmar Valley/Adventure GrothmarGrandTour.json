@@ -1,5 +1,6 @@
 {
   "Name": "Adventure GrothmarGrandTour",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "start_Gold_2min",
@@ -315,3 +316,4 @@
     }
   ]
 }
+

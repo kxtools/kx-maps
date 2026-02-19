@@ -1,5 +1,6 @@
 {
   "Name": "Kessex Hills",
+  "StartGameMapId": 23,
   "Coordinates": [
     {
       "Name": "Strawberry_Isgarrens_View",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

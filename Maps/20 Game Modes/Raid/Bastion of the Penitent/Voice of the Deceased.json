@@ -1,5 +1,6 @@
 {
   "Name": "Voice of the Deceased",
+  "StartGameMapId": 1188,
   "Coordinates": [
     {
       "Name": "First-spot",
@@ -105,3 +106,4 @@
     }
   ]
 }
+

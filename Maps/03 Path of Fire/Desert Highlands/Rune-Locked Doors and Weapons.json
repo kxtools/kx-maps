@@ -1,5 +1,6 @@
 {
   "Name": "Rune-Locked Doors and Weapons",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "took-rune-1",
@@ -297,3 +298,4 @@
     }
   ]
 }
+

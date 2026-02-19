@@ -1,5 +1,6 @@
 {
   "Name": "Essence Looter",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "Loot01",
@@ -225,4 +226,5 @@
     }
   ]
 }
+
 

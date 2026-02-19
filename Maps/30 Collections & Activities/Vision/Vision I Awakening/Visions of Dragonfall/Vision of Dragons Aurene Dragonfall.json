@@ -1,5 +1,6 @@
 {
   "Name": "Vision of Dragons Aurene Dragonfall",
+  "StartGameMapId": 1317,
   "Coordinates": [
     {
       "Name": "Spot",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

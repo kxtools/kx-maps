@@ -1,5 +1,6 @@
 {
   "Name": "Transit to New Kaineng",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "portal",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

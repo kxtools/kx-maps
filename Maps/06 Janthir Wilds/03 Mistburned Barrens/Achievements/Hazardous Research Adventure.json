@@ -1,6 +1,7 @@
 {
   "Name": "Hazardous Research Adventure",
   "Author": "EternalSuffer",
+  "StartGameMapId": 1575,
   "Coordinates": [
     {
       "Name": "Start",

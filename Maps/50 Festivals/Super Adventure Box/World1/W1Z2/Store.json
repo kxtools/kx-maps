@@ -1,5 +1,6 @@
 {
   "Name": "Store",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

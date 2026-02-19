@@ -1,5 +1,6 @@
 {
   "Name": "Heart Quests",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "starting_at_Grand_Master_Kyren",
@@ -213,3 +214,4 @@
     }
   ]
 }
+

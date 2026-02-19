@@ -1,5 +1,6 @@
 {
   "Name": "Honorary Plumber",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "",
@@ -45,4 +46,5 @@
     }
   ]
 }
+
 

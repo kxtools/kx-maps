@@ -1,5 +1,6 @@
 {
   "Name": "Gathering Nodes",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "hatchedchilipepperbush_1",
@@ -345,3 +346,4 @@
     }
   ]
 }
+

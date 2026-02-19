@@ -1,6 +1,7 @@
 {
   "Name": "Scouring the Archive",
   "Author": "balut420",
+  "StartGameMapId": 1575,
   "Coordinates": [
     {
       "Name": "scouringthearchive_spot01",

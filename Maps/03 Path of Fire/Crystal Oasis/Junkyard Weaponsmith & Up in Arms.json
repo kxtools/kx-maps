@@ -1,5 +1,6 @@
 {
   "Name": "Junkyard Weaponsmith & Up in Arms",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "Take-Saw-Blade",
@@ -543,3 +544,4 @@
     }
   ]
 }
+

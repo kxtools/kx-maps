@@ -1,5 +1,6 @@
 {
   "Name": "What did the Shrine Guardian Say",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "7",
@@ -237,3 +238,4 @@
     }
   ]
 }
+

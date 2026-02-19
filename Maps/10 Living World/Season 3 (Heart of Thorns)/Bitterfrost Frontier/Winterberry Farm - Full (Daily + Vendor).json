@@ -1,5 +1,6 @@
 {
   "Name": "Winterberry Farm - Full (Daily + Vendor)",
+  "StartGameMapId": 1178,
   "Coordinates": [
     {
       "Name": "GUILD_Banners",
@@ -267,3 +268,4 @@
     }
   ]
 }
+

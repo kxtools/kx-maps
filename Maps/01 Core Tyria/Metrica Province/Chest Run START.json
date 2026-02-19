@@ -1,5 +1,6 @@
 {
   "Name": "Chest Run START",
+  "StartGameMapId": 35,
   "Coordinates": [
     {
       "Name": "[MetricaChest01]",
@@ -1011,3 +1012,4 @@
     }
   ]
 }
+

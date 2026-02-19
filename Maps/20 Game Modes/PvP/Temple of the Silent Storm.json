@@ -1,5 +1,6 @@
 {
   "Name": "Temple of the Silent Storm",
+  "StartGameMapId": 875,
   "Coordinates": [
     {
       "Name": "Door",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Special Forces Training Area",
+  "StartGameMapId": 1154,
   "Coordinates": [
     {
       "Name": "Arena_Console",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

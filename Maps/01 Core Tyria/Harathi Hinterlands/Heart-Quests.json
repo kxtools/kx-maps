@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 17,
   "Coordinates": [
     {
       "Name": "Take-feed",
@@ -1372,3 +1373,4 @@
     }
   ]
 }
+

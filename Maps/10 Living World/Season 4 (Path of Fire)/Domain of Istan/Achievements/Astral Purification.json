@@ -1,5 +1,6 @@
 {
   "Name": "Astral Purification",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "When_you_have_all_Materials_port_here_to_craft_all_Mirrors",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

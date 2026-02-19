@@ -1,5 +1,6 @@
 {
   "Name": "Green3 spots",
+  "StartGameMapId": 1264,
   "Coordinates": [
     {
       "Name": "first_at_8:30",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

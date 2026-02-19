@@ -1,5 +1,6 @@
 {
   "Name": "Auric Basin The Golden Chicken",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "the_golden_chicken",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

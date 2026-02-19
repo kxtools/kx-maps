@@ -1,5 +1,6 @@
 {
   "Name": "Raptor Race",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "",
@@ -279,3 +280,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Janthir Syntri MP",
+  "StartGameMapId": 1554,
   "Coordinates": [
     {
       "Name": "1",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

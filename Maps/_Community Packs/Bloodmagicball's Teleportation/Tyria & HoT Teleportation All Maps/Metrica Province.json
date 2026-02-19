@@ -1,5 +1,6 @@
 {
   "Name": "Metrica Province",
+  "StartGameMapId": 35,
   "Coordinates": [
     {
       "Name": "Metrica-to-Caledon",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Exploration MP",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "masterypoint",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

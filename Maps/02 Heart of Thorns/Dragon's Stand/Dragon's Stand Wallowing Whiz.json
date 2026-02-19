@@ -1,5 +1,6 @@
 {
   "Name": "Dragon's Stand Wallowing Whiz",
+  "StartGameMapId": 1041,
   "Coordinates": [
     {
       "Name": "Go",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

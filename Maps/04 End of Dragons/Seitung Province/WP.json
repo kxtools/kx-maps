@@ -1,5 +1,6 @@
 {
   "Name": "WP",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Village_Waypoint",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

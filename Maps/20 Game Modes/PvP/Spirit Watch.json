@@ -1,5 +1,6 @@
 {
   "Name": "Spirit Watch",
+  "StartGameMapId": 894,
   "Coordinates": [
     {
       "Name": "Wolf",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

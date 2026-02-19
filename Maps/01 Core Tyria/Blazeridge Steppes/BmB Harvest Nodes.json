@@ -1,6 +1,7 @@
 {
   "Name": "BmB Harvest Nodes",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 20,
   "Coordinates": [
     {
       "Name": "type=tgmp.wood.seasoned",
@@ -2788,3 +2789,4 @@
     }
   ]
 }
+

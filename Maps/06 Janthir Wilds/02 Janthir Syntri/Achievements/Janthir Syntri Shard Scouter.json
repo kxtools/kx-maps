@@ -1,6 +1,7 @@
 {
   "Name": "Janthir Syntri Shard Scouter",
   "Author": "sinner",
+  "StartGameMapId": 1554,
   "Coordinates": [
     {
       "Name": "#1  [Janthir Syntri] ",
@@ -28,3 +29,4 @@
     }
   ]
 }
+

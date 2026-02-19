@@ -1,5 +1,6 @@
 {
   "Name": "All-in-one-Drizzlewood-Coast-Map-comp",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "UnitedLegionsBaseCamp",
@@ -327,3 +328,4 @@
     }
   ]
 }
+

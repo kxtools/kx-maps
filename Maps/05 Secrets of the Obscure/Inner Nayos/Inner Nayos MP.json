@@ -1,6 +1,7 @@
 {
   "Name": "Inner Nayos MP",
   "Author": "Severus",
+  "StartGameMapId": 1526,
   "Coordinates": [
     {
       "Name": "Inner Nayos Insight: Lost Altar",
@@ -46,3 +47,4 @@
     }
   ]
 }
+

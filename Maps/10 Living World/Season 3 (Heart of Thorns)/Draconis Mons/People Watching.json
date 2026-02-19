@@ -1,5 +1,6 @@
 {
   "Name": "People Watching",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "talk_to_mark",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

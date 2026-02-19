@@ -1,5 +1,6 @@
 {
   "Name": "10.Empty",
+  "StartGameMapId": 1434,
   "Coordinates": [
     {
       "Name": "Interance",
@@ -105,3 +106,4 @@
     }
   ]
 }
+

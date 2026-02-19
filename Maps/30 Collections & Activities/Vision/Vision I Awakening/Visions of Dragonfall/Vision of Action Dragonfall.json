@@ -1,5 +1,6 @@
 {
   "Name": "Vision of Action Dragonfall",
+  "StartGameMapId": 1317,
   "Coordinates": [
     {
       "Name": "Event-Melandrus-Tears-port",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

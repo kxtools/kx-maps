@@ -1,5 +1,6 @@
 {
   "Name": "Plains of Ashford",
+  "StartGameMapId": 19,
   "Coordinates": [
     {
       "Name": "PlainsofAshford-to-IronMarches",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

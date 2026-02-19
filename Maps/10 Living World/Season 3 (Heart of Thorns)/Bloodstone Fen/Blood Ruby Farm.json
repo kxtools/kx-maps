@@ -1,5 +1,6 @@
 {
   "Name": "Blood Ruby Farm",
+  "StartGameMapId": 1165,
   "Coordinates": [
     {
       "Name": "Rubie1",
@@ -291,3 +292,4 @@
     }
   ]
 }
+

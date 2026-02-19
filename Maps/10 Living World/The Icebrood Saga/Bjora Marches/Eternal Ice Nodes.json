@@ -1,5 +1,6 @@
 {
   "Name": "Eternal Ice Nodes",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "Node01",
@@ -459,4 +460,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Transit to The Echovald Wilds",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

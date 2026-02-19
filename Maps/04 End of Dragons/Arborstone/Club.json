@@ -1,5 +1,6 @@
 {
   "Name": "Club",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "Club_Rewards_Merchant",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

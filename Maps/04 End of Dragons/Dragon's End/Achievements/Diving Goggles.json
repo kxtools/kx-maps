@@ -1,5 +1,6 @@
 {
   "Name": "Diving Goggles",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

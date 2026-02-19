@@ -1,5 +1,6 @@
 {
   "Name": "Palawadan Jewel of Istan Supply Caches During or After Event",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "",
@@ -177,4 +178,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Adventure Mount Maelstrom Inferna Leap",
+  "StartGameMapId": 39,
   "Coordinates": [
     {
       "Name": "start_1:30Gold",
@@ -195,4 +196,5 @@
     }
   ]
 }
+
 

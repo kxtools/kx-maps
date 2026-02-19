@@ -1,5 +1,6 @@
 {
   "Name": "Special",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "JP-END-CHEST",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

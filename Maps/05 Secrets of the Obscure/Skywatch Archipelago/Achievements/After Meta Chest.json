@@ -1,5 +1,6 @@
 {
   "Name": "After Meta Chest",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "1",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

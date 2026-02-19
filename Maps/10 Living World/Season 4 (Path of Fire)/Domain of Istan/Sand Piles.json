@@ -1,5 +1,6 @@
 {
   "Name": "Sand Piles",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "",
@@ -165,3 +166,4 @@
     }
   ]
 }
+

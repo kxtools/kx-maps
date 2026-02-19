@@ -1,5 +1,6 @@
 {
   "Name": "Vista",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "Wizard's Ascent Vista",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

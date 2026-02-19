@@ -1,5 +1,6 @@
 {
   "Name": "Amber Jade Armory JP",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "Amber_Runestone",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

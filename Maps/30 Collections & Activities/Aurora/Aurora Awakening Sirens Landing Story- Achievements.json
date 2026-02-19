@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Sirens Landing Story- Achievements",
+  "StartGameMapId": 1203,
   "Coordinates": [
     {
       "Name": "we-start-in-Divinytis-Reach",
@@ -507,3 +508,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Canach Coins",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "1",
@@ -597,4 +598,5 @@
     }
   ]
 }
+
 

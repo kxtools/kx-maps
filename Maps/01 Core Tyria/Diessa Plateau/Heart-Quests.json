@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 32,
   "Coordinates": [
     {
       "Name": "Take-bomb",
@@ -1624,3 +1625,4 @@
     }
   ]
 }
+

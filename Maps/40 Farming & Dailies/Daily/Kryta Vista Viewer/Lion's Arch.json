@@ -1,5 +1,6 @@
 {
   "Name": "Lion's Arch",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -69,4 +70,5 @@
     }
   ]
 }
+
 

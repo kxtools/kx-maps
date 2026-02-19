@@ -1,5 +1,6 @@
 {
   "Name": "Diessa Plateau",
+  "StartGameMapId": 32,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -63,4 +64,5 @@
     }
   ]
 }
+
 

@@ -1,6 +1,7 @@
 {
   "Name": "1.Prologue Rally to Maguuma",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1042,
   "Coordinates": [
     {
       "Name": "start-Mission",
@@ -52,3 +53,4 @@
     }
   ]
 }
+

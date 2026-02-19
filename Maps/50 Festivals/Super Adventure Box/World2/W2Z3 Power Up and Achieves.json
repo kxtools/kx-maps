@@ -1,5 +1,6 @@
 {
   "Name": "W2Z3 Power Up and Achieves",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "motos_finger",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

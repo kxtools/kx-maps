@@ -1,6 +1,7 @@
 { 
   "Name": "POI",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1490,
   "Coordinates": [
     {
       "Name": "Park Quarry",

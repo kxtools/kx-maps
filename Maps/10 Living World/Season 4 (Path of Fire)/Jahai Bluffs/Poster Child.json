@@ -1,5 +1,6 @@
 {
   "Name": "Poster Child",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "Jahai_Bluff_1",
@@ -141,3 +142,4 @@
     }
   ]
 }
+

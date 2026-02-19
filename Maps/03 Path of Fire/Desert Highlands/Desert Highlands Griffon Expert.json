@@ -1,5 +1,6 @@
 {
   "Name": "Desert Highlands Griffon Expert",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "",
@@ -57,4 +58,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "Frozen_Sea_Monastery",
@@ -291,4 +292,5 @@
     }
   ]
 }
+
 

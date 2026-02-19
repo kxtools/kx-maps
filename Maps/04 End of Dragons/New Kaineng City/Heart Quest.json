@@ -1,5 +1,6 @@
 {
   "Name": "Heart Quest",
+  "StartGameMapId": 1438,
   "Coordinates": [
     {
       "Name": "Battery",
@@ -441,3 +442,4 @@
     }
   ]
 }
+

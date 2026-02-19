@@ -1,5 +1,6 @@
 {
   "Name": "W1Z1 Associate of Baubles",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "",
@@ -129,4 +130,5 @@
     }
   ]
 }
+
 

@@ -1,6 +1,7 @@
 {
   "Name": "P1",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 63,
   "Coordinates": [
     {
       "Name": "talk-select-Fergg-option-1",
@@ -70,3 +71,4 @@
     }
   ]
 }
+

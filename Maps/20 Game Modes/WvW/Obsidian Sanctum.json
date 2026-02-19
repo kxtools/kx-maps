@@ -1,5 +1,6 @@
 {
   "Name": "Obsidian Sanctum",
+  "StartGameMapId": 899,
   "Coordinates": [
     {
       "Name": "Obsidian_Sanctum_Waypoint",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

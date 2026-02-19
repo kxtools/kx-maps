@@ -1,5 +1,6 @@
 {
   "Name": "Legendary Llama Locator",
+  "StartGameMapId": 988,
   "Coordinates": [
     {
       "Name": "1st_Llama",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

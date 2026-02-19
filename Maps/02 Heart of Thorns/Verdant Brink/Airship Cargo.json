@@ -1,5 +1,6 @@
 {
   "Name": "Airship Cargo",
+  "StartGameMapId": 1042,
   "Coordinates": [
     {
       "Name": "type=tw_guides.tw_hot.tw_hot_vb.tw_hot_vb_airshipcargos.tw_hot_vb_airshipcargos_airshipcargo",
@@ -1563,4 +1564,5 @@
     }
   ]
 }
+
 

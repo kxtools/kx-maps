@@ -1,5 +1,6 @@
 {
   "Name": "Lornar's Pass",
+  "StartGameMapId": 27,
   "Coordinates": [
     {
       "Name": "LornarsPass-to-LionsArch",
@@ -39,4 +40,5 @@
     }
   ]
 }
+
 

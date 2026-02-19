@@ -1,5 +1,6 @@
 {
   "Name": "Domain of Vabbi Eggs",
+  "StartGameMapId": 1248,
   "Coordinates": [
     {
       "Name": "Warmed-Vabian-Griffon-Egg",
@@ -33,4 +34,5 @@
     }
   ]
 }
+
 

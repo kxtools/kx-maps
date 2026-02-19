@@ -1,5 +1,6 @@
 {
   "Name": "W1Z1 Coins",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "StartLvL1",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

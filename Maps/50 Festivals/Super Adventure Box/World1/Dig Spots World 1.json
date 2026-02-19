@@ -1,5 +1,6 @@
 {
   "Name": "Dig Spots World 1",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "W1Z1_1",
@@ -141,3 +142,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening Draconis-Mons-Map- Achievements",
+  "StartGameMapId": 520,
   "Coordinates": [
     {
       "Name": "Kill-The-Webby-Mother[Arachnogenesis-Achievment]",
@@ -609,3 +610,4 @@
     }
   ]
 }
+

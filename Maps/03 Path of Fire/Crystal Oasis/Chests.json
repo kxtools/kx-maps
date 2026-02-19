@@ -1,5 +1,6 @@
 {
   "Name": "Chests",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "chest",
@@ -213,3 +214,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Faith Is My Shield",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "/kneel > wait 8 sec",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

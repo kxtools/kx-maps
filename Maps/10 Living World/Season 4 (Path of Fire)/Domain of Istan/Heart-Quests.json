@@ -1,5 +1,6 @@
 {
   "Name": "Heart-Quests",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "The_Astralarium_Misaligned_Telescope",
@@ -351,3 +352,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Fields of Ruin",
+  "StartGameMapId": 21,
   "Coordinates": [
     {
       "Name": "Iron_Dragonrot_Domains",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

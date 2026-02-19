@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Seitung_Prison",
@@ -249,4 +250,5 @@
     }
   ]
 }
+
 

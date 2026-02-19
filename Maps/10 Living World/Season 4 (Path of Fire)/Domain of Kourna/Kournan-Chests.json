@@ -1,5 +1,6 @@
 {
   "Name": "Kournan-Chests",
+  "StartGameMapId": 1288,
   "Coordinates": [
     {
       "Name": "",
@@ -117,3 +118,4 @@
     }
   ]
 }
+

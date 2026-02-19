@@ -1,5 +1,6 @@
 {
   "Name": "Auric Basin Hidden Amphibian",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "Looky",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

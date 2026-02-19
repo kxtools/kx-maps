@@ -1,5 +1,6 @@
 {
   "Name": "Adventure Gendarran Fields Lakeside Loop",
+  "StartGameMapId": 24,
   "Coordinates": [
     {
       "Name": "Start_Gold1:30min",
@@ -201,4 +202,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Harathi Hinterlands",
+  "StartGameMapId": 17,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Diessa Plateau",
+  "StartGameMapId": 32,
   "Coordinates": [
     {
       "Name": "GreenWoodLogs_Ruins_of_Oldgate",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

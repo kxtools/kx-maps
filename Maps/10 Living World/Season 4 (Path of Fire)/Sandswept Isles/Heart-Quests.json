@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "The_Hunting_Grounds-Stealth_Kill_Skittish_Prairie_Dogs",
@@ -310,3 +311,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Heart Quest",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "get_stealth",
@@ -519,3 +520,4 @@
     }
   ]
 }
+

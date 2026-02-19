@@ -1,5 +1,6 @@
 {
   "Name": "Shelter In Place",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "1",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

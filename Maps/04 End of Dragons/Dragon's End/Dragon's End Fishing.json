@@ -1,5 +1,6 @@
 {
   "Name": "Dragon's End Fishing",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "quarry fish",
@@ -153,3 +154,4 @@
     }
   ]
 }
+

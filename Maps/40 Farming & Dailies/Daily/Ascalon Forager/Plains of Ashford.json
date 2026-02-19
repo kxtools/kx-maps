@@ -1,5 +1,6 @@
 {
   "Name": "Plains of Ashford",
+  "StartGameMapId": 19,
   "Coordinates": [
     {
       "Name": "Potato_Loreclaw_Expanse",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

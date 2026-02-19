@@ -1,5 +1,6 @@
 {
   "Name": "Refugee Supply Run Gold",
+  "StartGameMapId": 1210,
   "Coordinates": [
     {
       "Name": "talk-and-start",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

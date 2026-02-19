@@ -1,5 +1,6 @@
 {
   "Name": "Sanctum Sprint Crystal Farming Extrem risk",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "",
@@ -1857,3 +1858,4 @@
     }
   ]
 }
+

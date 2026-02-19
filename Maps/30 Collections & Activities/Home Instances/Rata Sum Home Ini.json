@@ -1,5 +1,6 @@
 {
   "Name": "Rata Sum Home Ini",
+  "StartGameMapId": 139,
   "Coordinates": [
     {
       "Name": "Spocket_Generator",
@@ -285,4 +286,5 @@
     }
   ]
 }
+
 

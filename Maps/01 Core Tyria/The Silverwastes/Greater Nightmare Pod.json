@@ -1,5 +1,6 @@
 {
   "Name": "Greater Nightmare Pod",
+  "StartGameMapId": 1015,
   "Coordinates": [
     {
       "Name": "greater_nightmare_pod",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

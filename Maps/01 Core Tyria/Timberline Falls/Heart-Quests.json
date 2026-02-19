@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 29,
   "Coordinates": [
     {
       "Name": "Take-bucket",
@@ -1606,3 +1607,4 @@
     }
   ]
 }
+

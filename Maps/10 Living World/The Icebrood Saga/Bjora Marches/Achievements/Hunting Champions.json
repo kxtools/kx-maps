@@ -1,5 +1,6 @@
 {
   "Name": "Hunting Champions",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "icebroodgoliath",
@@ -69,4 +70,5 @@
     }
   ]
 }
+
 

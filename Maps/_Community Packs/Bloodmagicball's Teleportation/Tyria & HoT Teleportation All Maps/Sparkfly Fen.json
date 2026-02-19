@@ -1,5 +1,6 @@
 {
   "Name": "Sparkfly Fen",
+  "StartGameMapId": 53,
   "Coordinates": [
     {
       "Name": "SparkflyFen-to-MountMaelstrom",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

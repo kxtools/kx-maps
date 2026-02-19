@@ -1,5 +1,6 @@
 {
   "Name": "Drizzlewood-Cache-Keepers-Tribunes",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "CK-UmbralGrotto",
@@ -93,3 +94,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Domain of Kourna Griffon Expert",
+  "StartGameMapId": 1288,
   "Coordinates": [
     {
       "Name": "",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

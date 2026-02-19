@@ -1,5 +1,6 @@
 {
   "Name": "CrystallizedSupplyCache",
+  "StartGameMapId": 1045,
   "Coordinates": [
     {
       "Name": "CrystallizedSupplyCache",
@@ -1941,3 +1942,4 @@
     }
   ]
 }
+

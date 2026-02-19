@@ -1,6 +1,7 @@
 {
   "Name": "Fishing Spots",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 24,
   "Coordinates": [
     {
       "Name": "River_Fish",
@@ -196,3 +197,4 @@
     }
   ]
 }
+

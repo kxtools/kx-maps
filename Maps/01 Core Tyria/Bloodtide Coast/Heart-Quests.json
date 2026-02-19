@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 73,
   "Coordinates": [
     {
       "Name": "catch-frog",
@@ -1348,3 +1349,4 @@
     }
   ]
 }
+

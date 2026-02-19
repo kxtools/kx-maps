@@ -1,5 +1,6 @@
 {
   "Name": "Tyria JP CHEST Farm Start - Metrica Province",
+  "StartGameMapId": 35,
   "Coordinates": [
     {
       "Name": "JP1_METRICA_PROVINCE",
@@ -1137,4 +1138,5 @@
     }
   ]
 }
+
 

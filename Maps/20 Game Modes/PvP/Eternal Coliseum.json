@@ -1,5 +1,6 @@
 {
   "Name": "Eternal Coliseum",
+  "StartGameMapId": 1171,
   "Coordinates": [
     {
       "Name": "Dock",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

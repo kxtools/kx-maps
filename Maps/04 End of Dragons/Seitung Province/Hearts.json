@@ -1,5 +1,6 @@
 {
   "Name": "Hearts",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Grand_Master_Kyren",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

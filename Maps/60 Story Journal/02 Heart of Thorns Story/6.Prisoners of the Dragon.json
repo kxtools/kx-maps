@@ -1,6 +1,7 @@
 {
   "Name": "6.Prisoners of the Dragon",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1051,
   "Coordinates": [
     {
       "Name": "instance-start",

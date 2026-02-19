@@ -1,6 +1,7 @@
 {
   "Name": "Molten Furnace",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 901,
   "Coordinates": [
     {
       "Name": "First-Singularity",
@@ -64,3 +65,4 @@
     }
   ]
 }
+

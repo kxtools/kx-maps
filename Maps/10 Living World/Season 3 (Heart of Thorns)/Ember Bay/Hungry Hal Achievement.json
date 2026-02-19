@@ -1,5 +1,6 @@
 {
   "Name": "Hungry Hal Achievement",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "Take-Apple",
@@ -171,4 +172,5 @@
     }
   ]
 }
+
 

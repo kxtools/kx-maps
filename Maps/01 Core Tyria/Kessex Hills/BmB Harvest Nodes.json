@@ -1,6 +1,7 @@
 {
   "Name": "BmB Harvest Nodes",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 23,
   "Coordinates": [
     {
       "Name": "type=tgmp.plant.onions",
@@ -5548,3 +5549,4 @@
     }
   ]
 }
+

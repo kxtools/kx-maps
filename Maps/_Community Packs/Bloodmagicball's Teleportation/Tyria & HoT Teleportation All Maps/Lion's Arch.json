@@ -1,5 +1,6 @@
 {
   "Name": "Lion's Arch",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "LionsArch-to-RataSum",
@@ -69,4 +70,5 @@
     }
   ]
 }
+
 

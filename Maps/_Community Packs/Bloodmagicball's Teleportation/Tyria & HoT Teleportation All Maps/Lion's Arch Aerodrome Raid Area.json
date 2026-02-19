@@ -1,5 +1,6 @@
 {
   "Name": "Lion's Arch Aerodrome Raid Area",
+  "StartGameMapId": 1155,
   "Coordinates": [
     {
       "Name": "Aerodrome-to-LionsArch",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 

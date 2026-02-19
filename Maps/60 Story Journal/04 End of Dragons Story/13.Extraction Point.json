@@ -1,5 +1,6 @@
 {
   "Name": "13.Extraction Point",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "instalce",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

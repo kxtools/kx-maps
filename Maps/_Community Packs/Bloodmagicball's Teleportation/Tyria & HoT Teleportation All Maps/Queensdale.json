@@ -1,5 +1,6 @@
 {
   "Name": "Queensdale",
+  "StartGameMapId": 15,
   "Coordinates": [
     {
       "Name": "Queensdale-to-Divinity",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Aurora Awakening 1 Draconis Mons The Druid Stone Collection 1",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "Shroom&kill",
@@ -1431,4 +1432,5 @@
     }
   ]
 }
+
 

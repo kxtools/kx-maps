@@ -1,6 +1,7 @@
 {
   "Name": "Missing Scout",
   "Author": "balut420",
+  "StartGameMapId": 1575,
   "Coordinates": [
     {
       "Name": "missingscout_spot01",
@@ -34,3 +35,4 @@
     }
   ]
 }
+

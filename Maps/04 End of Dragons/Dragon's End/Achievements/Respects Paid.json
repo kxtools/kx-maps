@@ -1,5 +1,6 @@
 {
   "Name": "Respects Paid",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "Shrine_of_the_Serpent_kneel",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

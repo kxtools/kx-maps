@@ -1,5 +1,6 @@
 {
   "Name": "PoF ChestFarm DesertHighlands",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "chest",
@@ -1485,3 +1486,4 @@
     }
   ]
 }
+

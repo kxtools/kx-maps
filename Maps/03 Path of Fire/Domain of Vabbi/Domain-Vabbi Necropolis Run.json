@@ -1,5 +1,6 @@
 {
   "Name": "Domain-Vabbi Necropolis Run",
+  "StartGameMapId": 1248,
   "Coordinates": [
     {
       "Name": "start",
@@ -45,4 +46,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Trolls Revenge JP",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "Trolls_Revenge_Chest_1",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

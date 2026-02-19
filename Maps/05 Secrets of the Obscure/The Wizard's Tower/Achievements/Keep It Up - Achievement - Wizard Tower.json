@@ -1,5 +1,6 @@
 {
   "Name": "Keep It Up - Achievement - Wizard Tower",
+  "StartGameMapId": 1509,
   "Coordinates": [
     {
       "Name": "",
@@ -459,3 +460,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Achievement Time Trial JP",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "JP_Start",
@@ -33,4 +34,5 @@
     }
   ]
 }
+
 

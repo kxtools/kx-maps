@@ -1,5 +1,6 @@
 {
   "Name": "HP",
+  "StartGameMapId": 1045,
   "Coordinates": [
     {
       "Name": "HP1",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

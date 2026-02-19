@@ -1,5 +1,6 @@
 {
   "Name": "Ascent to Madness",
+  "StartGameMapId": 863,
   "Coordinates": [
     {
       "Name": "open",
@@ -69,3 +70,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "The Future in Jade - Duct Cleaning Achievement",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "1rat",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

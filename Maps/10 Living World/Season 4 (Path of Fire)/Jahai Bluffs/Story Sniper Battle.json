@@ -1,5 +1,6 @@
 {
   "Name": "Story Sniper Battle",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

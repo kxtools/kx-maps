@@ -1,5 +1,6 @@
 {
   "Name": "Fields of Ruin",
+  "StartGameMapId": 21,
   "Coordinates": [
     {
       "Name": "start",
@@ -309,4 +310,5 @@
     }
   ]
 }
+
 

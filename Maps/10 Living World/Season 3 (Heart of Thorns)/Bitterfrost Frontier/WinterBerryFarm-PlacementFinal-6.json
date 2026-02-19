@@ -1,5 +1,6 @@
 {
   "Name": "WinterBerryFarm-PlacementFinal-6",
+  "StartGameMapId": 1178,
   "Coordinates": [
     {
       "Name": "",
@@ -141,3 +142,4 @@
     }
   ]
 }
+

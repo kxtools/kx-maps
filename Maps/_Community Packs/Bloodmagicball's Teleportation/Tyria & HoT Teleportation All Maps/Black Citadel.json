@@ -1,5 +1,6 @@
 {
   "Name": "Black Citadel",
+  "StartGameMapId": 218,
   "Coordinates": [
     {
       "Name": "BlackCitadel-to-PlainsofAshford",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

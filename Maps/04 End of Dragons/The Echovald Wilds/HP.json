@@ -1,5 +1,6 @@
 {
   "Name": "HP",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "Gravestone_of_Lord_Archek",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

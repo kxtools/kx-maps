@@ -1,5 +1,6 @@
 {
   "Name": "Kessex Hills",
+  "StartGameMapId": 23,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

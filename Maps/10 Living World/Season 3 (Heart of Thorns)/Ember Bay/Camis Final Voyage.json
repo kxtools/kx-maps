@@ -1,5 +1,6 @@
 {
   "Name": "Camis Final Voyage",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "Journal1",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

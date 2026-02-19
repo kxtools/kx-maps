@@ -1,5 +1,6 @@
 {
   "Name": "Rock Collector",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "",
@@ -369,3 +370,4 @@
     }
   ]
 }
+

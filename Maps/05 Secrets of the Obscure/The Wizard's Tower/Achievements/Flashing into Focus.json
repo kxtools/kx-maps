@@ -1,5 +1,6 @@
 {
   "Name": "Flashing into Focus",
+  "StartGameMapId": 1509,
   "Coordinates": [
     {
       "Name": "1",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

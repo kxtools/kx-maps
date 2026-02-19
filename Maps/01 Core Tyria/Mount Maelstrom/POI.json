@@ -1,6 +1,7 @@
 {
   "Name": "POI",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 39,
   "Coordinates": [
     {
       "Name": "PoI1",
@@ -196,4 +197,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Hoelbrak",
+  "StartGameMapId": 326,
   "Coordinates": [
     {
       "Name": "Hoelbrak-to-Wayfarer",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

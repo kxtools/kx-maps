@@ -1,5 +1,6 @@
 {
   "Name": "Fire Orchid",
+  "StartGameMapId": 1195,
   "Coordinates": [
     {
       "Name": "",
@@ -987,3 +988,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Lore Untangler achievement",
+  "StartGameMapId": 1045,
   "Coordinates": [
     {
       "Name": "Ring_of_the_Fire_Islands",
@@ -123,3 +124,4 @@
     }
   ]
 }
+

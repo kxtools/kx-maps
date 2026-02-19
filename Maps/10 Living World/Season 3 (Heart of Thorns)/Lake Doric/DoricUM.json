@@ -1,5 +1,6 @@
 {
   "Name": "DoricUM",
+  "StartGameMapId": 1185,
   "Coordinates": [
     {
       "Name": "",
@@ -291,3 +292,4 @@
     }
   ]
 }
+

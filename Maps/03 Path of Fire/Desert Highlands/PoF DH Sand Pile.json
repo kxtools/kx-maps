@@ -1,5 +1,6 @@
 {
   "Name": "PoF DH Sand Pile",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "sand_pile",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

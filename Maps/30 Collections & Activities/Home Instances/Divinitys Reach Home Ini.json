@@ -1,5 +1,6 @@
 {
   "Name": "Divinitys Reach Home Ini",
+  "StartGameMapId": 18,
   "Coordinates": [
     {
       "Name": "Bauble",
@@ -285,4 +286,5 @@
     }
   ]
 }
+
 

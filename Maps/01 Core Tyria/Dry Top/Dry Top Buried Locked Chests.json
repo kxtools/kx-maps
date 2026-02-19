@@ -1,5 +1,6 @@
 {
   "Name": "Dry Top Buried Locked Chests",
+  "StartGameMapId": 988,
   "Coordinates": [
     {
       "Name": "-",
@@ -753,3 +754,4 @@
     }
   ]
 }
+

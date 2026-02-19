@@ -1,5 +1,6 @@
 {
   "Name": "Glorious Canthan Chest",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Chest",
@@ -699,3 +700,4 @@
     }
   ]
 }
+

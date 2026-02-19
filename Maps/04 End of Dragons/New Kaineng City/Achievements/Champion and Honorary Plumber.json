@@ -1,5 +1,6 @@
 {
   "Name": "Champion and Honorary Plumber",
+  "StartGameMapId": 1438,
   "Wiki": "https://wiki.guildwars2.com/wiki/Drain_Inlet",
   "Coordinates": [
     {
@@ -88,3 +89,4 @@
     }
   ]
 }
+

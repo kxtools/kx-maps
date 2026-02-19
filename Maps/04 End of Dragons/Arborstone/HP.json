@@ -1,5 +1,6 @@
 {
   "Name": "HP",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "Tsuko_Talonedge",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

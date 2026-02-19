@@ -1,5 +1,6 @@
 {
   "Name": "Thunderhead Peaks",
+  "StartGameMapId": 1310,
   "Coordinates": [
     {
       "Name": "start",
@@ -615,4 +616,5 @@
     }
   ]
 }
+
 

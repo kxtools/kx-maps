@@ -1,5 +1,6 @@
 {
   "Name": "Derelict temple raptor ride",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Mount_raptor_here",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Lion's Arch Exterminator",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "Turl_Sharptooth",
@@ -321,3 +322,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Desert Borderlands",
+  "StartGameMapId": 1099,
   "Coordinates": [
     {
       "Name": "MCLains-Encampment",
@@ -231,3 +232,4 @@
     }
   ]
 }
+

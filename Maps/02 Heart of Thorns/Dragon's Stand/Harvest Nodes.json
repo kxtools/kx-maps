@@ -1,5 +1,6 @@
 {
   "Name": "Harvest Nodes",
+  "StartGameMapId": 1041,
   "Coordinates": [
     {
       "Name": "",
@@ -1683,3 +1684,4 @@
     }
   ]
 }
+

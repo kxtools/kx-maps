@@ -1,5 +1,6 @@
 {
   "Name": "HP",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "Roaring_Waterfall",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

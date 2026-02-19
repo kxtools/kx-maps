@@ -1,5 +1,6 @@
 {
   "Name": "Lost Precipice WP",
+  "StartGameMapId": 1069,
   "Coordinates": [
     {
       "Name": "WP1",
@@ -39,4 +40,5 @@
     }
   ]
 }
+
 

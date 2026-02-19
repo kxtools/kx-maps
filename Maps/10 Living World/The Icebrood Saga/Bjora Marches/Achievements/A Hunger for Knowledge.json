@@ -1,5 +1,6 @@
 {
   "Name": "A Hunger for Knowledge",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "book1",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

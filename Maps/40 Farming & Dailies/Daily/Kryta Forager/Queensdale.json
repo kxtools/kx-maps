@@ -1,5 +1,6 @@
 {
   "Name": "Queensdale",
+  "StartGameMapId": 15,
   "Coordinates": [
     {
       "Name": "Lettuce_Outside_Bettletun_Manor",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

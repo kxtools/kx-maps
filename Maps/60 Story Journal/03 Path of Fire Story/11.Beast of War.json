@@ -1,6 +1,7 @@
 {
   "Name": "11.Beast of War",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1253,
   "Coordinates": [
     {
       "Name": "instance-start",

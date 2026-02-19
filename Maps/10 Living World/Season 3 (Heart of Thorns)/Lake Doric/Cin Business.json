@@ -1,5 +1,6 @@
 {
   "Name": "Cin Business",
+  "StartGameMapId": 1185,
   "Coordinates": [
     {
       "Name": "",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

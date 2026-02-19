@@ -1,5 +1,6 @@
 {
   "Name": "Chalice of Tears",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "1checkpointjp",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

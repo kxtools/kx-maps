@@ -1,5 +1,6 @@
 {
   "Name": "GrothmarChests",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "",
@@ -111,3 +112,4 @@
     }
   ]
 }
+

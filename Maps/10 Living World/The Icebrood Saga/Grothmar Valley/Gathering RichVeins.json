@@ -1,5 +1,6 @@
 {
   "Name": "Gathering RichVeins",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "richveins",
@@ -63,3 +64,4 @@
     }
   ]
 }
+

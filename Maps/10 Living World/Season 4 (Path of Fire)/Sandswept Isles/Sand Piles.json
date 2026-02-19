@@ -1,6 +1,7 @@
 {
   "Name": "Sand Piles",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "Sandpile1",
@@ -172,3 +173,4 @@
     }
   ]
 }
+

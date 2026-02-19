@@ -1,5 +1,6 @@
 {
   "Name": "Raven Sanctum",
+  "StartGameMapId": 1343,
   "Coordinates": [
     {
       "Name": "",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

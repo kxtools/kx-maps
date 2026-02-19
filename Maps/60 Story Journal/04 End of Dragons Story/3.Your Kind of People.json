@@ -1,5 +1,6 @@
 {
   "Name": "3.Your Kind of People",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "starting_first_instance",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

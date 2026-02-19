@@ -1,5 +1,6 @@
 {
   "Name": "Karmafarm",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "karmaroute1",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

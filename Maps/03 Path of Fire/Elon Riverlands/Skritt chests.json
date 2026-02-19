@@ -1,5 +1,6 @@
 {
   "Name": "Skritt chests",
+  "StartGameMapId": 1228,
   "Coordinates": [
     {
       "Name": "CaffinatedSkrittChest1",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

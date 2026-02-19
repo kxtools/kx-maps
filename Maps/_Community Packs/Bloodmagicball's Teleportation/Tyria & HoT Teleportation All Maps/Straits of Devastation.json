@@ -1,5 +1,6 @@
 {
   "Name": "Straits of Devastation",
+  "StartGameMapId": 51,
   "Coordinates": [
     {
       "Name": "StraitsofDevastation-to-MountMaelstrom",
@@ -21,4 +22,5 @@
     }
   ]
 }
+
 

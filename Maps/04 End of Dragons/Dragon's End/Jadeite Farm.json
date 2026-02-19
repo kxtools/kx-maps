@@ -1,5 +1,6 @@
 {
   "Name": "Jadeite Farm",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "Risen_Havoc_West",
@@ -1137,3 +1138,4 @@
     }
   ]
 }
+

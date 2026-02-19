@@ -1,6 +1,7 @@
 {
   "Name": "POF Daily Start Desert Highlands",
   "Author": "ChiefKeefe",
+  "StartGameMapId": 1211,
   "Coordinates": [
     {
       "Name": "Ori_DH1",
@@ -166,4 +167,5 @@
     }
   ]
 }
+
 

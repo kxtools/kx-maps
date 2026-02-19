@@ -1,6 +1,7 @@
 {
   "Name": "MP",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "MP1",

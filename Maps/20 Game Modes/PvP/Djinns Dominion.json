@@ -1,5 +1,6 @@
 {
   "Name": "Djinns Dominion",
+  "StartGameMapId": 1305,
   "Coordinates": [
     {
       "Name": "Pier",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

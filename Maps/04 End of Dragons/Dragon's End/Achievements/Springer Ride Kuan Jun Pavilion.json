@@ -1,5 +1,6 @@
 {
   "Name": "Springer Ride Kuan Jun Pavilion",
+  "StartGameMapId": 1422,
   "Coordinates": [
     {
       "Name": "tele_here_and_mount_springer",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

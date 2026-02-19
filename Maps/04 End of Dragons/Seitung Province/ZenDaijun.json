@@ -1,5 +1,6 @@
 {
   "Name": "ZenDaijun",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

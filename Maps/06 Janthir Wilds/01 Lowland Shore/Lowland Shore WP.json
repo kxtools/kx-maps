@@ -1,5 +1,6 @@
 {
   "Name": "Lowland Shore WP",
+  "StartGameMapId": 1550,
   "Coordinates": [
     {
       "Name": "Astral Ward Moon Camp",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

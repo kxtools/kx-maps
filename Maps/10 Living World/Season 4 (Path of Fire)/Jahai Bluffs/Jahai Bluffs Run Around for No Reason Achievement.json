@@ -1,5 +1,6 @@
 {
   "Name": "Jahai Bluffs Run Around for No Reason Achievement",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "",
@@ -105,4 +106,5 @@
     }
   ]
 }
+
 

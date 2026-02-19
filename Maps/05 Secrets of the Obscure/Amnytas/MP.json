@@ -1,5 +1,6 @@
 {
   "Name": "MP",
+  "StartGameMapId": 1517,
   "Coordinates": [
     {
       "Name": "The Arboretum",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

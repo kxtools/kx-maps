@@ -1,5 +1,6 @@
 {
   "Name": "MP",
+  "StartGameMapId": 1575,
   "Coordinates": [
     {
       "Name": "Mistburned Barrens Insight: Hidden Sacrarium",
@@ -39,3 +40,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Mistonium Nodes",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "Possible_Mistonium_Node",
@@ -297,3 +298,4 @@
     }
   ]
 }
+

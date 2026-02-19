@@ -1,5 +1,6 @@
 {
   "Name": "Bloodtide Coast",
+  "StartGameMapId": 73,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

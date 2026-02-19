@@ -1,5 +1,6 @@
 {
   "Name": "Twisted Castle",
+  "StartGameMapId": 1156,
   "Coordinates": [
     {
       "Name": "Button1",
@@ -51,3 +52,4 @@
     }
   ]
 }
+

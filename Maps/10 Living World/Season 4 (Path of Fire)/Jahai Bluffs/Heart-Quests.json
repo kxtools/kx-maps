@@ -1,5 +1,6 @@
 {
   "Name": "Heart-Quests",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "Reclaimed_Chantry_Broken_Turret",
@@ -309,3 +310,4 @@
     }
   ]
 }
+

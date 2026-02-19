@@ -1,5 +1,6 @@
 {
   "Name": "MP",
+  "StartGameMapId": 1509,
   "Coordinates": [
     {
       "Name": "A Bird's Eye View",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

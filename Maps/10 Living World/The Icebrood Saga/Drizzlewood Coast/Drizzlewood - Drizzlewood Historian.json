@@ -1,5 +1,6 @@
 {
   "Name": "Drizzlewood - Drizzlewood Historian",
+  "StartGameMapId": 1371,
   "Coordinates": [
     {
       "Name": "Reflection",
@@ -33,4 +34,5 @@
     }
   ]
 }
+
 

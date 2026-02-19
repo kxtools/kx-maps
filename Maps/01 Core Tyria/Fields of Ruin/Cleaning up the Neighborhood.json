@@ -1,5 +1,6 @@
 {
   "Name": "Cleaning up the Neighborhood",
+  "StartGameMapId": 21,
   "Coordinates": [
     {
       "Name": "Fields-of-Ruin_Separatist-Propaganda1",
@@ -249,4 +250,5 @@
     }
   ]
 }
+
 

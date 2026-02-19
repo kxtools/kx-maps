@@ -1,6 +1,7 @@
 {
   "Name": "3.Establishing a Foothold",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1042,
   "Coordinates": [
     {
       "Name": "talk",

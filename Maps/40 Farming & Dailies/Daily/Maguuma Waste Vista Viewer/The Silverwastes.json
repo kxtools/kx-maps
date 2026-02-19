@@ -1,5 +1,6 @@
 {
   "Name": "The Silverwastes",
+  "StartGameMapId": 1015,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

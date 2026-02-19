@@ -1,6 +1,7 @@
 {
   "Name": "13.Buried Insight",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1033,
   "Coordinates": [
     {
       "Name": "instance-start",

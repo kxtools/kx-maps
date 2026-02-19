@@ -1,5 +1,6 @@
 {
   "Name": "Skipping",
+  "StartGameMapId": 1149,
   "Coordinates": [
     {
       "Name": "PortalSkip1",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

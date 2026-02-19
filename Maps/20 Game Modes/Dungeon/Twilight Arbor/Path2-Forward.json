@@ -1,6 +1,7 @@
 {
   "Name": "Path2-Forward",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 67,
   "Coordinates": [
     {
       "Name": "activate-and-choose",
@@ -70,4 +71,5 @@
     }
   ]
 }
+
 

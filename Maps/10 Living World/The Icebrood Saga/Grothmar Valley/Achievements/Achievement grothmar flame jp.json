@@ -1,5 +1,6 @@
 {
   "Name": "Achievement grothmar flame jp",
+  "StartGameMapId": 1330,
   "Coordinates": [
     {
       "Name": "totem",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

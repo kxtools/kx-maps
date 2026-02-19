@@ -1,5 +1,6 @@
 {
   "Name": "Heart-Quests",
+  "StartGameMapId": 1310,
   "Coordinates": [
     {
       "Name": "Barracks_Discouraged_Pact_Soldier",
@@ -339,3 +340,4 @@
     }
   ]
 }
+

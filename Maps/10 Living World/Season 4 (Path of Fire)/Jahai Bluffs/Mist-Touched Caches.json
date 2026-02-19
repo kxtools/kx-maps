@@ -1,5 +1,6 @@
 {
   "Name": "Mist-Touched Caches",
+  "StartGameMapId": 1301,
   "Coordinates": [
     {
       "Name": "Mist_Touched",
@@ -135,3 +136,4 @@
     }
   ]
 }
+

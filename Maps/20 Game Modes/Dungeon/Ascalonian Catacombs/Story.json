@@ -1,6 +1,7 @@
 {
   "Name": "Story",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 33,
   "Coordinates": [
     {
       "Name": "talk-to-him",
@@ -52,3 +53,4 @@
     }
   ]
 }
+

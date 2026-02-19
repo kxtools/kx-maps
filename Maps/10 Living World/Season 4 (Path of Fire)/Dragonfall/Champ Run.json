@@ -1,5 +1,6 @@
 {
   "Name": "Champ Run",
+  "StartGameMapId": 1317,
   "Coordinates": [
     {
       "Name": "Ley-Infused_Branded_Air_Elemental",
@@ -81,3 +82,4 @@
     }
   ]
 }
+

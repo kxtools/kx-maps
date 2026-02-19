@@ -1,5 +1,6 @@
 {
   "Name": "HP",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "Bloom_of_Seitung_Hero_Challenge",
@@ -57,3 +58,4 @@
     }
   ]
 }
+

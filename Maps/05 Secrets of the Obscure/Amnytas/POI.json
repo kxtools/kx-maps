@@ -1,5 +1,6 @@
 {
   "Name": "POI",
+  "StartGameMapId": 1517,
   "Coordinates": [
     {
       "Name": "The Underways",
@@ -303,3 +304,4 @@
     }
   ]
 }
+

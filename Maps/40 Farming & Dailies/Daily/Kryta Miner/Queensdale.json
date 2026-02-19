@@ -1,5 +1,6 @@
 {
   "Name": "Queensdale",
+  "StartGameMapId": 15,
   "Coordinates": [
     {
       "Name": "Copper_Greatheart_Wealds_Troll_Cave",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

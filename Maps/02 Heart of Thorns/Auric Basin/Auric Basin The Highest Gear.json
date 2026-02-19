@@ -1,5 +1,6 @@
 {
   "Name": "Auric Basin The Highest Gear",
+  "StartGameMapId": 1043,
   "Coordinates": [
     {
       "Name": "start",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

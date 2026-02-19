@@ -1,6 +1,7 @@
 {
   "Name": "Flax Farm Start - Gilded Hollow",
   "Author": "ShadowPlague",
+  "StartGameMapId": 1068,
   "Coordinates": [
     {
       "Name": "HoT Guild Exit Gilded Hollow",
@@ -70,3 +71,4 @@
     }
   ]
 }
+

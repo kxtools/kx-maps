@@ -1,5 +1,6 @@
 {
   "Name": "WP",
+  "StartGameMapId": 1510,
   "Coordinates": [
     {
       "Name": "Beacon of Ages Waypoint",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

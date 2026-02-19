@@ -1,5 +1,6 @@
 {
   "Name": "Janthir Syntri WP",
+  "StartGameMapId": 1554,
   "Coordinates": [
     {
       "Name": "Forager's Hunt",
@@ -27,3 +28,4 @@
     }
   ]
 }
+

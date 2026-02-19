@@ -1,5 +1,6 @@
 {
   "Name": "Winterberry Farm - Short",
+  "StartGameMapId": 1178,
   "Coordinates": [
     {
       "Name": "",
@@ -153,3 +154,4 @@
     }
   ]
 }
+

@@ -1,6 +1,7 @@
 {
   "Name": "Heart-Quests",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 31,
   "Coordinates": [
     {
       "Name": "Kill-Nearby-Moose",
@@ -1054,3 +1055,4 @@
     }
   ]
 }
+

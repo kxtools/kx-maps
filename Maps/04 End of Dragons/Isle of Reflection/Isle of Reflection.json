@@ -1,5 +1,6 @@
 {
   "Name": "Isle of Reflection",
+  "StartGameMapId": 1419,
   "Coordinates": [
     {
       "Name": "Reflection_Crystal_WP",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

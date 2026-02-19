@@ -1,5 +1,6 @@
 {
   "Name": "History Buff",
+  "StartGameMapId": 50,
   "Coordinates": [
     {
       "Name": "Lions-Arch_Read1",
@@ -75,3 +76,4 @@
     }
   ]
 }
+

@@ -1,6 +1,7 @@
 {
   "Name": "Heart",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "The_Hunting_Grounds",
@@ -28,3 +29,4 @@
     }
   ]
 }
+

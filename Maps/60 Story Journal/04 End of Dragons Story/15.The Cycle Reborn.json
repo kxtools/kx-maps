@@ -1,5 +1,6 @@
 {
   "Name": "15.The Cycle Reborn",
+  "StartGameMapId": 1442,
   "Coordinates": [
     {
       "Name": "EW-Interance",
@@ -45,3 +46,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "WorkStation",
+  "StartGameMapId": 1428,
   "Coordinates": [
     {
       "Name": "Huntsman",
@@ -57,4 +58,5 @@
     }
   ]
 }
+
 

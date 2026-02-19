@@ -1,5 +1,6 @@
 {
   "Name": "Iron Marches",
+  "StartGameMapId": 25,
   "Coordinates": [
     {
       "Name": "Platinum_Ebbing_Heart_Run",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

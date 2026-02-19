@@ -1,5 +1,6 @@
 {
   "Name": "Tiger Den",
+  "StartGameMapId": 34,
   "Coordinates": [
     {
       "Name": "tiger",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

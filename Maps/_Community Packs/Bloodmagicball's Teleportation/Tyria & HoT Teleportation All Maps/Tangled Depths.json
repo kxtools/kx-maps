@@ -1,5 +1,6 @@
 {
   "Name": "Tangled Depths",
+  "StartGameMapId": 1045,
   "Coordinates": [
     {
       "Name": "Tangled-to-Auric",
@@ -15,4 +16,5 @@
     }
   ]
 }
+
 

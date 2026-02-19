@@ -1,5 +1,6 @@
 {
   "Name": "Glitch",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "",
@@ -15,3 +16,4 @@
     }
   ]
 }
+

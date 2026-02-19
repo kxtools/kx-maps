@@ -1,5 +1,6 @@
 {
   "Name": "Tales Of Elona",
+  "StartGameMapId": 1271,
   "Coordinates": [
     {
       "Name": "Find/speak-Ewyn",
@@ -33,3 +34,4 @@
     }
   ]
 }
+

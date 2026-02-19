@@ -1,6 +1,7 @@
 {
   "Name": "8.City of Hope",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 1048,
   "Coordinates": [
     {
       "Name": "instance-start",

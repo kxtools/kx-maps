@@ -1,5 +1,6 @@
 {
   "Name": "Jade Lanterns",
+  "StartGameMapId": 1452,
   "Coordinates": [
     {
       "Name": "Jade_Battery",
@@ -567,3 +568,4 @@
     }
   ]
 }
+

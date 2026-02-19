@@ -1,5 +1,6 @@
 {
   "Name": "Time Trial Jormag's Fang",
+  "StartGameMapId": 31,
   "Coordinates": [
     {
       "Name": "Start",
@@ -147,4 +148,5 @@
     }
   ]
 }
+
 

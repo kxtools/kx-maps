@@ -1,6 +1,7 @@
 {
   "Name": "Vista",
   "Author": "Bloodmagicball",
+  "StartGameMapId": 39,
   "Coordinates": [
     {
       "Name": "Vista1",
@@ -46,3 +47,4 @@
     }
   ]
 }
+

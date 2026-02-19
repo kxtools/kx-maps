@@ -1,5 +1,6 @@
 {
   "Name": "EmberBayJunglePlants",
+  "StartGameMapId": 1175,
   "Coordinates": [
     {
       "Name": "JunglePlant1Emberbay",
@@ -21,3 +22,4 @@
     }
   ]
 }
+

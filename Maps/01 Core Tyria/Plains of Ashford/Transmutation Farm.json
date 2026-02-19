@@ -1,5 +1,6 @@
 {
   "Name": "Transmutation Farm",
+  "StartGameMapId": 19,
   "Coordinates": [
     {
       "Name": "Legionnaire_Tosia_Domesplitter",
@@ -1545,3 +1546,4 @@
     }
   ]
 }
+

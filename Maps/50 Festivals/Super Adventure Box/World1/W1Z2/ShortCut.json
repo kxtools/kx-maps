@@ -1,5 +1,6 @@
 {
   "Name": "ShortCut",
+  "StartGameMapId": 895,
   "Coordinates": [
     {
       "Name": "",
@@ -9,3 +10,4 @@
     }
   ]
 }
+

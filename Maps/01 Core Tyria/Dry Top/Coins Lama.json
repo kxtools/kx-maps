@@ -1,5 +1,6 @@
 {
   "Name": "Coins Lama",
+  "StartGameMapId": 988,
   "Coordinates": [
     {
       "Name": "Lama1",
@@ -465,3 +466,4 @@
     }
   ]
 }
+

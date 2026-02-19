@@ -1,5 +1,6 @@
 {
   "Name": "Trade Caches",
+  "StartGameMapId": 1263,
   "Coordinates": [
     {
       "Name": "Trade-Cache1",
@@ -585,3 +586,4 @@
     }
   ]
 }
+

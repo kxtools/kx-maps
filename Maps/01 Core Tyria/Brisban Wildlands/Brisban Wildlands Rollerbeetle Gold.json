@@ -1,5 +1,6 @@
 {
   "Name": "Brisban Wildlands Rollerbeetle Gold",
+  "StartGameMapId": 54,
   "Coordinates": [
     {
       "Name": "",
@@ -369,4 +370,5 @@
     }
   ]
 }
+
 

@@ -1,5 +1,6 @@
 {
   "Name": "Volatile Magic",
+  "StartGameMapId": 1517,
   "Coordinates": [
     {
       "Name": "",
@@ -507,3 +508,4 @@
     }
   ]
 }
+

@@ -1,5 +1,6 @@
 {
   "Name": "Cursed Shore",
+  "StartGameMapId": 62,
   "Coordinates": [
     {
       "Name": "CursedShore-to-MalchorsLeap",
@@ -9,4 +10,5 @@
     }
   ]
 }
+
 
