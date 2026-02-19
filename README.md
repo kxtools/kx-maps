@@ -16,5 +16,10 @@ You can contact us on our [Discord server](https://discord.gg/z92rnB4kHm) for an
 
 Discover more tools and get your KX Trainer Pro license at **[kxtools.xyz](https://kxtools.xyz)**.
 
+## Validation
+Run before push: `pwsh -File scripts/validate-json.ps1 -Changed`  
+Full check: `pwsh -File scripts/validate-json.ps1`  
+CI runs full validation on PRs/pushes (`json-validation`).
+
 ## Acknowledgments
 * [Bloodmagicball](https://github.com/Bloodmagicball) - for being the first person who bought KX Trainer, making most of the route files, and helping our community over the years ❤
