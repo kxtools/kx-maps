@@ -132,6 +132,12 @@ foreach ($file in $files) {
         }
     }
 
+    if ($baseName -notmatch '^[A-Z0-9]') {
+        Write-Host "[STYLE][ERROR] $relativePath : file name must start with a capital letter or digit."
+        Add-Count -Map $ruleCounts -Key "start_upper_or_digit"
+        $strictErrors++
+    }
+
     if ($WarnOnUnderscore -and $baseName.Contains("_")) {
         Write-Host "[STYLE][WARN] $relativePath : underscore in file name."
         Add-Count -Map $ruleCounts -Key "underscore_warning"
@@ -143,6 +149,7 @@ foreach ($file in $files) {
         Add-Count -Map $ruleCounts -Key "squashed_warning"
         $warningCount++
     }
+
 }
 
 Write-Host ""
