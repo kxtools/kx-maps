@@ -1,0 +1,80 @@
+{
+  "Name": "Janthri Syntri - Build-a-Quaggan",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sinner",
+  "LastUpdated": "2025-08-21T01:27:53.1234474Z",
+  "StartGameMapId": 1550,
+  "Coordinates": [
+    {
+      "Name": "Speak with Chilly Tarn. You may be able to find her at Forager's Hunt. [Janthir Syntri] ",
+      "TargetMapId": 1550,
+      "X": 750.68,
+      "Y": -785.94,
+      "Z": 4.31
+    },
+    {
+      "Name": "Interact with Plant Fibers in the river north 6 Plant Fibers[Janthir Syntri] ",
+      "TargetMapId": 1550,
+      "X": 102.75,
+      "Y": -793.5,
+      "Z": 22.42
+    },
+    {
+      "Name": "Talk to the Farmer,nearby Extra-Fluffy Longhorn Sheep to collect 5 Wool Balls. [Gendarran Fields] ",
+      "TargetMapId": 1550,
+      "X": 467.77,
+      "Y": 621.66,
+      "Z": 59.37
+    },
+    {
+      "Name": "Talk to Apprentice Relyor and answer the questions correctly (Quaggan, Divinity's Reach, Kralkatorrik) [Rata Sum] ",
+      "TargetMapId": 1550,
+      "X": 219.42,
+      "Y": 217.75,
+      "Z": 417.61
+    },
+    {
+      "Name": "talk to Gentle Breeze, Growing Rain, Laughing Brook. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": -130.16,
+      "Y": 485.0,
+      "Z": 134.07
+    },
+    {
+      "Name": "talk to Peeking Sunrise. [Lowland Shore]",
+      "TargetMapId": 1550,
+      "X": -76.61,
+      "Y": 546.25,
+      "Z": 132.43
+    },
+    {
+      "Name": "and interact with the Toy Wings to acquire Tiny Wings. [Harathi Hinterlands] ",
+      "TargetMapId": 1550,
+      "X": -560.52,
+      "Y": 849.17,
+      "Z": 64.86
+    },
+    {
+      "Name": "Talk to the Curious Merchant and purchase a Squeaker for 20 Ursus Oblige. [Divinity's Reach] ",
+      "TargetMapId": 1550,
+      "X": 72.28,
+      "Y": -455.43,
+      "Z": 107.91
+    },
+    {
+      "Name": "Interact with a rock in the shallows of the river [Janthir Syntri] ",
+      "TargetMapId": 1550,
+      "X": 217.9,
+      "Y": 59.9,
+      "Z": 2.98
+    },
+    {
+      "Name": "Speak with Warming Comfort [Janthir Syntri] ",
+      "TargetMapId": 1550,
+      "X": 744.56,
+      "Y": -785.53,
+      "Z": 1.74
+    }
+  ]
+}

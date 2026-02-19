@@ -1,0 +1,533 @@
+{
+  "Name": "Lowland Material Farm",
+  "Coordinates": [
+    {
+      "Name": "Honey Flower",
+      "X": -1024.02,
+      "Y": -154.06,
+      "Z": 268.67
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -887.53,
+      "Y": -227.1,
+      "Z": 260.45
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -772.14,
+      "Y": -377.89,
+      "Z": 288.52
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -613.74,
+      "Y": -405.21,
+      "Z": 258.05
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -560.72,
+      "Y": -449.09,
+      "Z": 256.49
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -554.96,
+      "Y": -454.54,
+      "Z": 256.69
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -622.65,
+      "Y": -516.87,
+      "Z": 256.99
+    },
+    {
+      "Name": "Mithril Ore",
+      "X": -660.34,
+      "Y": -754.59,
+      "Z": 401.29
+    },
+    {
+      "Name": "Mithril Ore",
+      "X": -545.09,
+      "Y": -740.32,
+      "Z": 370.77
+    },
+    {
+      "Name": "Mithril Ore",
+      "X": -417.46,
+      "Y": -775.42,
+      "Z": 347.65
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -243.49,
+      "Y": -599.24,
+      "Z": 297.68
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -111.28,
+      "Y": -717.7,
+      "Z": 367.35
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -49.1,
+      "Y": -623.12,
+      "Z": 357.55
+    },
+    {
+      "Name": "Honey Flower",
+      "X": 30.25,
+      "Y": -417.12,
+      "Z": 379.89
+    },
+    {
+      "Name": "Honey Flower",
+      "X": 168.03,
+      "Y": -511.72,
+      "Z": 382.94
+    },
+    {
+      "Name": "Honey Flower",
+      "X": 375.41,
+      "Y": -687.47,
+      "Z": 404.78
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -468.75,
+      "Y": -446.98,
+      "Z": 259.86
+    },
+    {
+      "Name": "Orichalcum Ore",
+      "X": -469.39,
+      "Y": -276.28,
+      "Z": 323.45
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -748.52,
+      "Y": -619.59,
+      "Z": 342.08
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -977.82,
+      "Y": -589.39,
+      "Z": 367.57
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1061.86,
+      "Y": -346.93,
+      "Z": 325.06
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1200.02,
+      "Y": -323.85,
+      "Z": 286.23
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -1151.86,
+      "Y": 11.2,
+      "Z": 256.21
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1038.23,
+      "Y": 100.39,
+      "Z": 239.87
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1183.89,
+      "Y": 166.46,
+      "Z": 81.85
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1110.36,
+      "Y": 360.22,
+      "Z": -0.39
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -987.12,
+      "Y": 278.04,
+      "Z": 68.87
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -990.66,
+      "Y": 646.85,
+      "Z": 0.04
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -805.82,
+      "Y": 668.04,
+      "Z": 2.93
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -839.93,
+      "Y": 504.04,
+      "Z": 1.16
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -674.33,
+      "Y": 234.55,
+      "Z": 1.16
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -693.04,
+      "Y": 161.17,
+      "Z": 0.61
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -764.26,
+      "Y": 96.04,
+      "Z": 2.27
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -713.99,
+      "Y": 34.81,
+      "Z": 0.6
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -369.23,
+      "Y": 77.16,
+      "Z": 164.2
+    },
+    {
+      "Name": "Orichalcum Ore",
+      "X": -1.16,
+      "Y": 647.06,
+      "Z": 88.57
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -21.41,
+      "Y": 421.4,
+      "Z": 183.52
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -284.26,
+      "Y": -75.42,
+      "Z": 264.19
+    },
+    {
+      "Name": "Honey Flower",
+      "X": 117.5,
+      "Y": -0.38,
+      "Z": 186.76
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 106.25,
+      "Y": 374.63,
+      "Z": 263.51
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 390.99,
+      "Y": 16.54,
+      "Z": 379.45
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 527.62,
+      "Y": -238.31,
+      "Z": 382.7
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 781.25,
+      "Y": -413.67,
+      "Z": 375.65
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 845.23,
+      "Y": 49.38,
+      "Z": 398.87
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 884.15,
+      "Y": 281.62,
+      "Z": 113.95
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 851.77,
+      "Y": -303.7,
+      "Z": 360.34
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 1054.84,
+      "Y": -40.44,
+      "Z": 390.91
+    },
+    {
+      "Name": "Orichalcum Ore",
+      "X": 452.32,
+      "Y": 534.42,
+      "Z": 142.71
+    },
+    {
+      "Name": "Honey Flower",
+      "X": 373.98,
+      "Y": -686.16,
+      "Z": 404.67
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 423.75,
+      "Y": -767.92,
+      "Z": 416.99
+    },
+    {
+      "Name": "Honey Flower",
+      "X": 167.51,
+      "Y": -511.63,
+      "Z": 382.84
+    },
+    {
+      "Name": "Honey Flower",
+      "X": 29.43,
+      "Y": -416.3,
+      "Z": 380.11
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -112.95,
+      "Y": -717.98,
+      "Z": 366.72
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -144.45,
+      "Y": -548.72,
+      "Z": 382.09
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -215.11,
+      "Y": -465.9,
+      "Z": 264.33
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -295.6,
+      "Y": -431.41,
+      "Z": 253.38
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -749.5,
+      "Y": -619.5,
+      "Z": 342.04
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -825.56,
+      "Y": -625.54,
+      "Z": 342.52
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1113.34,
+      "Y": -447.86,
+      "Z": 329.09
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1262.49,
+      "Y": -83.13,
+      "Z": 262.97
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1170.89,
+      "Y": 87.22,
+      "Z": 249.1
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -965.23,
+      "Y": 74.36,
+      "Z": 255.01
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -691.85,
+      "Y": 161.48,
+      "Z": 0.46
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -598.24,
+      "Y": 78.56,
+      "Z": 2.81
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -674.67,
+      "Y": 235.16,
+      "Z": 1.13
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -841.23,
+      "Y": 502.63,
+      "Z": 1.33
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -990.61,
+      "Y": 646.89,
+      "Z": 0.03
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1111.18,
+      "Y": 360.75,
+      "Z": -0.23
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -1176.91,
+      "Y": 316.58,
+      "Z": 2.39
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -781.25,
+      "Y": 329.55,
+      "Z": 2.71
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -203.84,
+      "Y": 340.26,
+      "Z": 95.25
+    },
+    {
+      "Name": "Honey Flower",
+      "X": 88.76,
+      "Y": -591.31,
+      "Z": 370.71
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -237.65,
+      "Y": -796.58,
+      "Z": 382.92
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -800.97,
+      "Y": -521.29,
+      "Z": 311.68
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -646.31,
+      "Y": -328.67,
+      "Z": 250.18
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -645.39,
+      "Y": -356.39,
+      "Z": 249.65
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -527.18,
+      "Y": -349.12,
+      "Z": 250.16
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1110.14,
+      "Y": -57.4,
+      "Z": 248.82
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -1332.38,
+      "Y": -137.89,
+      "Z": 259.37
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": 86.52,
+      "Y": -467.71,
+      "Z": 371.98
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -12.13,
+      "Y": -367.37,
+      "Z": 385.51
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -91.46,
+      "Y": -346.2,
+      "Z": 362.79
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -12.26,
+      "Y": -710.77,
+      "Z": 380.92
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1196.45,
+      "Y": -187.04,
+      "Z": 269.01
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -1029.52,
+      "Y": 536.34,
+      "Z": 0.15
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -992.4,
+      "Y": 431.58,
+      "Z": 1.18
+    },
+    {
+      "Name": "Honey Flower",
+      "X": -835.92,
+      "Y": 640.73,
+      "Z": 0.26
+    },
+    {
+      "Name": "Lowland Pine Sapling",
+      "X": -120.77,
+      "Y": 665.39,
+      "Z": 20.21
+    }
+  ]
+}

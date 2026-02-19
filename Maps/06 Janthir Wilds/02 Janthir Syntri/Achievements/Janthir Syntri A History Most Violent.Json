@@ -1,0 +1,150 @@
+{
+  "Name": "janthirsyntri_ahistorymostviolent",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "sinner",
+  "LastUpdated": "2025-08-07T13:36:22.3920982Z",
+  "StartGameMapId": 1554,
+  "Coordinates": [
+    {
+      "Name": "#1  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": 813.31,
+      "Y": -763.66,
+      "Z": 1.8
+    },
+    {
+      "Name": "#2  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": 296.93,
+      "Y": -558.95,
+      "Z": 2.83
+    },
+    {
+      "Name": "#3  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": 31.06,
+      "Y": -503.11,
+      "Z": 17.63
+    },
+    {
+      "Name": "#4  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": 518.99,
+      "Y": 882.11,
+      "Z": -2.45
+    },
+    {
+      "Name": "#5  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -226.62,
+      "Y": -383.65,
+      "Z": 26.65
+    },
+    {
+      "Name": "#6  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -585.2,
+      "Y": -251.54,
+      "Z": 108.46
+    },
+    {
+      "Name": "#7  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -594.11,
+      "Y": -100.13,
+      "Z": 65.39
+    },
+    {
+      "Name": "#8  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -928.57,
+      "Y": -966.44,
+      "Z": 27.21
+    },
+    {
+      "Name": "#9  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -864.66,
+      "Y": -476.06,
+      "Z": -16.97
+    },
+    {
+      "Name": "#10  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -111.63,
+      "Y": 147.87,
+      "Z": 69.36
+    },
+    {
+      "Name": "#11  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -480.28,
+      "Y": 416.27,
+      "Z": 98.94
+    },
+    {
+      "Name": "#12  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": 812.95,
+      "Y": -763.69,
+      "Z": 1.8
+    },
+    {
+      "Name": "#13  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": 663.05,
+      "Y": -782.3,
+      "Z": 1.21
+    },
+    {
+      "Name": "#14  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": 50.88,
+      "Y": -619.53,
+      "Z": 39.39
+    },
+    {
+      "Name": "#15  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -471.16,
+      "Y": -947.09,
+      "Z": 67.75
+    },
+    {
+      "Name": "#16  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -466.91,
+      "Y": -621.9,
+      "Z": 19.67
+    },
+    {
+      "Name": "#17  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -833.13,
+      "Y": -37.25,
+      "Z": 68.95
+    },
+    {
+      "Name": "#18  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -284.23,
+      "Y": 884.71,
+      "Z": 48.53
+    },
+    {
+      "Name": "#19  [Janthir Syntri] ",
+      "TargetMapId": 1554,
+      "X": -1020.21,
+      "Y": 481.34,
+      "Z": 61.65
+    },
+    {
+      "Name": "final",
+      "TargetMapId": 1554,
+      "X": 812.29,
+      "Y": -764.66,
+      "Z": 1.8
+    }
+  ]
+}

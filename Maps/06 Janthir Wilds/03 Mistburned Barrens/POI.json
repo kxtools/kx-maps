@@ -1,0 +1,113 @@
+{
+  "Name": "Mistburned Barrens POI",
+  "Coordinates": [
+    {
+      "Name": "The Obsidian Rise",
+      "X": -1223.23,
+      "Y": 7.6,
+      "Z": 116.35
+    },
+    {
+      "Name": "Construct Graveyard",
+      "X": -1150.32,
+      "Y": 203.17,
+      "Z": 83.67
+    },
+    {
+      "Name": "Valravn's Vigil",
+      "X": -1235.99,
+      "Y": 524.52,
+      "Z": 184.55
+    },
+    {
+      "Name": "Saul's Vision",
+      "X": -1106.75,
+      "Y": 726.43,
+      "Z": 95.64
+    },
+    {
+      "Name": "Collapsed Arch",
+      "X": -547.69,
+      "Y": 543.5,
+      "Z": 243.26
+    },
+    {
+      "Name": "Tarn of True Sight",
+      "X": -625.67,
+      "Y": 210.68,
+      "Z": 161.93
+    },
+    {
+      "Name": "Ruin Outpost",
+      "X": -1023.17,
+      "Y": 163.35,
+      "Z": 100.2
+    },
+    {
+      "Name": "The Obsidian Star",
+      "X": -927.32,
+      "Y": -3.25,
+      "Z": 155.49
+    },
+    {
+      "Name": "The Veiled Library",
+      "X": -567.98,
+      "Y": 10.73,
+      "Z": 103.06
+    },
+    {
+      "Name": "The Gilded Approach",
+      "X": -392.17,
+      "Y": 4.16,
+      "Z": 104.87
+    },
+    {
+      "Name": "The Unseen Passage",
+      "X": -465.77,
+      "Y": -157.68,
+      "Z": 108.62
+    },
+    {
+      "Name": "Forge of the Blood Phenom",
+      "X": -336.19,
+      "Y": -476.51,
+      "Z": 74.98
+    },
+    {
+      "Name": "Celsa's Orchard",
+      "X": -392.02,
+      "Y": -722.32,
+      "Z": 165.92
+    },
+    {
+      "Name": "The Channeling Chamber",
+      "X": -683.84,
+      "Y": -709.75,
+      "Z": 125.03
+    },
+    {
+      "Name": "Hall of Passing",
+      "X": -742.62,
+      "Y": -769.77,
+      "Z": 9.27
+    },
+    {
+      "Name": "Lakeside Watch",
+      "X": -1050.63,
+      "Y": -688.83,
+      "Z": 1.23
+    },
+    {
+      "Name": "Altar of the Accursed",
+      "X": -936.0,
+      "Y": -251.31,
+      "Z": 69.22
+    },
+    {
+      "Name": "Yagon's Gift (Agony)",
+      "X": -343.82,
+      "Y": 472.92,
+      "Z": 1.67
+    }
+  ]
+}

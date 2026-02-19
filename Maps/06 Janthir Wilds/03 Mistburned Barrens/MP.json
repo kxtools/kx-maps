@@ -1,0 +1,41 @@
+{
+  "Name": "Mistburned Barrens MP",
+  "Coordinates": [
+    {
+      "Name": "Mistburned Barrens Insight: Hidden Sacrarium",
+      "X": -995.93,
+      "Y": 639.39,
+      "Z": 12.03
+    },
+    {
+      "Name": "Mistburned Barrens Insight: Alliance Staging Ground",
+      "X": -1269.97,
+      "Y": 112.05,
+      "Z": 194.4
+    },
+    {
+      "Name": "Mistburned Barrens Insight: The Golden Lake Overlook",
+      "X": -1230.53,
+      "Y": -744.32,
+      "Z": 61.81
+    },
+    {
+      "Name": "Mistburned Barrens Mastery Insight: Grand Athenaeum",
+      "X": -531.5,
+      "Y": 47.05,
+      "Z": 225.84
+    },
+    {
+      "Name": "Mistburned Barrens Insight: The Laboratory Mirror (Mursaat Mirror)",
+      "X": -516.96,
+      "Y": -801.13,
+      "Z": 263.8
+    },
+    {
+      "Name": "Mistburned Barrens Insight: Valley of Agony Mirror (Mursaat Mirror)",
+      "X": -750.76,
+      "Y": 480.69,
+      "Z": 182.59
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Name": "Vista",
+  "Coordinates": [
+    {
+      "Name": "Old Hutment Site South Vista",
+      "X": 806.75,
+      "Y": -911.79,
+      "Z": 74.59
+    },
+    {
+      "Name": "Old Hutment Site North Vista",
+      "X": 934.41,
+      "Y": -548.19,
+      "Z": 73.29
+    },
+    {
+      "Name": "Echoing Hills Vista",
+      "X": 619.76,
+      "Y": 54.17,
+      "Z": 44.06
+    },
+    {
+      "Name": "Summerstorm Watch Vista",
+      "X": 576.34,
+      "Y": 734.67,
+      "Z": 95.84
+    },
+    {
+      "Name": "Sulfurous Springs Vista",
+      "X": -551.52,
+      "Y": 713.47,
+      "Z": 140.13
+    },
+    {
+      "Name": "Moldering Greenwood Vista",
+      "X": -908.79,
+      "Y": -228.83,
+      "Z": 112.77
+    },
+    {
+      "Name": "Blood Hill Vista",
+      "X": -18.58,
+      "Y": -120.22,
+      "Z": 15.9
+    },
+    {
+      "Name": "Slithering Outskirts Vista",
+      "X": 134.97,
+      "Y": -477.51,
+      "Z": 57.71
+    }
+  ]
+}

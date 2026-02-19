@@ -1,0 +1,47 @@
+{
+  "Name": "WP",
+  "Coordinates": [
+    {
+      "Name": "Astral Ward Moon Camp",
+      "X": 684.6,
+      "Y": -693.74,
+      "Z": 520.55
+    },
+    {
+      "Name": "Hot Springs",
+      "X": -422.95,
+      "Y": -597.15,
+      "Z": 262.25
+    },
+    {
+      "Name": "Harvest Den",
+      "X": 663.16,
+      "Y": 50.61,
+      "Z": 269.32
+    },
+    {
+      "Name": "Autumn's Vale",
+      "X": -130.57,
+      "Y": 112.15,
+      "Z": 54.05
+    },
+    {
+      "Name": "Journeykin Outpost",
+      "X": -884.37,
+      "Y": -76.74,
+      "Z": 259.04
+    },
+    {
+      "Name": "Harvest Shore",
+      "X": 860.3,
+      "Y": 693.7,
+      "Z": 3.11
+    },
+    {
+      "Name": "Portal to Janthir Syntri",
+      "X": 851.6,
+      "Y": 743.29,
+      "Z": 1.69
+    }
+  ]
+}

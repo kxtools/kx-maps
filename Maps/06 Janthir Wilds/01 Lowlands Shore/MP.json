@@ -1,0 +1,71 @@
+{
+  "Name": "HP",
+  "Coordinates": [
+    {
+      "Name": "Lupine Reverie",
+      "X": 1004.29,
+      "Y": 259.4,
+      "Z": 446.93
+    },
+    {
+      "Name": "Ruminant Fields",
+      "X": 706.49,
+      "Y": 623.29,
+      "Z": 105.6
+    },
+    {
+      "Name": "Severed Isle",
+      "X": 568.75,
+      "Y": -458.61,
+      "Z": 467.92
+    },
+    {
+      "Name": "Battle of Ice Memorial",
+      "X": -405.77,
+      "Y": 527.4,
+      "Z": 253.3
+    },
+    {
+      "Name": "Waterfall Roost",
+      "X": -267.4,
+      "Y": -138.62,
+      "Z": 305.0
+    },
+    {
+      "Name": "Springs Stand",
+      "X": -518.84,
+      "Y": -730.82,
+      "Z": 380.22
+    },
+    {
+      "Name": "Trolls Treasure",
+      "X": -928.99,
+      "Y": -678.84,
+      "Z": 372.16
+    },
+    {
+      "Name": "Geyser Flow",
+      "X": -638.84,
+      "Y": -370.03,
+      "Z": 307.32
+    },
+    {
+      "Name": "Alessias Secret",
+      "X": -1182.75,
+      "Y": 188.94,
+      "Z": 74.88
+    },
+    {
+      "Name": "Pokys Perch",
+      "X": 261.79,
+      "Y": -136.19,
+      "Z": 412.48
+    },
+    {
+      "Name": "Clearings Peak",
+      "X": 1082.9,
+      "Y": -307.15,
+      "Z": 526.72
+    }
+  ]
+}

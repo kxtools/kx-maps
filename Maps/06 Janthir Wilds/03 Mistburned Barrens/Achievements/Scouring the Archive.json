@@ -1,0 +1,48 @@
+{
+  "Name": "Scouring the Archive",
+  "Author": "balut420",
+  "Coordinates": [
+    {
+      "Name": "scouringthearchive_spot01",
+      "X": -870.24222,
+      "Y": 109.043313,
+      "Z": 81.337071
+    },
+    {
+      "Name": "scouringthearchive_spot02",
+      "X": -738.26937,
+      "Y": -73.636287,
+      "Z": 129.10818
+    },
+    {
+      "Name": "scouringthearchive_spot03",
+      "X": -518.80785,
+      "Y": 54.601791,
+      "Z": 136.23972
+    },
+    {
+      "Name": "scouringthearchive_spot04",
+      "X": -619.94091,
+      "Y": 80.725884,
+      "Z": 103.990719
+    },
+    {
+      "Name": "scouringthearchive_spot05",
+      "X": -626.57922,
+      "Y": -53.935377,
+      "Z": 136.19544
+    },
+    {
+      "Name": "scouringthearchive_spot06",
+      "X": -450.77409,
+      "Y": 19.206942,
+      "Z": 103.034025
+    },
+    {
+      "Name": "scouringthearchive_spot07",
+      "X": -1229.08611,
+      "Y": -13.357185,
+      "Z": 116.381739
+    }
+  ]
+}

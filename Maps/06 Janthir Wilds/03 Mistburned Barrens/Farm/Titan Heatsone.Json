@@ -1,0 +1,474 @@
+{
+  "Name": "",
+  "Author": "",
+  "Coordinates": [
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1224.87,
+      "Y": 377.24,
+      "Z": 91.96
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -852.65,
+      "Y": 39.28,
+      "Z": 55.27
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -864.8,
+      "Y": -628.88,
+      "Z": 54.14
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -529.1,
+      "Y": 410.73,
+      "Z": 102.82
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1041.75,
+      "Y": 331.28,
+      "Z": 87.12
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1252.24,
+      "Y": 207.11,
+      "Z": 91.79
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1076,
+      "Y": -88.58,
+      "Z": 98.38
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -576.87,
+      "Y": -567.84,
+      "Z": 118.93
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1279.56,
+      "Y": -390.22,
+      "Z": 60.67
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1254.9,
+      "Y": -650.81,
+      "Z": 2.62
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1020.01,
+      "Y": -205.84,
+      "Z": 81.56
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -958.52,
+      "Y": -23.69,
+      "Z": 95.54
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -717.67,
+      "Y": 14.18,
+      "Z": 94.94
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -288.11,
+      "Y": 21.43,
+      "Z": 105.39
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -691.73,
+      "Y": -195.18,
+      "Z": 99.71
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1238.61,
+      "Y": 438.49,
+      "Z": 94.56
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1197.32,
+      "Y": 518.59,
+      "Z": 93.93
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1238.54,
+      "Y": 311.4,
+      "Z": 91.25
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -520.39,
+      "Y": 336.45,
+      "Z": 112.7
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -938.65,
+      "Y": 308.63,
+      "Z": 95.83
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -923.17,
+      "Y": -178.89,
+      "Z": 77.33
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -872,
+      "Y": -310.13,
+      "Z": 73.32
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -927.03,
+      "Y": -736.56,
+      "Z": -0.35
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1088.2,
+      "Y": -166.99,
+      "Z": 89.49
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -916.43,
+      "Y": -6.72,
+      "Z": 234.28
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -766.76,
+      "Y": 19.7,
+      "Z": 55.4
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -349.1,
+      "Y": -262.47,
+      "Z": 260.42
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -716.43,
+      "Y": 143.25,
+      "Z": 94.94
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -245.72,
+      "Y": -15.55,
+      "Z": 106.86
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1051.17,
+      "Y": 278.45,
+      "Z": 88.8
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -969.95,
+      "Y": -585.35,
+      "Z": -0.35
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -758.68,
+      "Y": -192.71,
+      "Z": 88.02
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -773.72,
+      "Y": 270.74,
+      "Z": 99.78
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -864.99,
+      "Y": -582.59,
+      "Z": 54.01
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1211.76,
+      "Y": 616.9,
+      "Z": 90.36
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -733.29,
+      "Y": 562.77,
+      "Z": 109.56
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -472.53,
+      "Y": 301.64,
+      "Z": 108.53
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -202.32,
+      "Y": -36.76,
+      "Z": 121.52
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -814.66,
+      "Y": 141.92,
+      "Z": 94.94
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -682.49,
+      "Y": -342.59,
+      "Z": 88.3
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -636.87,
+      "Y": -282.51,
+      "Z": 96.77
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -262.27,
+      "Y": -191.14,
+      "Z": 257.97
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -958.16,
+      "Y": -127.82,
+      "Z": 100.17
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1205.09,
+      "Y": -233.86,
+      "Z": 87.3
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1159.81,
+      "Y": -266.04,
+      "Z": 79.65
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -961.04,
+      "Y": -805.19,
+      "Z": -0.3
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1179.97,
+      "Y": -556.89,
+      "Z": -0.28
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -835.54,
+      "Y": -263.61,
+      "Z": 77.21
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -836.46,
+      "Y": -153.13,
+      "Z": 73.2
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1247.4,
+      "Y": 240,
+      "Z": 90.42
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -802.03,
+      "Y": 631.32,
+      "Z": 96.46
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -659.37,
+      "Y": 336.89,
+      "Z": 106.68
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -854.69,
+      "Y": 127.82,
+      "Z": 55.27
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -965.34,
+      "Y": 186.34,
+      "Z": 101.93
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -872.19,
+      "Y": 85.56,
+      "Z": 76.4
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1102.17,
+      "Y": 559.65,
+      "Z": 92.16
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -651.02,
+      "Y": 647.97,
+      "Z": 115.86
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -880,
+      "Y": 314.81,
+      "Z": 97.8
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -421.67,
+      "Y": 279.7,
+      "Z": 101.02
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -737.21,
+      "Y": -343.28,
+      "Z": 95.95
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1245.61,
+      "Y": -292.9,
+      "Z": 60.95
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -875.1,
+      "Y": 588.54,
+      "Z": 100.6
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -721.28,
+      "Y": 582.07,
+      "Z": 111.22
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -894.14,
+      "Y": -34.03,
+      "Z": 94.94
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -365.79,
+      "Y": -205.86,
+      "Z": 258.84
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1274.74,
+      "Y": -220.64,
+      "Z": 91.19
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1222.28,
+      "Y": -659.19,
+      "Z": 1.78
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -968.02,
+      "Y": -825.13,
+      "Z": -0.35
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1011.99,
+      "Y": 233.67,
+      "Z": 102.71
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -954.58,
+      "Y": 121.74,
+      "Z": 97.43
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -916.02,
+      "Y": 576.08,
+      "Z": 94.9
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -254.26,
+      "Y": 22.56,
+      "Z": 107.47
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -688.61,
+      "Y": 609.15,
+      "Z": 111.32
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -886.82,
+      "Y": 162.51,
+      "Z": 94.94
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -908.87,
+      "Y": -636.54,
+      "Z": -0.35
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1043.64,
+      "Y": 162.33,
+      "Z": 101.41
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -1036.77,
+      "Y": 583.34,
+      "Z": 93.24
+    },
+    {
+      "Name": "titan heatstone clusters",
+      "X": -245.74,
+      "Y": -767.23,
+      "Z": 167.41
+    }
+  ]
+}

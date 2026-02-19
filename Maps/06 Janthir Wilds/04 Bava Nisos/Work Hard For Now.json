@@ -1,0 +1,191 @@
+{
+  "Name": "Work Hard For Now",
+  "Coordinates": [
+    {
+      "Name": "#1 Lion's Arch - Talk to Miyrna",
+      "X": 573.9,
+      "Y": -338.02,
+      "Z": 31.48
+    },
+    {
+      "Name": "#2 Blazeridge Steppes",
+      "X": -231.19,
+      "Y": 815.32,
+      "Z": 139.8
+    },
+    {
+      "Name": "#3 Bloodtide Coast",
+      "X": -352.25,
+      "Y": -990.28,
+      "Z": 29.69
+    },
+    {
+      "Name": "#4 Brisband Wildlands",
+      "X": -292.4,
+      "Y": 878.94,
+      "Z": 7.28
+    },
+    {
+      "Name": "#5 Caledon Forrest",
+      "X": 364.89,
+      "Y": -158.4,
+      "Z": 23.8
+    },
+    {
+      "Name": "#6 Cursed Shore",
+      "X": 400.1,
+      "Y": 605.64,
+      "Z": 10.6
+    },
+    {
+      "Name": "#7 Diessa Plateau",
+      "X": -1273.48,
+      "Y": -746.26,
+      "Z": 94.04
+    },
+    {
+      "Name": "#8 Dredgehaunt Cliffs",
+      "X": -4.71,
+      "Y": -101.12,
+      "Z": 172.98
+    },
+    {
+      "Name": "#9 Dry Top",
+      "X": 287.72,
+      "Y": -306.72,
+      "Z": 81.94
+    },
+    {
+      "Name": "#10 Fields of Ruin",
+      "X": 951.3,
+      "Y": 511.28,
+      "Z": 47.84
+    },
+    {
+      "Name": "#11 Fireheart Rise",
+      "X": 994.91,
+      "Y": 710.14,
+      "Z": 76.51
+    },
+    {
+      "Name": "#12 Frostgorge Sound",
+      "X": 482.31,
+      "Y": 535.93,
+      "Z": 89.5
+    },
+    {
+      "Name": "#13 Gendarran Fields",
+      "X": -311.45,
+      "Y": -582.63,
+      "Z": 79.9
+    },
+    {
+      "Name": "#14 Harathi Hinterlands",
+      "X": -338.96,
+      "Y": -350.2,
+      "Z": 104.34
+    },
+    {
+      "Name": "#15 Iron Marches",
+      "X": -381.34,
+      "Y": 1312.83,
+      "Z": 96.88
+    },
+    {
+      "Name": "#16 Kessex Hills",
+      "X": -587.78,
+      "Y": 529.14,
+      "Z": 112.72
+    },
+    {
+      "Name": "#17 Lornars Pass",
+      "X": 271.44,
+      "Y": -393.57,
+      "Z": 205.15
+    },
+    {
+      "Name": "#18 Malchor's Leap",
+      "X": 215.27,
+      "Y": -72.22,
+      "Z": 136.36
+    },
+    {
+      "Name": "#19 Metrica Province",
+      "X": 412.3,
+      "Y": -460.15,
+      "Z": 82.19
+    },
+    {
+      "Name": "#20 Mount Maelstrom",
+      "X": 939.04,
+      "Y": 856.37,
+      "Z": 38.81
+    },
+    {
+      "Name": "#21 Plains of Ashford",
+      "X": 981.96,
+      "Y": 417.69,
+      "Z": 4.28
+    },
+    {
+      "Name": "#22 Queensdale",
+      "X": -117.3,
+      "Y": -301.67,
+      "Z": 18.87
+    },
+    {
+      "Name": "#23 Snowden Drifts",
+      "X": 1280.92,
+      "Y": -498.67,
+      "Z": 177.48
+    },
+    {
+      "Name": "#24 Southsun Cove",
+      "X": -307.02,
+      "Y": 138.62,
+      "Z": 51.44
+    },
+    {
+      "Name": "#25 Sparkfly Fen",
+      "X": -420.24,
+      "Y": -1116.46,
+      "Z": 42.24
+    },
+    {
+      "Name": "#26 Straits of Devastation",
+      "X": -729.59,
+      "Y": -904.34,
+      "Z": 39.01
+    },
+    {
+      "Name": "#27 Silverwaste",
+      "X": -335.5,
+      "Y": 175.64,
+      "Z": 573.14
+    },
+    {
+      "Name": "#28 Timberline Falls",
+      "X": -406.8,
+      "Y": -196.31,
+      "Z": 43.48
+    },
+    {
+      "Name": "#29 Wayfarer Foothills",
+      "X": -88.35,
+      "Y": -692.0,
+      "Z": 218.59
+    },
+    {
+      "Name": "#30 Lions Arch - Return to Miyrna",
+      "X": 573.3,
+      "Y": -337.25,
+      "Z": 31.5
+    },
+    {
+      "Name": "#31 Lions Arch - Gharr, we found this artifact",
+      "X": -800.14,
+      "Y": 441.21,
+      "Z": 1.99
+    }
+  ]
+}

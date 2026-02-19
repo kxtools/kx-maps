@@ -1,0 +1,29 @@
+{
+  "Name": "WP",
+  "Coordinates": [
+    {
+      "Name": "Forager's Hunt",
+      "X": 745.93,
+      "Y": -765.34,
+      "Z": 1.38
+    },
+    {
+      "Name": "Festering Basin",
+      "X": -392.88,
+      "Y": -573.52,
+      "Z": 9.84
+    },
+    {
+      "Name": "Sanguine Crater",
+      "X": -444.65,
+      "Y": 70.01,
+      "Z": 102.33
+    },
+    {
+      "Name": "Stricken Plains",
+      "X": 223.24,
+      "Y": 719.07,
+      "Z": 3.31
+    }
+  ]
+}

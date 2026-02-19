@@ -1,0 +1,209 @@
+{
+  "Name": "Gettin The Crew Together",
+  "Coordinates": [
+    {
+      "Name": "Start",
+      "X": 688.39,
+      "Y": -679.14,
+      "Z": 483.69
+    },
+    {
+      "Name": "Talk to Snuggle Stone",
+      "X": 685.41,
+      "Y": -615.95,
+      "Z": 486.42
+    },
+    {
+      "Name": "Report Back",
+      "X": 688.39,
+      "Y": -679.14,
+      "Z": 483.69
+    },
+    {
+      "Name": "Talk to Ms Jeeves",
+      "X": 545.14,
+      "Y": 101.0,
+      "Z": 184.5
+    },
+    {
+      "Name": "Start Salmon Run Adventure",
+      "X": 619.57,
+      "Y": -592.84,
+      "Z": 382.89
+    },
+    {
+      "Name": "Talk to Salty The Sly",
+      "X": -607.67,
+      "Y": -87.54,
+      "Z": -1.74
+    },
+    {
+      "Name": "Wait for Frog Collection Event",
+      "X": -165.13,
+      "Y": -208.37,
+      "Z": 184.1
+    },
+    {
+      "Name": "Grab a Frog and Jump in Water",
+      "X": -224.9,
+      "Y": -314.45,
+      "Z": 184.57
+    },
+    {
+      "Name": "Talk to Ms Legs the Temptress",
+      "X": -1081.33,
+      "Y": 126.76,
+      "Z": 3.65
+    },
+    {
+      "Name": "Talk to Fang the Wise Guy",
+      "X": 628.74,
+      "Y": -140.99,
+      "Z": 261.58
+    },
+    {
+      "Name": "Idle here for Warclaw Event",
+      "X": 637.8,
+      "Y": -94.04,
+      "Z": 263.62
+    },
+    {
+      "Name": "Pick up Special Cabbage",
+      "X": 618.65,
+      "Y": -84.0,
+      "Z": 263.97
+    },
+    {
+      "Name": "Give Cabbage to Fang",
+      "X": 629.49,
+      "Y": -141.07,
+      "Z": 261.58
+    },
+    {
+      "Name": "Successfully complete the event Help Sheltering Dusk heal the wounded wolf pup",
+      "X": 63.81,
+      "Y": -633.6,
+      "Z": 375.8
+    },
+    {
+      "Name": "find Mrs. Night, the Eyes and Ears at Timber Cave",
+      "X": 620.04,
+      "Y": -858.1,
+      "Z": 417.08
+    },
+    {
+      "Name": "Get Jar from Blossoming",
+      "X": 1065.74,
+      "Y": -60.72,
+      "Z": 394.09
+    },
+    {
+      "Name": "Grab honey",
+      "X": 1100.74,
+      "Y": -77.11,
+      "Z": 422.35
+    },
+    {
+      "Name": "Talk to Ms Buzz",
+      "X": 1132.25,
+      "Y": -137.49,
+      "Z": 424.76
+    },
+    {
+      "Name": "Complete Ardent Gale ValRavn event",
+      "X": -204.92,
+      "Y": -49.23,
+      "Z": 241.01
+    },
+    {
+      "Name": "Talk to Ms Blood after event",
+      "X": 200.79,
+      "Y": -211.31,
+      "Z": 415.18
+    },
+    {
+      "Name": "Check back in with Ms. Jeeves",
+      "X": 545.14,
+      "Y": 101.0,
+      "Z": 184.5
+    },
+    {
+      "Name": "Head to Janthir Syntri",
+      "X": 851.41,
+      "Y": 744.15,
+      "Z": 1.64
+    },
+ {
+      "Name": "Find Mr Ribbington",
+      "X": 825.55,
+      "Y": -839.5,
+      "Z": 4.14
+    },
+    {
+      "Name": "Start/Abandon Save The Woodland Creatures adventure",
+      "X": -390.72,
+      "Y": -707.65,
+      "Z": 53.31
+    },
+ {
+      "Name": "Talk to Mr. Hop, the Speedster, Mr. Shadow, the Drama King, and Ms. Stripes, the Masked Bandit nearby",
+      "X": -390.72,
+      "Y": -707.65,
+      "Z": 53.31
+    },
+{
+      "Name": "Pick up debris from event",
+      "X": 771.31,
+      "Y": 596.42,
+      "Z": 0.53
+    },
+{
+      "Name": "Talk to Ms Claws, the Brains",
+      "X": 764.14,
+      "Y": 527.6,
+      "Z": 10.73
+    },
+{
+      "Name": "Defeat the Adolsecent Leviathan (idle spot)",
+      "X": 1042.88,
+      "Y": 548.97,
+      "Z": 54.1
+    },
+{
+      "Name": "Talk to Mr Razor",
+      "X": 1059.59,
+      "Y": 568.19,
+      "Z": -1.36
+    },
+{
+      "Name": "Back to Mr Ribbington",
+      "X": 825.55,
+      "Y": -839.5,
+      "Z": 4.14
+    },
+{
+      "Name": "Back to Lowlands Shore",
+      "X": 527.78,
+      "Y": -1013.99,
+      "Z": 10.93
+    },
+{
+      "Name": "Check back in with Ms. Jeeves",
+      "X": 545.14,
+      "Y": 101.0,
+      "Z": 184.5
+    },
+{
+      "Name": "Talk to Ms. Jeeves at Timber Cave",
+      "X": 628.52,
+      "Y": -843.14,
+      "Z": 415.32
+    },
+ {
+      "Name": "Head back to talk to Zizel",
+      "X": 688.39,
+      "Y": -679.14,
+      "Z": 483.69
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "Name": "Bava Nisos POI",
+  "Coordinates": [
+    {
+      "Name": "Alliance Camp",
+      "X": -688.49,
+      "Y": -2.91,
+      "Z": 119.99
+    },
+	{
+      "Name": "Gullet's Beginning",
+      "X": -210.31,
+      "Y": -23.17,
+      "Z": 122.09
+    },
+	{
+      "Name": "The Gilded Road",
+      "X": -241.77,
+      "Y": -337.85,
+      "Z": 78.04
+    },
+	{
+      "Name": "Southern Organ Chamber",
+      "X": 166.24,
+      "Y": -559.93,
+      "Z": 109.45
+    },
+    {
+      "Name": "The Trodden Forum",
+      "X": 517.12,
+      "Y": -400.08,
+      "Z": 187.67
+    },
+    {
+      "Name": "Mists Gate",
+      "X": 735.01,
+      "Y": -25.22,
+      "Z": 379.17
+    },
+    {
+      "Name": "Gilded Forum",
+      "X": 493.65,
+      "Y": 380.49,
+      "Z": 186.33
+    },
+    {
+      "Name": "Gullet's End",
+      "X": 192.83,
+      "Y": 62.18,
+      "Z": 211.54
+    },
+    {
+      "Name": "Mirror Nexus",
+      "X": -231.58,
+      "Y": 426.75,
+      "Z": 153.01
+    },
+    {
+      "Name": "Northern Organ Chamber",
+      "X": 153.76,
+      "Y": 550.4,
+      "Z": 205.85
+    }
+  ]
+}

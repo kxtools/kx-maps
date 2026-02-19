@@ -1,0 +1,17 @@
+{
+  "Name": "Bava Nisos WP",
+  "Coordinates": [
+    {
+      "Name": "Mantle's Arrival Waypoint",
+      "X": -711.45,
+      "Y": -22.64,
+      "Z": 120.33
+    },
+	{
+      "Name": "Hidden Nodule Waypoint",
+      "X": 739.51,
+      "Y": -497.6,
+      "Z": 42.26
+    }
+  ]
+}

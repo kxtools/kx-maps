@@ -1,0 +1,30 @@
+{
+  "Name": "Janthir Syntri_shardscouter",
+  "Author": "sinner",
+  "Coordinates": [
+    {
+      "Name": "#1  [Janthir Syntri] ",
+      "X": 19.79,
+      "Y": -499.81,
+      "Z": 24.42
+    },
+    {
+      "Name": "#2  [Janthir Syntri] ",
+      "X": 72.48,
+      "Y": -918.68,
+      "Z": 107.64
+    },
+    {
+      "Name": "#3  [Janthir Syntri] ",
+      "X": -647.19,
+      "Y": -290.71,
+      "Z": 0.5
+    },
+    {
+      "Name": "#4  [Janthir Syntri] ",
+      "X": -153.26,
+      "Y": 136.49,
+      "Z": 41.97
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "Name": "Lowland shores -  Star-Crossed Lovers",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-18T13:14:38.9683250Z",
+  "StartGameMapId": 1550,
+  "Coordinates": [
+    {
+      "Name": "Talk to Flowering Meadow at Harvest Den.[Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 696.3,
+      "Y": -19.45,
+      "Z": 314.65
+    },
+    {
+      "Name": "Gather five wildflowers for Flowering Meadow.[Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 963.27,
+      "Y": 39.0,
+      "Z": 392.29
+    },
+    {
+      "Name": "Progress is tracked with Wildflower; you will not be notified when you have the necessary five. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 995.74,
+      "Y": 7.69,
+      "Z": 391.98
+    },
+    {
+      "Name": "need to be handed in at Flowering Meadow to progress [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 696.35,
+      "Y": -19.46,
+      "Z": 314.65
+    },
+    {
+      "Name": "Deliver wildflowers and a love letter to a kodan named Winter Sky. [Frostgorge Sound] ",
+      "TargetMapId": 1550,
+      "X": -727.58,
+      "Y": -481.4,
+      "Z": 39.67
+    },
+    {
+      "Name": "Successsfully complete an event relating to the Sanctuary bridge.[Frostgorge Sound] ",
+      "TargetMapId": 1550,
+      "X": -751.59,
+      "Y": -422.51,
+      "Z": 7.62
+    },
+    {
+      "Name": "talk to Winter Sky again.[Frostgorge Sound] ",
+      "TargetMapId": 1550,
+      "X": -751.59,
+      "Y": -422.51,
+      "Z": 7.62
+    },
+    {
+      "Name": "Search around for a Corrupted Ice Shard (bundle) on the ground, grab it [Frostgorge Sound] ",
+      "TargetMapId": 1550,
+      "X": -1085.81,
+      "Y": 1078.92,
+      "Z": 14.86
+    },
+    {
+      "Name": "take it back to Winter Sky. [Frostgorge Sound]",
+      "TargetMapId": 1550,
+      "X": -727.21,
+      "Y": -481.85,
+      "Z": 39.66
+    },
+    {
+      "Name": "Deliver an ice sculpture and a message to Flowering Meadow. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 696.35,
+      "Y": -19.46,
+      "Z": 314.65
+    },
+    {
+      "Name": "Get honey from the honey-gathering event. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 1067.64,
+      "Y": -61.52,
+      "Z": 394.28
+    },
+    {
+      "Name": "Get healing herbs from the Heal the wounded wolf pup or Heal the wounded fawn events. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 666.03,
+      "Y": -308.17,
+      "Z": 380.98
+    },
+    {
+      "Name": "Give the ingredients to Flowering Meadow. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 696.33,
+      "Y": -19.61,
+      "Z": 314.83
+    },
+    {
+      "Name": "Give Winter Sky the healing concoction. [Frostgorge Sound]",
+      "TargetMapId": 1550,
+      "X": -727.21,
+      "Y": -481.85,
+      "Z": 39.66
+    },
+    {
+      "Name": "Meet Flowering Meadow and Winter Sky in Harvest Den. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 696.27,
+      "Y": -19.63,
+      "Z": 314.74
+    },
+    {
+      "Name": "Talk Distant Thunder. [Lowland Shore]",
+      "TargetMapId": 1550,
+      "X": 709.09,
+      "Y": -37.95,
+      "Z": 314.88
+    },
+    {
+      "Name": "Earn Distant Thunder's trust by completing events in Harvest Den. [Lowland Shore]",
+      "TargetMapId": 1550,
+      "X": 848.26,
+      "Y": 368.37,
+      "Z": 116.72
+    },
+    {
+      "Name": "Convince Distant Thunder to let Winter Sky stay. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 708.9,
+      "Y": -38.03,
+      "Z": 314.98
+    },
+    {
+      "Name": "Go back to the couple at their homestead in Harvest Den. [Lowland Shore] ",
+      "TargetMapId": 1550,
+      "X": 748.03,
+      "Y": -83.18,
+      "Z": 303.66
+    },
+  ]
+}

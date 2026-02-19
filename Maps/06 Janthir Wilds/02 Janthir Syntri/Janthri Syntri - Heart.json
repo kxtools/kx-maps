@@ -1,0 +1,31 @@
+{
+  "Name": "Janthri Syntri - Heart ",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-18T14:05:37.9449060Z",
+  "StartGameMapId": 1554,
+  "Coordinates": [
+    {
+      "Name": "Janthri Syntri - Old Hutment Site",
+      "TargetMapId": 1554,
+      "X": 753.31,
+      "Y": -781.13,
+      "Z": 2.8
+    },
+    {
+      "Name": "Echoing Hills",
+      "TargetMapId": 1554,
+      "X": 613.81,
+      "Y": 32.27,
+      "Z": 48.8
+    },
+    {
+      "Name": "Festering Basin",
+      "TargetMapId": 1554,
+      "X": -371.75,
+      "Y": -614.86,
+      "Z": 11.32
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Mistburned Barrens Vista",
+  "Coordinates": [
+    {
+      "Name": "Hidden Sacrarium Vista",
+      "X": -854.14,
+      "Y": 737.02,
+      "Z": 250.13
+    },
+    {
+      "Name": "Alliance Staging Ground Vista",
+      "X": -1089.39,
+      "Y": 4.48,
+      "Z": 155.63
+    },
+    {
+      "Name": "Garden of the Unseen Vista",
+      "X": -224.43,
+      "Y": -737.77,
+      "Z": 367.98
+    }
+  ]
+}

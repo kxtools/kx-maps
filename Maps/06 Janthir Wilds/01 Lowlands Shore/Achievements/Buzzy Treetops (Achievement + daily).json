@@ -1,0 +1,53 @@
+{
+  "Name": "Buzzy Treetops (Achievement + daily)",
+  "Coordinates": [
+  {
+      "Name": "Start",
+      "X": 1066.68,
+      "Y": -61.3,
+      "Z": 394.23
+    },
+    {
+      "Name": "Mrs. Buzz's Beehive",
+      "X": 1101.45,
+      "Y": -77.84,
+      "Z": 422.31
+    },
+ {
+      "Name": "Ebuzzabeth's Beehive",
+      "X": 1109.42,
+      "Y": -71.44,
+      "Z": 438.6
+    },
+    {
+      "Name": "Bob's Beehive",
+      "X": 1093.4,
+      "Y": -62.76,
+      "Z": 438.83
+    },
+    {
+      "Name": "Buzzem's Behive",
+      "X": 1092.34,
+      "Y": -107.33,
+      "Z": 432.89
+    },
+    {
+      "Name": "McBuzzer's Behive",
+      "X": 1089.86,
+      "Y": -129.79,
+      "Z": 435.12
+    },
+    {
+      "Name": "Buzzie's Beehive",
+      "X": 1053.33,
+      "Y": -88.27,
+      "Z": 414.68
+    },
+    {
+      "Name": "Buzzlinda's Beehive",
+      "X": 1096.75,
+      "Y": -117.69,
+      "Z": 450.42
+    }
+  ]
+}

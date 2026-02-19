@@ -1,0 +1,101 @@
+{
+  "Name": "Tales of the Lowland Wisps ",
+  "Coordinates": [
+    {
+      "Name": "Meet with Stalwart",
+      "X": 678.42,
+      "Y": -664.83,
+      "Z": 483.69
+    },
+    {
+      "Name": "Search under the moon",
+      "X": 657.09,
+      "Y": -515.07,
+      "Z": 426.65
+    },
+    {
+      "Name": "Search in the forest",
+      "X": 1160.14,
+      "Y": -522.36,
+      "Z": 465.59
+    },
+    {
+      "Name": "Found among the bones of fallen prey",
+      "X": 1171.54,
+      "Y": 67.65,
+      "Z": 408.86
+    },
+    {
+      "Name": "Hidden near the cove",
+      "X": 962.23,
+      "Y": 524.67,
+      "Z": 1.01
+    },
+    {
+      "Name": "Search below the lake",
+      "X": -78.2,
+      "Y": 616.68,
+      "Z": 22.69
+    },
+    {
+      "Name": "Return to Stalwart heart",
+      "X": 678.8,
+      "Y": -665.99,
+      "Z": 483.69
+    },
+    {
+      "Name": "Meet with Valiant Aria",
+      "X": -177.7,
+      "Y": 563.56,
+      "Z": 133.25
+    },
+    {
+      "Name": "Found in the bog by small stream",
+      "X": -624.77,
+      "Y": 315.38,
+      "Z": 28.11
+    },
+    {
+      "Name": "Search on the cliffs",
+      "X": -264.85,
+      "Y": 67.25,
+      "Z": 160.56
+    },
+    {
+      "Name": "Found on the rocks",
+      "X": -37.53,
+      "Y": 297.13,
+      "Z": 12.49
+    },
+    {
+      "Name": "Hidden in the southern tundra",
+      "X": 21.44,
+      "Y": -475.77,
+      "Z": 367.6
+    },
+    {
+      "Name": "Search by the springs",
+      "X": -681.17,
+      "Y": -568.88,
+      "Z": 266.23
+    },
+    {
+      "Name": "Meet with Stalwart Heart",
+      "X": -956.9,
+      "Y": -704.3,
+      "Z": 375.79
+    },
+    {
+      "Name": "Hidden in Harvest Den",
+      "X": 834.16,
+      "Y": 220.28,
+      "Z": 125.9
+    },
+    {
+      "Name": "Return to Stalwart Heart",
+      "X": -183.3,
+      "Y": 563.6,
+      "Z": 133.3
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "Name": "Case 382: Titan Organ Smuggling",
+  "Author": "",
+  "Coordinates": [
+    {
+      "Name": "Find Chief Inspector Lutze in Mantel's Arrival, near the Faction Provisioners.  [Bava Niso] ",
+      "X": -791.79,
+      "Y": 92.33,
+      "Z": 115.33
+    },
+    {
+      "Name": "Take everything out of the crate and check for traps. [Bava Niso] ",
+      "X": -685.57,
+      "Y": -22.26,
+      "Z": 120.38
+    },
+    {
+      "Name": "Return to Chief Inspector Lutze and ask for the list of suspects. [Bava Niso] ",
+      "X": -791.7,
+      "Y": 92.17,
+      "Z": 115.32
+    },
+    {
+      "Name": "This is where the elite live; there must be something here. [Salma District (Home)] ",
+      "X": 253.72,
+      "Y": 203.32,
+      "Z": 92.72
+    },
+    {
+      "Name": "You found a large amount of gold; looks like there is a note nearby.  [Salma District (Home)] ",
+      "X": 183.32,
+      "Y": 254.45,
+      "Z": 101.36
+    },
+    {
+      "Name": "The note ties Countess Cindy Breaud to the smuggling ring. Chief Inspector Lutze would like to see this.  [Salma District (Home)] ",
+      "X": 208.71,
+      "Y": 250.69,
+      "Z": 100.84
+    },
+    {
+      "Name": "The note ties Countess Cindy Breaud to the smuggling ring.   [Salma District (Home)] ",
+      "X": 210.04,
+      "Y": 254.93,
+      "Z": 101.89
+    },
+    {
+      "Name": "Lutze thinks there is a potential buyer among the elite of Divinity's Reach. Where do the rich like Lord Faren live again?  [Bava Niso] ",
+      "X": -791.64,
+      "Y": 92.22,
+      "Z": 115.33
+    },
+    {
+      "Name": "You found a crate of smuggled organs a charr was carrying, [Bava Niso] ",
+      "X": -741.93,
+      "Y": -62.26,
+      "Z": 120.03
+    },
+    {
+      "Name": "The note ties Sarurninus Deepsmoke to the smuggling ring  [Bava Niso] ",
+      "X": -754.74,
+      "Y": -68.31,
+      "Z": 115.97
+    },
+    {
+      "Name": "Chief Inspector Lutze would like to see this. [Bava Niso] ",
+      "X": -791.87,
+      "Y": 92.07,
+      "Z": 115.32
+    },
+    {
+      "Name": "Talk to both Ylani and Isla. [Bava Niso] ",
+      "X": -664.94,
+      "Y": 17.72,
+      "Z": 120.04
+    },
+    {
+      "Name": "Read the note located on the scaffolding above Isla. [Bava Niso] ",
+      "X": -675.83,
+      "Y": 18.61,
+      "Z": 127.1
+    },
+    {
+      "Name": "Go back to Lutze and reveal that Isla has fudged an extra 25 Priory tomes in her account than what's written on the manifest.  [Bava Niso] ",
+      "X": -791.69,
+      "Y": 92.19,
+      "Z": 115.32
+    },
+    {
+      "Name": "Read the shipping manifest  [Lion's Arch] ",
+      "X": -375.84,
+      "Y": -92.63,
+      "Z": 1.83
+    },
+    {
+      "Name": "Talk to Alden Wamser  [Lion's Arch] ",
+      "X": -169.35,
+      "Y": -113.31,
+      "Z": 0.92
+    },
+    {
+      "Name": "Complete the Use debris in the environment to help destroy the titan organ sacs event  [Bava Niso] ",
+      "X": 360,
+      "Y": 617.34,
+      "Z": 119.67
+    },
+    {
+      "Name": " talk to Jaxi  [Bava Niso] ",
+      "X": 314.18,
+      "Y": 564.55,
+      "Z": 122.85
+    },
+    {
+      "Name": "Interact with the dropped note  [Bava Niso] ",
+      "X": 323.22,
+      "Y": 554.6,
+      "Z": 121.53
+    },
+    {
+      "Name": "Report back to Chief Inspector Lutze with the evidence.  [Bava Niso] ",
+      "X": -791.74,
+      "Y": 92.11,
+      "Z": 115.32
+    },
+    {
+      "Name": "Talk to Chief Inspector Lutze after handing in all the evidence.  [Bava Niso] ",
+      "X": -791.67,
+      "Y": 92.21,
+      "Z": 115.32
+    },
+    {
+      "Name": "Go to Twinspur Haven in Wayfarer Foothills [Wayfarer Foothills] ",
+      "X": 21.02,
+      "Y": 149.71,
+      "Z": 96.3
+    },
+    {
+      "Name": "Read the Paritally Burned Notes on the western wall of Twinspur Haven. [Wayfarer Foothills] ",
+      "X": -4.19,
+      "Y": 164.53,
+      "Z": 120.02
+    },
+    {
+      "Name": "You'll find Hedda's Stash with a Letter to Hedda. [Lion's Arch] ",
+      "X": -743.16,
+      "Y": 511.35,
+      "Z": 13.37
+    },
+    {
+      "Name": "Talk to Lutze to finish the achievement. [Bava Niso] ",
+      "X": -791.67,
+      "Y": 92.17,
+      "Z": 115.32
+    }
+  ]
+}

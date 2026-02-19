@@ -1,0 +1,78 @@
+{
+  "Name": "Mursaat's Game",
+  "Author": "EternalSuffer",
+  "Coordinates": [
+    {
+      "Name": "Mistburned Spot 2",
+      "X": -826.83552,
+      "Y": 744.29268,
+      "Z": 250.19061
+    },
+    {
+  "Name": "Mistburned Spot 3",
+  "X": -1283.8617,
+  "Y": -37.443537,
+  "Z": 115.467972
+    },
+    {
+    "Name": "TP to Lowland Shore - Spot 4",
+    "X": 720.75909,
+    "Y": 186.76443,
+    "Z": 212.82567
+    },
+    {
+    "Name": "Lowland Shore - Spot 5",
+    "X": -483.99516,
+    "Y": -641.83737,
+    "Z": 256.96668
+    },
+    {
+  "Name": "TP to Janthir Syntri - Spot 6",
+  "X": -563.5368,
+  "Y": -174.01302,
+  "Z": 238.86477
+    },
+    {
+  "Name": "Janthir Syntri - Spot 7",
+  "X": 1027.86549,
+  "Y": 382.73787,
+  "Z": 17.48691
+    },
+    {
+    "Name": "Mistburned Spot 8 -  only accessible after the Agony Field Survey (north Lane) event chain",
+    "X": -182.78046,
+    "Y": 584.73339,
+    "Z": 0.34825974
+    },
+  {
+  "Name": "Mistburned Spot 9",
+  "X": -232.70247,
+  "Y": -697.2009,
+  "Z": 219.97074
+  },
+  {
+  "Name": "Mistburned Spot 10",
+  "X": -1223.73684,
+  "Y": 48.890532,
+  "Z": 200.44449
+  },
+  {
+  "Name": "Mistburned Spot 11",
+  "X": -754.66527,
+  "Y": 476.23017,
+  "Z": 182.5443
+  },
+  {
+  "Name": "Mistburned Spot 12",
+  "X": -826.83552,
+  "Y": 744.29268,
+  "Z": 250.19061
+  },
+  {
+  "Name": "Mistburned Spot 13",
+  "X": -1283.9109,
+  "Y": -41.244606,
+  "Z": 115.467972
+  }
+  ]
+}

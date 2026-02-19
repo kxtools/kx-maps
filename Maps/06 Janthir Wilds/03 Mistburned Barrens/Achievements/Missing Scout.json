@@ -1,0 +1,36 @@
+{
+  "Name": "Missing Scout spot",
+  "Author": "balut420",
+  "Coordinates": [
+    {
+      "Name": "missingscout_spot01",
+      "X": -1280.9958,
+      "Y": -39.195918,
+      "Z": 115.467972
+    },
+    {
+      "Name": "missingscout_spot02",
+      "X": -1282.3365,
+      "Y": -37.670103,
+      "Z": 115.467972
+    },
+    {
+      "Name": "missingscout_spot03",
+      "X": -1185.51582,
+      "Y": 683.99193,
+      "Z": 90.094794
+    },
+    {
+      "Name": "missingscout_spot04",
+      "X": -1185.29688,
+      "Y": 683.87754,
+      "Z": 90.094794
+    },
+    {
+      "Name": "missingscout_spot05",
+      "X": -826.87488,
+      "Y": 743.89908,
+      "Z": 250.1697
+    }
+  ]
+}
